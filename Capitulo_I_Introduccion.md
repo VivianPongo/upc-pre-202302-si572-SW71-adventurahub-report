@@ -18,6 +18,17 @@ El nombre del startup es DreamTeam.
 </div>
 <br>
 <div>
+	<img src="https://media.licdn.com/dms/image/D4E03AQFDLPART1I-3w/profile-displayphoto-shrink_800_800/0/1691110465244?e=1699488000&v=beta&t=TljtuSRSDL8LfDC64B-cRYFl4XpCbEFrley1tqOfca8" width="80" height="80">
+	<div>
+		<u>
+			<strong> Renato Clotario Castillo Rengifo - U201511892</strong>
+		</u>
+		<p>
+			Soy Renato Castillo, elegí la Ingeniería de Software por el interés en aplicar la tecnología para el bienestar humano y entretenimiento. Me gusta crear proyectos personales y compartir conocimiento en diferentes entornos multidisciplinarios.
+		</p>
+	</div>
+</div>
+<div>
 	<img src="https://media.licdn.com/dms/image/C5603AQGpjf4xvNfuBA/profile-displayphoto-shrink_400_400/0/1615794067269?e=1699488000&v=beta&t=g7Z3lnv2RdYrZXcwbNMmRHa6Q-preTyvZS-fBZx6cj0" width="80" height="80">
 	<div>
 		<u>
