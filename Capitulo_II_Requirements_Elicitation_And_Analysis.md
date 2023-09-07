@@ -265,14 +265,14 @@ LLENAR RESUMEN
   <tr>
     <td colspan="2">Evidencia
 			<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/tb1/entrevista-1.png" alt="Entrevista Evidencia">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-1.png" alt="Entrevista Evidencia">
 			</div>
 		</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a href="https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2/" title="Title">https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2</p>
+		<p><a target="_blank"  href="https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2/" title="Title">https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2</p>
 		</td>
   </tr>
   <tr>
