@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/images/UPC.png" alt="UPC">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/UPC.png" alt="UPC">
 </div>
 
 **Universidad Peruana de Ciencias Aplicadas**
