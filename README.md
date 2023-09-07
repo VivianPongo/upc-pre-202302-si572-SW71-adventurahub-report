@@ -10,7 +10,7 @@ Ciclo: 2023-2
 
 **Curso: Arquitectura de Software Emergente**
 
-**Sección: SW71**
+**Sección: WX82**
 
 **Profesor: Angel Augusto Velásquez Núñez**
 
