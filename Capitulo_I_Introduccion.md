@@ -17,7 +17,17 @@ El nombre del startup es DreamTeam.
     </div>
 </div>
 <br>
-
+<div>
+	<img src="https://media.licdn.com/dms/image/C5603AQGpjf4xvNfuBA/profile-displayphoto-shrink_400_400/0/1615794067269?e=1699488000&v=beta&t=g7Z3lnv2RdYrZXcwbNMmRHa6Q-preTyvZS-fBZx6cj0" width="80" height="80">
+	<div>
+		<u>
+			<strong> Alessandro Paris Chumpitaz Paredes - U201523840</strong>
+		</u>
+		<p>
+			Apasionado por la tecnología y el software, siempre tratando de aprender algo nuevo cada dia, para aplicarlo en proyectos reales o personales, en especial si es relacionado al análisis de datos y desarrollo mobile. Siempre tratando de compartir lo que aprendo a través de mi formación.
+		</p>
+	</div>
+</div>
 <br>
 
 ## 1.2 Solution Profile
