@@ -284,12 +284,234 @@ LLENAR RESUMEN
   <tr>
     <td>Resumen</td>
     <td>Se realizó una entrevista a Anderson Gamarra, estudiante universitario de 20 años que actualmente reside en Lima, Perú. Él nos comenta que la frecuencia con la que viaja es durante sus vacaciones a mitad de año junto a su familia, por lo que busca en internet todo lo relacionado desde el destino hasta las actividades que harán durante su viaje. Además, nos menciona que le toma días, incluso meses realizar esta tarea, ya que no tiene un medio que se lo facilite, y que por lo general la mayoría de las veces que busca en internet solo encuentra los vuelos para el destino elegido, pero no las actividades para dicho destino. Los servicios que suele contratar a menudo en internet son el hospedaje y una guía con las actividades, pero le desagrada que las guías de las actividades a realizar se lo entreguen cuando llega a su destino y no con antelación.
-
-Por último, considera importante la posibilidad de tener el horario de todas las actividades desde el inicio hasta el final del viaje de forma detallada y que permita a todos los involucrados en el viaje la posibilidad de ver el itinerario y las actividades de la reserva en su dispositivo con su propia cuenta.
+		<br>
+		Por último, considera importante la posibilidad de tener el horario de todas las actividades desde el inicio hasta el final del viaje de forma detallada y que permita a todos los involucrados en el viaje la posibilidad de ver el itinerario y las actividades de la reserva en su dispositivo con su propia cuenta.
 </td>
   </tr>
 </tbody>
 </table>
+
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Diego Fabian</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Cabrera Zelada</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Cajamarca</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom, Discord</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Aprovechar las pocas vacaciones que tiene</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Dificil encontrar paquetes de viaje economicos.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora de Escritorio, Smartphone, Tablet</td>
+  </tr>
+  <tr>
+    <td colspan="2">Evidencia
+			<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-2.png" alt="Entrevista Evidencia">
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://web.microsoftstream.com/video/29f68fc1-dafb-43cf-94b1-1722e7037d9b/" title="Title">https://web.microsoftstream.com/video/29f68fc1-dafb-43cf-94b1-1722e7037d9b</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		8:48 min
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Diego Cabrera Zelada es un estudiante de ingeniería industrial que suele viajar mucho dentro del país por los proyectos que posee con la empresa con la que trabaja, pero suele vacacionar 2 veces al año con su familia. Se le complica viajar en familia. Para él una empresa de viajes debería ofrecer transporte puntual y buenos precios con gente capacitada en el turismo.
+		<br> Se le complica vacacionar fuera del país por temas como el pasaporte, leyes, visa, hospedaje, entre otras. En las agencias de viaje suele contratar paquetes que incluyan alojamiento, vuelo y un vehículo para su movilización. Vacacionando con su familia dentro del país ha gastado un aproximado de 4000-5000 soles en un fin de semana junto con su familia, gastando gran parte de su presupuesto en el alojamiento. Suele organizar sus viajes en un itinerario en la agenda de su celular. Las aplicaciones que más usa al momento de realizar viajes son: para el alojamiento Airbnb y Kayak. Y Hooper, para vuelos baratos. 
+		<br>Nos comenta que le gustaría una aplicación para mejorar su organización combinando las funcionalidades y opciones de las aplicaciones anteriores, para poder comparar mejor los precios y ofertas disponibles. Y también poder registrar y organizar su itinerario para una mejor planificación.  
+
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Jose</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Rondan Perez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Word, Google Meet</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Sobresalir y ayudar a su familia</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Cada dia disminuyen la cantidad de clientes potenciales.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Smartphone, Tablet, Laptop</td>
+  </tr>
+  <tr>
+    <td colspan="2">Evidencia
+			<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-3.png" alt="Entrevista Evidencia">
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://youtu.be/3o3b5o-gmwI/" title="Title">https://youtu.be/3o3b5o-gmwI</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		8:48 min
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+				Diego Cabrera Zelada es un estudiante de ingeniería industrial que suele viajar mucho dentro del país por los proyectos que posee con la empresa con la que trabaja, pero suele vacacionar 2 veces al año con su familia. Se le complica viajar en familia. Para él una empresa de viajes debería ofrecer transporte puntual y buenos precios con gente capacitada en el turismo.
+		<br> Se le complica vacacionar fuera del país por temas como el pasaporte, leyes, visa, hospedaje, entre otras. En las agencias de viaje suele contratar paquetes que incluyan alojamiento, vuelo y un vehículo para su movilización. Vacacionando con su familia dentro del país ha gastado un aproximado de 4000-5000 soles en un fin de semana junto con su familia, gastando gran parte de su presupuesto en el alojamiento. Suele organizar sus viajes en un itinerario en la agenda de su celular. Las aplicaciones que más usa al momento de realizar viajes son: para el alojamiento Airbnb y Kayak. Y Hooper, para vuelos baratos. 
+		<br>Nos comenta que le gustaría una aplicación para mejorar su organización combinando las funcionalidades y opciones de las aplicaciones anteriores, para poder comparar mejor los precios y ofertas disponibles. Y también poder registrar y organizar su itinerario para una mejor planificación.  
+
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Roxana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Melgranejo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Word, Google Meet</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Hacer crecer el negocio y expandirse</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Los clientes tienen problemas con los vuelos.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Computadora Escritorio</td>
+  </tr>
+  <tr>
+    <td colspan="2">Evidencia
+			<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-4.png" alt="Entrevista Evidencia">
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2/" title="Title">https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		9:53 min
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		La entrevistada, Roxana Melgarejo, de 58 años, es administradora de empresas y trabaja en una agencia de viajes en Lima, Perú. Se considera una persona extrovertida y toma decisiones de acuerdo con los hechos en su vida personal y profesional. Usa un smartphone Android y un programa de reservas de boletos y autos llamado Amadeus. <br> En cuanto a la contratación de servicios, los clientes pueden contratar diferentes servicios como venta de aéreos, paquetes turísticos, seguros de viaje y alquileres de auto, y lo hacen a través de la agencia por diferentes formas, incluso por WhatsApp y con frecuencia hasta en los fines de semana. En cuanto a los procesos de reserva de alojamiento y transporte en los tours, Roxana comenta que los pasajeros solicitan programas a través de WhatsApp y ella cotiza con sus operadores de extranjero y les manda opciones de acuerdo con las solicitudes de cada pasajero. La entrevistada menciona que tuvo un percance con un pasajero que reservó un hotel en Barcelona, ya que el cliente quería algo económico y no se había informado sobre las restricciones de edad del hotel.<br> La reserva se tuvo que cancelar y se le tuvo que devolver el dinero al cliente. Respecto a las aerolíneas, Roxana comenta que antes daban todo incluido, pero ahora los clientes pueden escoger diferentes opciones que varían en cuanto al equipaje que pueden llevar. También menciona que ha tenido problemas con retrasos y cancelaciones de vuelos, pero que ha logrado solucionarlos con los clientes y las aerolíneas. En general, la entrevista proporciona información útil sobre cómo funciona la industria del turismo y cómo los clientes pueden contratar servicios a través de una agencia de viajes. También se destacan los posibles percances que pueden ocurrir en el proceso de reserva y cómo se pueden solucionar. 
+
+</td>
+  </tr>
+</tbody>
+</table>
+
 
 ### 2.2.3 Análisis de entrevistas
 
