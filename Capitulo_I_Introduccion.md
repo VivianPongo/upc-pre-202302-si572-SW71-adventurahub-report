@@ -61,6 +61,18 @@ El nombre del startup es DreamTeam.
 		</p>
 	</div>
 </div>
+<div>
+	<img src="./resources/profile-images/patrick.png" width="80" height="80">
+	<div>
+		<u>
+			<strong> Patrick Johan Cuentas Mariano - U201819125</strong>
+		</u>
+		<p>
+			EElegí la carrera de Ingeniería de Software porque me llama mucho la atención la evolución de la tecnología en el mundo y sobre todo la lógica detrás de todos los softwares que son indispensables en la actualidad. Con esta carrera busco contribuir en la elaboración de software de calidad en todo ámbito laboral con los conocimientos adquiridos en la UPC y con la experiencia estando en esta.
+		</p>
+	</div>
+</div>
+
 <br>
 
 ## 1.2 Solution Profile
