@@ -120,6 +120,115 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
 </tbody>
 </table>
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan="3">Scenario Refinement for US011 Scenario 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="2">Scenario</td>
+    <td class="tg-0pky">Como usuario registrado, quiero <br>recibir un recibo de mi pago por <br>correo electrónico después de hacer <br>una reserva exitosa, para tener un <br>registro de mi transacción, en menos <br>de 1 segundo.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Business Goals</td>
+    <td class="tg-0pky">Sistema confiable, característica <br>principal.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Relevant Quality Attribute</td>
+    <td class="tg-0pky">Operabilidad y Performance</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="6">Scenario Components</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stimulus</span></td>
+    <td class="tg-0pky">Usuario selecciona el botón <br>“Pagar”</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Stimulus Source</td>
+    <td class="tg-0pky">Botón en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Environment</td>
+    <td class="tg-0pky">Vista relacionada en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Artifact (if known)</td>
+    <td class="tg-0pky">Proceso Backend</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response</td>
+    <td class="tg-0pky">Se muestra en el mapa del sistema</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response Measure</td>
+    <td class="tg-0pky">&lt;1 segundo</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Questions</td>
+    <td class="tg-0pky">¿Qué se podría hacer en caso<br> no se mande el correo?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Issues</td>
+    <td class="tg-0pky">El servicio de envío de correo se<br> tendría que desarrollar o usar un<br> servicio externo.</td>
+  </tr>
+</tbody>
+</table>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan="3">Scenario Refinement for US010 Scenario 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="2">Scenario</td>
+    <td class="tg-0pky">Como usuario registrado, quiero<br> poder guardar múltiples métodos de <br>pago en mi perfil, para poder hacer <br>reservas con mayor facilidad y rapidez.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Business Goals</td>
+    <td class="tg-0pky">Sistema confiable, característica <br>principal.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Relevant Quality Attribute</td>
+    <td class="tg-0pky">Operabilidad y Performance</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="6">Scenario Components</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stimulus</span></td>
+    <td class="tg-0pky">Usuario selecciona el botón <br>“Agregar método de pago”</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Stimulus Source</td>
+    <td class="tg-0pky">Botón en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Environment</td>
+    <td class="tg-0pky">Vista relacionada en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Artifact (if known)</td>
+    <td class="tg-0pky">Proceso Backend</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response</td>
+    <td class="tg-0pky">Se muestra en el mapa del sistema</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response Measure</td>
+    <td class="tg-0pky">&lt;1 segundo</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Questions</td>
+    <td class="tg-0pky">¿Qué acción tomaremos si el <br>método de pago no es<br> registrado correctamente?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Issues</td>
+    <td class="tg-0pky">El método de pago podría no<br> registrarse correctamente.</td>
+  </tr>
+</tbody>
+</table>
 
 ### 4.2.2. Candidate Context Discovery
 Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 2 principales que vendrían ser Customer Relationship & Communication, Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
