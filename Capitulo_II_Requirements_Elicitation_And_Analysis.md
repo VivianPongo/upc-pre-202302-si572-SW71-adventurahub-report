@@ -609,85 +609,95 @@ Después de realizar el análisis de las entrevistas del segmento objetivo, nos 
 
 Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Agencia y Cliente.
 
-<table>
+<div align="center">
+<table style="undefined;table-layout: fixed; width: 636px">
+<colgroup>
+<col style="width: 263px">
+<col style="width: 67px">
+<col style="width: 90px">
+<col style="width: 89px">
+<col style="width: 127px">
+</colgroup>
 <thead>
   <tr>
-    <th rowspan="2">Tareas de Usuario</th>
-    <th colspan="2">Segmento Agencias</th>
+    <th rowspan="2">USER TASK<br></th>
+    <th colspan="2">Viajero <br> Andre Perez<br></th>
+    <th colspan="2">Agencia deviajes <br> Ricardo Ruiz<br></th>
   </tr>
   <tr>
-    <th>Frecuencia </th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
     <th>Importancia</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Busquedade paquetes de viaje<br><br></td>
+    <td>Media</td>
+    <td>Mucha</td>
+    <td>Poco usual<br></td>
+    <td>Poca</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Seleccion de paquete de viaje<br></td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+    <td>Media <br></td>
+    <td>Media</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Personalizacion de paquete de viaje<br></td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+    <td>Media <br></td>
+    <td>Media</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reserva de paquete de viaje<br></td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+    <td>Poco usual<br></td>
+    <td>Poco usual<br></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pago de paquete de viaje<br></td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+  </tr>
+  <tr>
+    <td>Seguimiento de pagos y cancelaciones<br></td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Mucha</td>
+    <td>Mucha</td>
+  </tr>
+  <tr>
+    <td>Actualizacion de informacion del viaje<br></td>
+    <td>Poco usual<br></td>
+    <td>Poco usual<br></td>
+    <td>Mucha <br></td>
+    <td>Mucha</td>
+  </tr>
+  <tr>
+    <td>Soporte al cliente<br></td>
+    <td>Media <br></td>
+    <td>Media</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Resolucion de problemas durante el viaje<br></td>
+    <td>Mucha</td>
+    <td>Mucha<br></td>
+    <td>Media</td>
+    <td>Media</td>
   </tr>
 </tbody>
 </table>
-
-<table>
-<thead>
-  <tr>
-    <th rowspan="2">Tareas de Usuario</th>
-    <th colspan="2">Segmento Usuarios</th>
-  </tr>
-  <tr>
-    <th>Frecuencia </th>
-    <th>Importancia</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+</div>
 
 ### 2.3.3 Journey Mapping
 
