@@ -39,6 +39,18 @@ El nombre del startup es DreamTeam.
 		</p>
 	</div>
 </div>
+<div>
+	<img src="https://media.licdn.com/dms/image/C4D03AQFfNxN3yaeDWQ/profile-displayphoto-shrink_400_400/0/1639710633750?e=1699488000&v=beta&t=qL0AepRV4AL3A8ezaVsSkUtIsMM1c7rRFhjCTB7URTc" width="80" height="80">
+	<div>
+		<u>
+			<strong> Miguel Bustillos - U20181F794</strong>
+		</u>
+		<p>
+			Tengo 22 años y curso la carrera de Ingeniería de Software. Desde pequeño, me he envuelto en el mundo de la tecnología y la pasión por crear cosas nuevas desde una computadora. Actualmente, trabajo como Desarrollador Web para un sistema de venta de tickets para buses interprovinciales.
+		</p>
+	</div>
+</div>
+
 <br>
 
 ## 1.2 Solution Profile
