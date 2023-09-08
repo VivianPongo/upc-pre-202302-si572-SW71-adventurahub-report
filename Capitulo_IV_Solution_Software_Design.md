@@ -65,8 +65,22 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
 </table>
 
 ### 4.2.2. Candidate Context Discovery
-Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 2 principales que vendrían ser Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
+Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 2 principales que vendrían ser Customer Relationship & Communication, Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
 
-El primer dominio indentificado es Traveling Expirience Desing and Maintenance el cual utiliza un asistente virtual con el que los usuarios tourist podrán realizar consultas, crear y comprar paquetes de viaje y turismo ofrecidos en la aplicación. Además, el asistente podrá realizar recomendaciones sobre que partes de la aplicación recomienda revisar.
+El primer dominio indentificado es Customer Relationship & Communication, el cual utiliza un asistente virtual con el que los usuarios tourist podrán interactuar y realizar consultas, crear y comprar paquetes de viaje y turismo ofrecidos en la aplicación.
 
-El segundo dominio identificado es Traveling Expirience Booking and Tracking, el cual permitira a los usuarios tourist el poder realizar reservas de los paquetes y hacer seguimiento sobre el estado de estos.
+<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-1.png" alt="Candidate Context Discovery">
+			</div>
+
+El segundo dominio indentificado es Traveling Expirience Desing and Maintenance, el cual permite a los usuarios agency el poder resgistrar, actualizar y eliminar paquetes turisticos y vuelos, y a los usuarios tourist el poder elegir, comprar y ver los paquetes ofrecidos por las agencias.
+
+<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-2.png" alt="Candidate Context Discovery">
+			</div>
+
+El tercer dominio identificado es Traveling Expirience Booking and Tracking, el cual permitira a los usuarios agency el poder crear, remover, actulizar reservas de los paquetes y hacer seguimiento sobre el estado de estos. 
+
+<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-3.png" alt="Candidate Context Discovery">
+			</div>
