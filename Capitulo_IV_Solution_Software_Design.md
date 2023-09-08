@@ -65,12 +65,8 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
 </table>
 
 ### 4.2.2. Candidate Context Discovery
-Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 4 principales que vendrían ser Traveling Plan, Flights, Tour Packege y CRM.
+Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 2 principales que vendrían ser Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
 
-El primer dominio identificado es Traveling Plan, el cual permitirá a los usuarios el poder crear, editar y eliminar planes de viaje.
+El primer dominio indentificado es Traveling Expirience Desing and Maintenance el cual utiliza un asistente virtual con el que los usuarios tourist podrán realizar consultas, crear y comprar paquetes de viaje y turismo ofrecidos en la aplicación. Además, el asistente podrá realizar recomendaciones sobre que partes de la aplicación recomienda revisar.
 
-El segundo dominio identificado es Flights, este ofrece a los usuarios tourist el poder elegir y comprar paquetes de vuelo, y a los usuarios agency el porder registrar, editar y eliminar sus paquetes de vuelo.
-
-El tercer dominio identificado es Tour Packege, este ofrece a los usuarios tourist el poder elegir, comprar y observar disponibilidad de paquetes de vuelo, y a los usuarios agency el porder registrar, editar y eliminar sus paquetes de vuelo y recibir reportes de estadísticas de turistas.
-
-El cuarto dominio utilizado CRM, el cual utiliza un asistente virtual con el que los usuarios tourist podrán realizar consultas, crear y comprar paquetes de viaje y turismo ofrecidos en la aplicación. Además, el asistente podrá realizar recomendaciones sobre que partes de la aplicación recomienda revisar.
+El segundo dominio identificado es Traveling Expirience Booking and Tracking, el cual permitira a los usuarios tourist el poder realizar reservas de los paquetes y hacer seguimiento sobre el estado de estos.
