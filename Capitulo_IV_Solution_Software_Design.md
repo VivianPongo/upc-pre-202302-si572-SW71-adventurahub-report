@@ -84,3 +84,11 @@ El tercer dominio identificado es Traveling Expirience Booking and Tracking, el 
 <div align="center">
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-3.png" alt="Candidate Context Discovery">
 			</div>
+
+## 4.3 Software Architecture
+
+### 4.3.1 Software Archicture System Landscape Diagram
+
+<div align="center">
+  <img src="./resources/tb1/C4-Context-Diagram.png" alt="C4 Context Diagram" />
+</div>
