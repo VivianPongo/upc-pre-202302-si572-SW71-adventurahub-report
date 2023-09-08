@@ -64,6 +64,63 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
   </tbody>
 </table>
 
+### 4.1.5. Quality Attribute Scenario Refinements
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan="3">Scenario Refinement for US07 Scenario 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="2">Scenario</td>
+    <td class="tg-0pky">Como usuario, quiero poder reservar<br> un paquete de viaje en la aplicación, <br>para poder asegurar mi lugar y mi <br>itinerario, se realizará en menos de 1<br> segundo la actualización</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Business Goals</td>
+    <td class="tg-0pky">Sistema confiable, característica <br>principal.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Relevant Quality Attribute</td>
+    <td class="tg-0pky">Funcionalidad y Performance</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="6">Scenario Components</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stimulus</span></td>
+    <td class="tg-0pky">Usuario selecciona el botón<br> “Agendar reserva”</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Stimulus Source</td>
+    <td class="tg-0pky">Botón en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Environment</td>
+    <td class="tg-0pky">Vista relacionada en la app</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Artifact (if known)</td>
+    <td class="tg-0pky">Proceso Backend</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response</td>
+    <td class="tg-0pky">Se muestra en el mapa del sistema</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Response Measure</td>
+    <td class="tg-0pky">&lt;1 segundo</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Questions</td>
+    <td class="tg-0pky">¿Qué paquetes se mostrarán <br>disponibles para agendar la <br>reserva?</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Issues</td>
+    <td class="tg-0pky">Los paquetes de viaje dependen <br>de las agencias que las brindan.</td>
+  </tr>
+</tbody>
+</table>
+
+
 ### 4.2.2. Candidate Context Discovery
 Con el EventStorming realizado se utiliza la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 2 principales que vendrían ser Customer Relationship & Communication, Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
 
