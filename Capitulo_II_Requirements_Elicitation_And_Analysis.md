@@ -593,13 +593,17 @@ Después de realizar el análisis de las entrevistas del segmento objetivo, nos 
 
 <strong>Usuario Agencia de Viajes</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/user-persona-1.png" alt="User Persona">
+</div>
 
 <br>
 
 <strong>Usuario Usuario</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/user-persona-2.png" alt="User Persona">
+</div>
 
 ### 2.3.2 User Task Matrix
 
