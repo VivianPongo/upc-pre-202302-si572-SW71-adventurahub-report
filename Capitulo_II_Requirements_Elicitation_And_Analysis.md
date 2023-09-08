@@ -705,16 +705,18 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Cliente realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/jourey-map-1.png" alt="User Persona">
+</div>
 <br>
 
 <strong>Segmento Usuarios</strong><br>
 
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/jourey-map-2.png" alt="User Persona">
+</div>
 
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
 
@@ -724,23 +726,28 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <strong>Segmento Agencias de Viaje</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-1.png" alt="User Persona">
+</div>
 <br>
 
 <strong>Segmento Usuarios</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-2.png" alt="User Persona">
+</div>
 
 ### 2.3.5 As-Is Sccenario Maps
 
 <strong>Segmento Agencias de Viaje</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="User Persona">
+</div>
 <br>
 
 <strong>Segmento Usuarios</strong><br>
 
-<img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
+<div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="User Persona">
+</div>
