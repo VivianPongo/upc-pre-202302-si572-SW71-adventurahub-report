@@ -1,124 +1,247 @@
 ## 3.1. To-Be Scenario Mapping.
 #### To-Be Scenario Map de las agencias turísticas.
-[![To-Be Scenario Map de las agencias turísticas.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/To-BeScenarioMapping-AgenciaTuristica.png)](https://miro.com/app/board/uXjVMqvH6k0=/?share_link_id=745419928805)
+[![To-Be Scenario Map de las agencias turísticas.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/tobe-agency.png)]()
 
-Enlace: [Documento en Miro](https://miro.com/app/board/uXjVMqvH6k0=/?share_link_id=745419928805)
 
 #### To-Be Scenario Map del usuario turista.
-[![To-Be Scenario Map del usuario turista.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/To-BeScenarioMapping-Turista.png)](https://miro.com/app/board/uXjVMqvH6k0=/?share_link_id=745419928805)
+[![To-Be Scenario Map del usuario turista.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/tobe-user.png)]()
 
-Enlace: [Documento en Miro](https://miro.com/app/board/uXjVMqvH6k0=/?share_link_id=745419928805)
 
 ## 3.2. User Stories.
-### Epics
-| Código | Título de la Epic | Descripción de la Epic |
-| :----: | ------------------ | ----------------------- |
-| EP01   | Búsqueda de Destinos | Como usuario turista, quiero poder buscar y explorar diferentes destinos turísticos para planificar mi viaje de manera más eficiente. |
-| EP02   | Registro de Usuarios Viajeros | Como usuario turista, deseo registrarme en la plataforma para acceder a funcionalidades adicionales y tener un perfil personalizado. |
-| EP03   | Registro de Agencias Turísticas | Como agencia de viajes, quiero registrarme en la plataforma para promocionar mis servicios y llegar a un público más amplio. |
-| EP04   | Reservas de Viajes | Como usuario turista, quiero poder realizar reservas de servicios turísticos de manera fácil y segura a través de la plataforma. |
-| EP05   | Visualización de Ofertas | Como usuario turista, quiero poder ver las ofertas y paquetes turísticos disponibles para tomar decisiones informadas sobre mi viaje. |
-| EP06   | Comunicación entre Usuarios Viajeros y Agencias | Como usuario turista o agencia de viajes, deseo tener un medio de comunicación para hacer consultas, preguntas y recibir respuestas rápidas. |
-| EP07   | Gestión de Promociones | Como agencia de viajes, quiero poder crear y administrar promociones para atraer a más usuarios y aumentar las ventas de mis servicios. |
-| EP08   | Pagos y Facturación | Como usuario turista, quiero tener opciones seguras de pago y recibir facturas detalladas por los servicios turísticos que adquiera. |
-| EP09   | Calificaciones y Reseñas | Como usuario turista, deseo poder calificar y dejar reseñas sobre las experiencias turísticas que tenga, y consultar las opiniones de otros usuarios. |
-| EP10   | Visualización de Reservas | Como usuario turista, quiero poder ver y gestionar todas mis reservas de viajes en un solo lugar para un mejor control. |
-| EP11   | Reportes y Estadísticas | Como agencia de viajes, quiero acceder a informes y estadísticas sobre el rendimiento de mis servicios y las preferencias de los usuarios. |
-| EP12   | Administración de Contenido | Como agencias de viajes de la plataforma, necesito herramientas para administrar y actualizar el contenido de la plataforma de manera eficiente. |
-| EP13   | Mejoras Técnicas y Optimización | Como developer me gustaría administrar las mejoras técnicas y optimización del sistema para garantizar un rendimiento óptimo. |
 
 ### User Stories
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-| :---: | --- | --- | --- | :---: |
-| US01 | Buscar especificaciones según tipo de viaje | Como usuario turista quiero buscar destino según el tipo de viaje que deseo para tener una mejor experiencia en mi viaje | Scenario: usuario turista quiere buscar un destino según sus requerimientos <br><br>**DADO QUE** el usuario turista se encuentre en la página principal de la aplicación <br><br>**Y** haga clic en el botón “Paquetes turísticos” <br><br>**Y** haga clic en “Búsqueda Específica” <br><br>**CUANDO** haga clic en el botón desplegable “Tipo de Viaje” <br><br>**ENTONCES** podrá escoger el tipo de viaje que desee. | EP01 |
-| US02 | Búsqueda por Duración de Viaje | Como usuario turista, quiero buscar destinos según la duración de mi viaje para una mejor organización. | Scenario 1: Búsqueda de destino por duración del viaje <br><br>**DADO QUE** el usuario turista se encuentra en la página principal de la aplicación <br><br>**Y** hace clic en "Paquetes turísticos" <br><br>**Y** selecciona "Búsqueda Específica" <br><br>**CUANDO** hace clic en el botón desplegable "Duración de Viaje" <br><br>**ENTONCES** podrá seleccionar la duración deseada. | EP01 |
-| US03 | Búsqueda por Clima del Destino | Como usuario turista, quiero buscar destinos según el clima para tener una mejor experiencia en mi viaje. | Scenario 1: Búsqueda de destino por tipo de clima <br><br>**DADO QUE** el usuario turista se encuentra en la página principal de la aplicación <br><br>**Y** hace clic en "Paquetes turísticos" <br><br>**Y** selecciona "Búsqueda Específica" <br><br>**CUANDO** hace clic en el botón desplegable "Clima" <br><br>**ENTONCES** podrá seleccionar el tipo de clima deseado. | EP01 |
-| US04 | Obtener Información Detallada del Viaje | Como usuario turista, quiero obtener información detallada sobre un viaje para conocer las escalas y tiempos de espera. | Scenario 1: Obtención de información detallada del viaje <br><br>**DADO QUE** el usuario turista ha elegido un servicio en la aplicación <br><br>**CUANDO** hace clic en "Más información" <br><br>**ENTONCES** aparecerá un cuadro de diálogo con la información detallada. | EP01 |
-| US05 | Selección del Tipo de Servicio | Como usuario turista, quiero especificar el tipo de servicio que necesito para encontrar opciones que se adapten a mis necesidades. | Scenario 1: Selección del tipo de servicio <br><br>**DADO QUE** el usuario turista se encuentra en la página principal de la aplicación <br><br>**CUANDO** hace clic en "Elegir Servicio" <br><br>**ENTONCES** se mostrará la opción "Tipo de Servicio". | EP04 |
-| US06 | Publicación de Promociones | Como agencia de viajes, quiero publicar promociones en la aplicación para ofrecer descuentos a los usuarios interesados. | Scenario 1: Publicación de una promoción <br><br>**DADO QUE** el usuario agencia de viajes se encuentra en la página principal de la aplicación <br><br>**CUANDO** hace clic en "Publicar" <br><br>**ENTONCES** se visualiza un formulario para ingresar la información pertinente. | EP02 |
-| US07 | Subida de Destinos Disponibles | Como agencia de viajes, quiero subir los destinos disponibles para que los usuarios vean los servicios que ofrecemos en cada destino. | Scenario 1: Subida de destinos disponibles <br><br>**DADO QUE** el encargado de la agencia de viajes se encuentra en la pantalla principal <br><br>**Y** presiona el botón "DESTINOS" <br><br>**CUANDO** completa los campos "Nombres de destino" <br><br>**ENTONCES** el sistema guarda la información relacionada con el destino para mostrarla. <br><br>Scenario 2: Adición de más destinos <br><br>**DADO QUE** el encargado de la agencia de viajes está en la pantalla "DESTINOS" <br><br>**Y** presiona el botón "Añadir otro destino" <br><br>**CUANDO** completa los campos "Nombres de destino" <br><br>**ENTONCES** el sistema guarda el nuevo destino para mostrar los servicios en dicho destino. | EP03 |
-| US08 | Subida de Servicios Ofrecidos | Como agencia de viajes, quiero subir los servicios que ofrecemos para mostrar a los clientes nuestras ofertas. | Scenario 1: Subida de servicios en un destino <br><br>**DADO QUE** el encargado de la agencia de viajes se encuentra en la pantalla principal <br><br>**Y** presiona el botón "SERVICIOS" <br><br>**Y** selecciona un destino <br><br>**Y** presiona el botón "Añadir Servicios" <br><br>**CUANDO** completa los campos "Nombre de servicio", "Descripción" y "Precio" <br><br>**ENTONCES** el sistema guarda el servicio en el destino para mostrarlo a los clientes. <br><br>Scenario 2: Adición de más servicios en un destino <br><br>**DADO QUE** el encargado de la agencia de viajes está en la pantalla "SERVICIOS" <br><br>**Y** presiona el botón "Añadir otro servicio" <br><br>**CUANDO** completa los campos requeridos <br><br>**ENTONCES** el sistema guarda los servicios en el destino para mostrarlos a los clientes. | EP03 |
-| US09 | Selección de Hotel | Como usuario turista, quiero elegir un hotel que se adapte a mis necesidades para tener una mejor experiencia en mi viaje. | Scenario 1: Visualización de ofertas de hoteles por destino <br><br>**DADO QUE** el usuario se encuentra en la pantalla principal <br><br>**Y** selecciona un destino <br><br>**CUANDO** presiona el botón "Buscar" <br><br>**ENTONCES** podrá visualizar las ofertas de hoteles para el destino elegido. <br><br>Scenario 2: Elección de una oferta de hotel <br><br>**DADO QUE** el usuario se encuentra en la sección de "Hoteles" según el destino elegido <br><br>**Y** elige un hotel que cumple con sus necesidades <br><br>**CUANDO** presiona el botón "Seleccionar Hotel" <br><br>**ENTONCES** aparecerá una ventana emergente confirmando la elección del hotel. | EP04 |
-| US10 | Selección de Vuelo | Como usuario turista quiero elegir un vuelo de una lista para adaptarlo a mi itinerario. | Scenario 1: Visualización de ofertas de vuelos por destino <br><br>**DADO QUE** el usuario turista se encuentra en la pantalla principal <br><br>**Y** selecciona un destino <br><br>**CUANDO** presiona el botón "Buscar" <br><br>**ENTONCES** podrá visualizar todos los vuelos según el destino. <br><br>Scenario 2: Elección de un vuelo <br><br>**DADO QUE** el usuario se encuentra en la sección "Vuelos" según el destino elegido <br><br>**Y** selecciona el vuelo <br><br>**CUANDO** presiona el botón "Seleccionar Vuelo" <br><br>**ENTONCES** aparecerá una ventana emergente confirmando la elección del vuelo. | EP05 |
-| US11 | Creación de Código de Descuento | Como usuario agencia de viajes quiero crear un código de descuento con límites de cantidad y período para promocionarlos en redes sociales o campañas de publicidad. | Scenario 1: Creación de un código de descuento <br><br>**DADO QUE** el usuario agencia de viajes se encuentra en la sección de Administrador de Promociones <br><br>**CUANDO** selecciona el submenú de Códigos <br><br>**ENTONCES** se le mostrará un formulario para ingresar el nombre del código, el % de descuento, las publicaciones donde se puede aplicar y el período de validez. | EP06 |
-| US12 | Visualización de Reportes de Ventas | Como usuario agencia de viajes quiero ver un reporte de las ventas registradas en un período específico para mantener un registro y hacer seguimiento. | Scenario 1: Visualización de un reporte de ventas de publicaciones <br><br>**DADO QUE** el usuario agencia de viajes se encuentra en su panel administrativo <br><br>**CUANDO** selecciona la sección de Reportes y Análisis <br><br>**ENTONCES** se le mostrará una tabla con los detalles de las últimas ventas, incluyendo el nombre de la publicación, la fecha y hora de compra, el método de pago, el código del usuario, etc. | EP07 |
-| US13 | Visualización de Preguntas de Usuarios | Como usuario agencia de viajes quiero ver las preguntas que hacen los usuarios en mis publicaciones y promociones para gestionarlas adecuadamente. | Scenario 1: Visualización de una lista de preguntas pendientes por responder <br><br>**DADO QUE** el usuario agencia de viajes se encuentra en su panel administrativo <br><br>**CUANDO** selecciona la sección de Preguntas <br><br>**ENTONCES** se le mostrará una tabla con las últimas preguntas realizadas en las publicaciones para que pueda responderlas de manera organizada. | EP09 |
-| US14 | Visualización de Reservas de Viaje | Como usuario turista quiero poder ver mis reservas de viaje para verificar fechas y horarios. | Scenario 1: Visualización de reservas de viaje <br><br>**DADO QUE** el usuario turista se encuentra en la pantalla principal y hace clic en el ícono de su perfil <br><br>**CUANDO** presiona el botón "Mis Viajes" <br><br>**ENTONCES** el usuario podrá ver los detalles de sus reservas. | EP10 |
-| US15 | Pago de Reservas | Como usuario turista quiero pagar mis reservas para obtener confirmaciones de viaje. | Scenario 1: Pago de una reserva con tarjeta <br><br>**DADO QUE** el usuario turista ha seleccionado sus reservas <br><br>**CUANDO** hace clic en el botón "Pagar" en la parte inferior derecha de la página y selecciona la opción "Pagar con Tarjeta" <br><br>**ENTONCES** será redirigido a una nueva pantalla para ingresar los datos necesarios para realizar el pago, y recibirá una notificación por correo electrónico. | EP08 |
-| US16 | Asociación de Medios de Pago | Como usuario quiero asociar mis medios de pago para realizar pagos de reservas de manera más rápida. | Scenario 1: Asociación de un método de pago <br><br>**DADO QUE** el usuario se encuentra en la pantalla principal <br><br>**Y** hace clic en el ícono de su perfil <br><br>**CUANDO** hace clic en "Medios de Pago" <br><br>**ENTONCES** se abrirá una pantalla para agregar sus medios de pago. | EP08 |
-| US17 | Búsqueda de Información de la Agencia de Viaje | Como usuario quiero buscar información de una agencia de viaje para evaluar su calidad antes de viajar con ellos. | Scenario 1: Búsqueda de información de la agencia de viaje <br><br>**DADO QUE** el usuario se encuentra en la pantalla principal <br><br>**Y** hace clic en el perfil de una agencia de viaje <br><br>**CUANDO** hace clic en "Información" <br><br>**ENTONCES** se abrirá una pantalla donde podrá ver las características e información de la empresa de viaje. | EP02 |
-| US18 | Búsqueda de Información de un Hotel | Como usuario quiero buscar información de un hotel para seleccionar un lugar de hospedaje que se ajuste a mi presupuesto. | Scenario 1: Búsqueda de información de un hotel <br><br>**DADO QUE** el usuario se encuentra en la pantalla principal <br><br>**Y** hace clic en el perfil de un hotel <br><br>**CUANDO** hace clic en "Información" <br><br>**ENTONCES** se abrirá una pantalla donde podrá ver las características e información del hotel, ya sea vinculado a una agencia de viaje o independiente. | EP02 |
-| US19 | Búsqueda de Recomendaciones sobre una Agencia | Como usuario quiero buscar recomendaciones sobre una agencia de viaje para conocer las opiniones de otros usuarios. | Scenario 1: Búsqueda de recomendaciones sobre una agencia de viaje <br><br>**DADO QUE** el usuario se encuentra en la pantalla principal <br><br>**Y** hace clic en el perfil de una agencia de viaje <br><br>**CUANDO** hace clic en "Comentarios" <br><br>**ENTONCES** se abrirá una pantalla donde podrá ver los comentarios de otros usuarios y tomar decisiones basadas en las recomendaciones. | EP02 |
-| US20 | Búsqueda de Información del Viajero | Como agencia de viaje quiero buscar información del viajero para conocer su situación económica y ofrecer recomendaciones de viajes con diferentes comodidades. | Scenario 1: Búsqueda de información del viajero <br><br>**DADO QUE** la agencia de viaje se encuentra en la pantalla principal <br><br>**Y** hace clic en el perfil del usuario turista <br><br>**CUANDO** hace clic en "Información" <br><br>**ENTONCES** se abrirá una pantalla donde podrá ver la información básica del usuario. | EP06 |
-| US21 | Visualizar oferta de valor de la aplicación | Como usuario huésped quiero ver la oferta de valor de la aplicación en el landing page para poder hacerme una idea del potencial de la aplicación | **Scenario 1:** El usuario turista visualiza la oferta de valor de la aplicación <br><br>**DADO QUE** el usuario turista ha ingresado al landing page <br><br>**CUANDO** termine de navegar por el landing page <br><br>**ENTONCES** entenderá que es lo que ofrece nuestra aplicación y cómo puede beneficiarle. | EP07 |
-| US22 | Call to Action | Como visitante, quiero ver botones al principio y al final de la página de inicio para conectarme con la Web App. | Scenario: El visitante accede al formulario de conexión con la Web App <br><br>**DADO QUE** el visitante está en la pantalla de inicio <br><br>**CUANDO** hace clic en el botón "Iniciar mi viaje" <br><br>**ENTONCES** será redirigido al inicio de la Web App. | EP07 |
-| US23 | Gestión de Usuarios Viajeros | Como administrador, quiero dar de alta, modificar y eliminar usuarios del rol de viajero para administrar eficientemente. | Scenario 1: Registro de un usuario turista con información válida <br><br>**DADO QUE** el administrador está en el panel de administración <br><br>**CUANDO** el administrador hace clic en "Travelers" y completa los campos con información válida <br><br>**Y** hace clic en "Agregar" <br><br>**ENTONCES** se creará un usuario turista en la base de datos con la información proporcionada.<br><br>**Scenario**: El administrador registra a un usuario turista con información inválida<br><br>**DADO QUE** el usuario está en el panel de administración<br><br>**CUANDO** el usuario hace clic en "Travelers" Y llena los campos con información inválida Y haga clic en "Add"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador modifica un usuario turista con información válida<br><br>**DADO QUE** el administrador está en el panel de administración<br><br>**CUANDO** el administrador hace clic en un usuario turista Y haga clic en "Modificar" Y aparece un formulario de modificación con los datos actuales del usuario turista Y llena los campos con información válida Y haga clic en "Modificar"<br><br>**ENTONCES** el usuario seleccionado seactualizará en la base de datos con la información brindada<br><br>**Scenario**: El administrador modifica a un usuario turista con información inválida<br><br>**DADO QUE** el administrador está en el panel de administración del servicio<br><br>**CUANDO** el administrador hace clic en un usuario turista Y haga clic en "Modificar" Y aparece un formulario de modificación Y llena los campos con información inválida Y haga clic en "Modificar"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador elimina a un usuario turista<br><br>**DADO QUE** el administrador está en el panel de administración de invitados<br><br>**CUANDO** el administrador hace clic en un usuario turista Y haga clic en "Eliminar"<br><br>**ENTONCES** el producto seleccionado será archivado en la base de datos | EP12 |
-| US24 | Gestión de Planes | Como agencia de viajes, quiero tener control sobre los planes que publico para que los viajeros estén informados de los nuevos planes y no adquieran planes agotados. | Scenario 1: Registro de un plan con información válida <br><br>**DADO QUE** la agencia de viajes está en el panel de administración <br><br>**CUANDO** la agencia de viajes hace clic en "Planes" y completa los campos con información válida <br><br>**Y** hace clic en "Agregar" <br><br>**ENTONCES** se creará un plan en la base de datos con la información proporcionada.<br><br>**Scenario**: La agencia de viajes registra un plan con información inválida<br><br>**DADO QUE** la agencia de viajes está en el panel de administración<br><br>**CUANDO** el usuario hace clic en "Planes" Y llena los campos con información inválida Y haga clic en "Add"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: La agencia de viajes registra un plan con información válida<br><br>**DADO QUE** la agencia de viajes está en el panel de administración<br><br>**CUANDO** hace clic en un plan Y haga clic en "Modificar" Y aparece un formulario de modificación con los datos actuales  del plan Y llena los campos con información válida Y haga clic en "Modificar"<br><br>**ENTONCES** el plan seleccionado se actualizará en la base de datos con la información brindada<br><br>**Scenario**: La agencia de viajes  modifica un plan con información inválida<br><br>**DADO QUE** la agencia de viajes está en  el panel de administración del servicio<br><br>**CUANDO** la agencia de viaje hace clic en un plan Y haga clic en "Modificar" Y aparece un formulario de modificación Y llena los campos con información inválida Y haga clic en "Modificar"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: La agencia de viajes elimina un plan<br><br>**DADO QUE** la agencia de viajes está en el panel de administración<br><br>**CUANDO** hace clic en un plan Y haga clic en "Eliminar"<br><br>**ENTONCES** el plan seleccionado será eliminado | EP12 |
-| US25 | Visualización de Agencias | Como usuario, quiero poder ver información de las agencias para conocer su nombre y otros detalles. | Scenario 1: Registro de una agencia con información válida <br><br>**DADO QUE** el usuario está en el panel de administración <br><br>**CUANDO** el usuario hace clic en "Agencias" y completa los campos con información válida <br><br>**Y** hace clic en "Agregar" <br><br>**ENTONCES** se creará una agencia en la base de datos con la información proporcionada.<br><br>**Scenario**: El usuario registra una agencia con información inválida<br><br>**DADO QUE** la persona se encuentra en el panel de administración<br><br>**CUANDO** el usuario hace clic en "Agency" Y llena los campos con información inválida Y haga clic en "Add"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El usuario modifica una agencia con información válida<br><br>**DADO QUE** el usuario está en el panel de administración<br><br>**CUANDO** hace clic en una agencia Y haga clic en "Modificar" Y aparece un formulario de modificación con los datos actuales del plan Y llena los campos con información válida Y haga clic en "Modificar"<br><br>**ENTONCES** la agencia seleccionada se actualizará en la base de datos con la información brindada<br><br>**Scenario**: El usuario registra una agencia con información inválida<br><br>**DADO QUE** el usuario está en el panel de administración<br><br>**CUANDO** el usuario registre una agencia Y haga clic en "Modificar" Y aparece un formulario de modificación Y llena los campos con información inválida Y haga clic en "Modificar"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El usuario elimina un plan<br><br>**DADO QUE** el usuario está en el panel de administración<br><br>**CUANDO** hace clic en un plan Y haga clic en "Eliminar"<br><br>**ENTONCES** el plan seleccionado será eliminado | EP12 |
-| US26 | Gestión de Agencias | Como administrador, quiero tener control sobre las agencias para brindar información adicional a los viajeros. | Scenario 1: Registro de una agencia con información válida <br><br>**DADO QUE** el administrador está en el panel de administración <br><br>**CUANDO** el administrador hace clic en "Agencias" y completa los campos con información válida <br><br>**Y** hace clic en "Agregar" <br><br>**ENTONCES** se creará una agencia en la base de datos con la información proporcionada.<br><br>**Scenario**: El administrador registra una agencia con información inválida<br><br>**DADO QUE** el administrador está en el panel de administración<br><br>**CUANDO** el administrador hace clic en "Agencies" Y llena los campos con información inválida Y haga clic en "Add"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador modifica una agencia con información válida<br><br>**DADO QUE** el administrador está en el panel de administración<br><br>**CUANDO** el administrador hace clic en un agencia Y haga clic en "Modificar" Y aparece un formulario de modificación con los datos actuales de  la agencia Y llena los campos con información válida Y haga clic en "Modificar"<br><br>**ENTONCES** la agencia seleccionada se actualizará en la base de datos con la información brindada<br><br>**Scenario**: El administrador modifica una agencia con información inválida<br><br>**DADO QUE** el administrador está en el panel de administración del servicio<br><br>**CUANDO** el administrador hace clic en una agencia Y haga clic en "Modificar" Y aparece un formulario de modificación Y llena los campos con información inválida Y haga clic en "Modificar"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador elimina una agencia<br><br>**DADO QUE** el administrador está en el panel de administración de pagos<br><br>**CUANDO** el administrador hace clic en la agencia Y haga clic en "Eliminar"<br><br>**ENTONCES** la agencia seleccionada será archivada en la base de datos. | EP12 |
-| US27 | Gestión de Pagos | Como administrador, quiero tener control sobre los pagos de mis planes para un mejor seguimiento y control. | Scenario 1: Registro de un pago con información válida <br><br>**DADO QUE** el administrador está en el panel de administración <br><br>**CUANDO** el administrador hace clic en "Pagos" y completa los campos con información válida <br><br>**Y** hace clic en "Agregar" <br><br>**ENTONCES** se creará un pago en la base de datos con la información proporcionada. <br><br>**Scenario**: El administrador registra un pago con información inválida<br><br>**DADO QUE** el administrador está en el panel de administración<br><br>**CUANDO** el administrador hace clic en "Payments" Y llena los campos con información inválida Y haga clic en "Add"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador modifica un pago con información válida<br><br>**DADO QUE** el administrador está en el panel de administración<br><br>**CUANDO** el administrador hace clic en un pago Y haga clic en "Modificar" Y aparece un formulario de modificación con los datos actuales del pago Y llena los campos con información válida Y haga clic en "Modificar"<br><br>**ENTONCES** el pago seleccionado se actualizará en la base de datos con la información brindada<br><br>**Scenario**: El administrador modifica un pago con información inválida<br><br>**DADO QUE** el administrador está en el panel de administración del servicio<br><br>**CUANDO** el administrador hace clic en un pago Y haga clic en "Modificar" Y aparece un formulario de modificación Y llena los campos con información inválida Y haga clic en "Modificar"<br><br>**ENTONCES** se resaltarán los campos con información no válida<br><br>**Scenario**: El administrador elimina un pago<br><br>**DADO QUE** el administrador está en el panel de administración de pagos<br><br>**CUANDO** el administrador hace clic en el pago Y haga clic en "Eliminar"<br><br>**ENTONCES** el pago seleccionado será archivado en la base de datos. | EP12 |
-| TS01 | Configuración de Entorno de Desarrollo   | Como Developer, necesito configurar un entorno de desarrollo local con las herramientas y dependencias necesarias para trabajar en el proyecto. | **Scenario 1:** Configuración exitosa del entorno de desarrollo <br><br>**DADO QUE** el entorno de desarrollo está configurado correctamente <br><br>**CUANDO** se ejecutan los comandos de inicio <br><br>**ENTONCES** la aplicación se inicia sin errores. | EP13 |
-| TS02 | Diseño de Base de Datos para Destinos    | Como Developer, necesito diseñar la estructura de la base de datos para almacenar la información de los destinos turísticos. | **Scenario 1:** Diseño de base de datos de destinos completo <br><br>**DADO QUE** se realiza una consulta a la base de datos <br><br>**CUANDO** se examina la estructura de la tabla de destinos <br><br>**ENTONCES** se encuentran columnas relevantes para la información del destino. | EP13 |
-| TS03 | Implementación de Autenticación en el Frontend | Como Developer, necesito implementar un sistema de autenticación en el frontend para que los usuarios puedan crear cuentas e iniciar sesión. | **Scenario 1:** Registro de usuario exitoso <br><br>**DADO QUE** un usuario completa el formulario de registro <br><br>**CUANDO** se envían los datos <br><br>**ENTONCES** se crea una nueva cuenta en la base de datos. | EP13 |
-| TS04 | Diseño de Interfaz de Usuario para Lista de Destinos | Como Developer, necesito diseñar la interfaz de usuario en el frontend para mostrar una lista de destinos disponibles. | **Scenario 1:** Interfaz de usuario de lista de destinos mostrada <br><br>**DADO QUE** un usuario accede a la lista de destinos <br><br>**CUANDO** se muestra la interfaz de usuario <br><br>**ENTONCES** se presentan los destinos disponibles de manera clara y ordenada. | EP13 |
-| TS05 | Implementación de Lógica de Negocios para Reservas | Como Developer, necesito implementar la lógica de negocios en el backend para manejar la creación y gestión de reservas de servicios turísticos. | **Scenario 1:** Creación de reserva exitosa <br><br>**DADO QUE** se recibe una solicitud para crear una reserva <br><br>**CUANDO** se procesa la solicitud <br><br>**ENTONCES** se verifica la disponibilidad y se almacena la reserva en la base de datos. | EP13 |
-| TS06 | Implementación de Endpoints de API para Listar Destinos | Como Developer, necesito implementar endpoints en la API REST para permitir la obtención de una lista de destinos disponibles en el sistema. | **Scenario 1:** Obtención de destinos exitosa <br><br>**DADO QUE** se realiza una solicitud GET al endpoint de destinos <br><br>**CUANDO** se procesa la solicitud <br><br>**ENTONCES** se devuelven los destinos disponibles con sus detalles. | EP13 |
-| TS07 | Diseño de Base de Datos para Reservas    | Como Developer, necesito diseñar la estructura de la base de datos para almacenar la información relacionada con las reservas de servicios de viaje. | **Scenario 1:** Diseño de base de datos de reservas completo <br><br>**DADO QUE** se realiza una consulta a la base de datos <br><br>**CUANDO** se examina la estructura de la tabla de reservas <br><br>**ENTONCES** se encuentran columnas relevantes para la información de la reserva. | EP13 |
-| TS08 | Integración de Mapas Interactivos en el Frontend | Como Developer, necesito integrar un componente de mapas interactivos en el frontend para que los usuarios visualicen la ubicación de los destinos y puntos de interés. | **Scenario 1:** Visualización de ubicación de destino en el mapa <br><br>**DADO QUE** un usuario selecciona un destino <br><br>**CUANDO** se muestra el mapa interactivo <br><br>**ENTONCES** se resalta la ubicación del destino con un marcador. | EP13 |
-| TS09 | Implementación de Endpoint de API para Crear Reservas | Como Developer, necesito implementar un endpoint en la API REST para permitir la creación de nuevas reservas por parte de los usuarios. | **Scenario 1:** Creación de reserva a través de la API exitosa <br><br>**DADO QUE** se recibe una solicitud POST válida para crear una reserva <br><br>**CUANDO** se procesa la solicitud <br><br>**ENTONCES** se crea una nueva reserva en la base de datos. | EP13 |
-| TS10 | Diseño de Interfaz de Usuario para Detalles de Reserva | Como Developer, necesito diseñar la interfaz de usuario en el frontend para mostrar los detalles completos de una reserva. | **Scenario 1:** Interfaz de usuario de detalles de reserva mostrada <br><br>**DADO QUE** un usuario accede a los detalles de una reserva <br><br>**CUANDO** se muestra la interfaz de usuario <br><br>**ENTONCES** se presentan todos los aspectos relevantes de la reserva. | EP13 |
-| TS11 | Implementación de Autenticación de API   | Como Developer, necesito implementar mecanismos de autenticación para asegurar que solo las solicitudes autenticadas tengan acceso a los endpoints de la API. | **Scenario 1:** Verificación de token de autenticación exitosa <br><br>**DADO QUE** se recibe una solicitud a un endpoint protegido <br><br>**CUANDO** se verifica el token de autenticación <br><br>**ENTONCES** se permite el acceso si el token es válido. | EP13 |
-| TS12 | Optimización de Consultas de Base de Datos  | Como Developer, necesito optimizar las consultas de base de datos en la API para mejorar el rendimiento y la velocidad de respuesta. | **Scenario 1:** Mejora en el rendimiento de la API después de la optimización de consultas <br><br>**DADO QUE** se realizan consultas de búsqueda <br><br>**CUANDO** se analizan las métricas de rendimiento <br><br>**ENTONCES** se observa una mejora en los tiempos de respuesta de la API. | EP13 |
 
 ## 3.3. Impact Mapping.
 En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación provocará transformaciones significativas en el estilo de vida de los usuarios. En última instancia, se podrá constatar que todos estos cambios se materializan a través de las historias de usuario.
 
-[![Impact mapping de las agencias turísticas.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/ImpactMapping-AgenciaDeViajes.png)](https://uxpressia.com/w/MLSwR/p/LQfbI/i/TqqtE)
+#### Impact Map de las agencias turisticas.
+[![Impact mapping de las agencias turísticas.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/impact-map-agency.png)]()
 
-Enlace: [Impact mapping en UXPRESSIA](https://uxpressia.com/w/MLSwR/p/LQfbI/i/TqqtE)
+#### Impact Map del usuario turista.
+[![Impact mapping de los turistas.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/impact-map-user.png)]()
 
-[![Impact mapping de las agencias turísticas.](https://github.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/blob/tb1/Resources/maps/ImpactMapping-AgenciaDeViajes-2.png)](https://uxpressia.com/w/MLSwR/p/LQfbI/i/X7ELy)
 
-Enlace: [Impact mapping en UXPRESSIA](https://uxpressia.com/w/MLSwR/p/LQfbI/i/X7ELy)
 ## 3.4. Product Backlog.
-| Orden | User Story Id | Título | Descripción | Story Points |
-|:-----:|:-------------:|--------|-------------|:------------:|
-| 1     | US01           | Buscar especificaciones según tipo de viaje | Como usuario turista quiero buscar destino según el tipo de viaje que deseo para tener una mejor experiencia en mi viaje. | 3 |
-| 2     | US02           | Búsqueda por Duración de Viaje | Como usuario turista, quiero buscar destinos según la duración de mi viaje para una mejor organización. | 5 |
-| 3     | US03           | Búsqueda por Clima del Destino | Como usuario turista, quiero buscar destinos según el clima para tener una mejor experiencia en mi viaje. | 3 |
-| 4     | US04           | Obtener Información Detallada del Viaje | Como usuario turista, quiero obtener información detallada sobre un viaje para conocer las escalas y tiempos de espera. | 5 |
-| 5     | US05           | Selección del Tipo de Servicio | Como usuario turista, quiero especificar el tipo de servicio que necesito para encontrar opciones que se adapten a mis necesidades. | 5 |
-| 6     | US06           | Publicación de Promociones | Como agencia de viajes, quiero publicar promociones en la aplicación para ofrecer descuentos a los usuarios interesados. | 5 |
-| 7     | US07           | Subida de Destinos Disponibles | Como agencia de viajes, quiero subir los destinos disponibles para que los usuarios vean los servicios que ofrecemos en cada destino. | 5 |
-| 8     | US08           | Subida de Servicios Ofrecidos | Como agencia de viajes, quiero subir los servicios que ofrecemos para mostrar a los clientes nuestras ofertas. | 8 |
-| 9     | US09           | Selección de Hotel | Como usuario turista, quiero elegir un hotel que se adapte a mis necesidades para tener una mejor experiencia en mi viaje. | 3 |
-| 10    | US10           | Selección de Vuelo | Como usuario turista quiero elegir un vuelo de una lista para adaptarlo a mi itinerario. | 3 |
-| 11    | US11           | Creación de Código de Descuento | Como usuario agencia de viajes quiero crear un código de descuento con límites de cantidad y período para promocionarlos en redes sociales o campañas de publicidad. | 5 |
-| 12    | US12           | Visualización de Reportes de Ventas | Como usuario agencia de viajes quiero ver un reporte de las ventas registradas en un período específico para mantener un registro y hacer seguimiento. | 2 |
-| 13    | US13           | Visualización de Preguntas de Usuarios | Como usuario agencia de viajes quiero ver las preguntas que hacen los usuarios en mis publicaciones y promociones para gestionarlas adecuadamente. | 5 |
-| 14    | US14           | Visualización de Reservas de Viaje | Como usuario turista quiero poder ver mis reservas de viaje para verificar fechas y horarios. | 3 |
-| 15    | US15           | Pago de Reservas | Como usuario turista quiero pagar mis reservas para obtener confirmaciones de viaje. | 5 |
-| 16    | US16           | Asociación de Medios de Pago | Como usuario quiero asociar mis medios de pago para realizar pagos de reservas de manera más rápida. | 8 |
-| 17    | US17           | Búsqueda de Información de la Agencia de Viaje | Como usuario quiero buscar información de una agencia de viaje para evaluar su calidad antes de viajar con ellos. | 1 |
-| 18    | US18           | Búsqueda de Información de un Hotel | Como usuario quiero buscar información de un hotel para seleccionar un lugar de hospedaje que se ajuste a mi presupuesto. | 5 |
-| 19    | US19           | Búsqueda de Recomendaciones sobre una Agencia | Como usuario quiero buscar recomendaciones sobre una agencia de viaje para conocer las opiniones de otros usuarios. | 3 |
-| 20    | US20           | Búsqueda de Información del Viajero | Como agencia de viaje quiero buscar información del viajero para conocer su situación económica y ofrecer recomendaciones de viajes con diferentes comodidades. | 5 |
-| 21    | US21           | Visualizar oferta de valor de la aplicación | Como usuario huésped quiero ver la oferta de valor de la aplicación en el landing page para poder hacerme una idea del potencial de la aplicación. | 5 |
-| 22    | US22           | Call to Action | Como visitante, quiero ver botones al principio y al final de la página de inicio para conectarme con la Web App. | 1 |
-| 23    | US23           | Gestión de Usuarios Viajeros | Como administrador, quiero dar de alta, modificar y eliminar usuarios del rol de viajero para administrar eficientemente. | 3 |
-| 24    | US24           | Gestión de Planes | Como agencia de viajes, quiero tener control sobre los planes que publico para que los viajeros estén informados de los nuevos planes y no adquieran planes agotados. | 1 |
-| 25    | US25           | Visualización de Agencias | Como usuario, quiero poder ver información de las agencias para conocer su nombre y otros detalles. | 8 |
-| 26    | US26           | Gestión de Agencias | Como administrador, quiero tener control sobre las agencias para brindar información adicional a los viajeros. | 8 |
-| 27    | US27           | Gestión de Pagos | Como administrador, quiero tener control sobre los pagos de mis planes para un mejor seguimiento y control. | 1 |
-| 28    | TS01           | Configuración de Entorno de Desarrollo | Como Developer, necesito configurar un entorno de desarrollo local con las herramientas y dependencias necesarias para trabajar en el proyecto. |3 |
-| 29    | TS02           | Diseño de Base de Datos para Destinos | Como Developer, necesito diseñar la estructura de la base de datos para almacenar la información de los destinos turísticos. |5 |
-| 30    | TS03           | Implementación de Autenticación en el Frontend | Como Developer, necesito implementar un sistema de autenticación en el frontend para que los usuarios puedan crear cuentas e iniciar sesión. |3 |
-| 31    | TS04           | Diseño de Interfaz de Usuario para Lista de Destinos | Como Developer, necesito diseñar la interfaz de usuario en el frontend para mostrar una lista de destinos disponibles. |5 |
-| 32    | TS05           | Implementación de Lógica de Negocios para Reservas | Como Developer, necesito implementar la lógica de negocios en el backend para manejar la creación y gestión de reservas de servicios turísticos. |3 |
-| 33    | TS06           | Implementación de Endpoints de API para Listar Destinos | Como Developer, necesito implementar endpoints en la API REST para permitir la obtención de una lista de destinos disponibles en el sistema. |5 |
-| 34    | TS07           | Diseño de Base de Datos para Reservas | Como Developer, necesito diseñar la estructura de la base de datos para almacenar la información relacionada con las reservas de servicios de viaje. |5 |
-| 35    | TS08           | Integración de Mapas Interactivos en el Frontend | Como Developer, necesito integrar un componente de mapas interactivos en el frontend para que los usuarios visualicen la ubicación de los destinos y puntos de interés. |3 |
-| 36    | TS09           | Implementación de Endpoint de API para Crear Reservas | Como Developer, necesito implementar un endpoint en la API REST para permitir la creación de nuevas reservas por parte de los usuarios. |3 |
-| 37    | TS10           | Diseño de Interfaz de Usuario para Detalles de Reserva | Como Developer, necesito diseñar la interfaz de usuario en el frontend para mostrar los detalles completos de una reserva. |5 |
-| 38    | TS11           | Implementación de Autenticación de API | Como Developer, necesito implementar mecanismos de autenticación para asegurar que solo las solicitudes autenticadas tengan acceso a los endpoints de la API. |5 |
-| 39    | TS12           | Optimización de Consultas de Base de Datos | Como Developer, necesito optimizar las consultas de base de datos en la API para mejorar el rendimiento y la velocidad de respuesta. |3 |
+<table>
+<thead>
+  <tr>
+    <th>#Orden</th>
+    <th>User<br>Story<br>ID<br></th>
+    <th>Titulo</th>
+    <th>Descripcion</th>
+    <th>Story<br>Points<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>US01</td>
+    <td>Búsqueda de paquetes de viaje por presupuesto</td>
+    <td>Como usuario, quiero poder buscar paquetes de viaje en base a mi presupuesto, para encontrar opciones que se ajusten a mis necesidades financieras.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US02</td>
+    <td>Exploración de paquetes por temporada</td>
+    <td>Como usuario, quiero poder explorar paquetes de viaje en base a la temporada del año, para encontrar opciones que se adapten al clima y las actividades disponibles en el momento.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>US03</td>
+    <td>Búsqueda paquetes de viaje por destino</td>
+    <td>Como usuario, quiero poder buscar paquetes de viaje en base al destino escogido, para encontrar opciones que se ajusten a mi ubicación y preferencias culturales.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>US04</td>
+    <td>Reserva de paquete de viaje</td>
+    <td>Como usuario, quiero poder reservar un paquete de viaje en la aplicación, para poder asegurar mi lugar y mi itinerario.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>US05</td>
+    <td>Pago de paquete de viaje</td>
+    <td>Como usuario, quiero poder pagar por un paquete de viaje en la aplicación, para tener una transacción segura y conveniente.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>US06</td>
+    <td>Confirmación de reserva y pago</td>
+    <td>Como usuario, quiero recibir una confirmación de mi reserva y pago en la aplicación, para tener la tranquilidad de que mi transacción ha sido exitosa.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>US07</td>
+    <td>Múltiples métodos de pago en perfil de usuario</td>
+    <td>Como usuario registrado, quiero poder guardar múltiples métodos de pago en mi perfil, para poder hacer reservas con mayor facilidad y rapidez.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>US08</td>
+    <td>Recibo de pago por correo electrónico</td>
+    <td>Como usuario registrado, quiero recibir un recibo de mi pago por correo electrónico después de hacer una reserva exitosa, para tener un registro de mi transacción.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>US09</td>
+    <td>Información detallada de transacciones de pago</td>
+    <td>Como administrador, quiero poder acceder a información detallada sobre las transacciones de pago, para asegurarme de que todas las reservas se hayan pagado correctamente y mantener un registro actualizado.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US10</td>
+    <td>Notificaciones de cambios en itinerario de viaje</td>
+    <td>Como usuario, quiero recibir notificaciones sobre cambios en mi itinerario de viaje, para estar informado y preparado.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US11</td>
+    <td>Alertas de ofertas y promociones</td>
+    <td>Como usuario, quiero recibir alertas sobre ofertas y promociones para destinos de mi interés, para poder aprovechar descuentos y ahorrar dinero.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US12</td>
+    <td>Recordatorios de próximo viaje</td>
+    <td>Como usuario, quiero recibir notificaciones de recordatorio para mi próximo viaje, para no olvidar detalles importantes.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US13</td>
+    <td>Personalización de notificaciones de usuario registrado</td>
+    <td>Como usuario registrado, quiero poder controlar el tipo y frecuencia de las notificaciones que recibo de AdventureHub, para personalizar mi experiencia de uso y evitar ser abrumado por información innecesaria.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US14</td>
+    <td>Notificaciones personalizadas de administrador</td>
+    <td>Como administrador, quiero poder enviar notificaciones personalizadas a los usuarios para informarles sobre nuevos paquetes de viaje y ofertas especiales.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Notificación de actualización de paquete de viaje en lista de deseos</td>
+    <td>Como usuario registrado, quiero poder recibir una notificación cuando se haya actualizado un paquete de viaje que tengo guardado en mi lista de deseos.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US61</td>
+    <td>Edición de perfil de usuario</td>
+    <td>Como usuario, quiero poder editar mi perfil de usuario en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US17</td>
+    <td>Configuración de preferencias de notificaciones</td>
+    <td>Como usuario, quiero poder configurar mis preferencias de notificaciones en la aplicación.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US18</td>
+    <td>Eliminación de cuenta de usuario</td>
+    <td>Como usuario, quiero poder eliminar mi cuenta de usuario en la aplicación.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US19</td>
+    <td>Reseñas de viajes para usuarios registrados</td>
+    <td>Como usuario registrado, quiero poder dejar una reseña sobre mi experiencia en un viaje reservado a través de AdventureHub.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US20</td>
+    <td>Visualización de reseñas de otros viajeros</td>
+    <td>Como usuario registrado, quiero poder ver las reseñas de otros viajeros para ayudarme a tomar una decisión informada sobre la reserva de un viaje.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US21</td>
+    <td>Solicitud de paquete personalizado a través del chat</td>
+    <td>Como usuario, quiero poder solicitar un paquete personalizado a través del chat de la aplicación, para poder encontrar la mejor opción de viaje para mí.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US22</td>
+    <td>Notificaciones en tiempo real de aceptación de solicitud personalizada</td>
+    <td>Como usuario, quiero recibir notificaciones en tiempo real cuando una agencia acepte mi solicitud de paquete personalizado, para poder comenzar la conversación de inmediato.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US23</td>
+    <td>Lista de solicitudes personalizadas para agencia de viajes</td>
+    <td>Como agencia de viajes, quiero poder ver una lista de solicitudes personalizadas de usuarios, para poder seleccionar las solicitudes que me interesan y comenzar una conversación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US24</td>
+    <td>Visualización de perfil de usuario para agencia de viajes</td>
+    <td>Como agencia de viajes, quiero poder ver el perfil del usuario que hizo la solicitud personalizada, para poder personalizar mi oferta y proporcionar una mejor experiencia de usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>US25</td>
+    <td>Comunicación directa con agencia de viajes a través del chat</td>
+    <td>Como usuario, quiero poder comunicarme directamente con la agencia de viajes a través del chat de la aplicación, para poder hacer preguntas y resolver cualquier problema relacionado con mi reserva.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>US26</td>
+    <td>Comandos predefinidos para agencia de viajes</td>
+    <td>Como agencia de viajes, quiero tener una lista de comandos predefinidos que pueda utilizar para armar el paquete personalizado, para poder ahorrar tiempo en la conversación y proporcionar opciones claras y concisas al usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>US72</td>
+    <td>Aceptación o rechazo de componentes del paquete personalizado</td>
+    <td>Como usuario, quiero poder aceptar o rechazar los componentes del paquete personalizado que se me ofrecen, para poder tener una experiencia personalizada y a medida.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>US28</td>
+    <td>Enlace de pago en chat para paquete personalizado</td>
+    <td>Como usuario, quiero poder aceptar o rechazar los componentes del paquete personalizado que se me ofrecen, para poder tener una experiencia personalizada y a medida.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>US29</td>
+    <td>Correo electrónico con detalles de paquete de viaje y factura</td>
+    <td>Como usuario, quiero recibir un correo electrónico con los detalles de mi paquete de viaje y mi factura después de completar la transacción, para poder tener un registro de mis reservas.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US30</td>
+    <td>Sistema de seguimiento de pagos y cancelaciones para agencia de viajes</td>
+    <td>Como agencia de viajes, quiero tener un sistema de seguimiento de pagos y cancelaciones de paquetes personalizados, para poder mantener un registro claro de las transacciones y reducir el riesgo de pérdidas económicas.</td>
+    <td>5</td>
+  </tr>
+</tbody>
+</table>
