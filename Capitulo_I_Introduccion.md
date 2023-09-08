@@ -50,7 +50,8 @@ El nombre del startup es DreamTeam.
 		</p>
 	</div>
 </div>
-
+<div>
+	<img src="https://drive.google.com/file/d/1uhZfvVY0gODfPzwISQ8VPCTu3EBq7ePN/view?usp=drive_link" width="80" height="80">
 	<div>
 		<u>
 			<strong> Josmar Vela Sarazú - U201611746</strong>
