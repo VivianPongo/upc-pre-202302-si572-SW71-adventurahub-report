@@ -706,7 +706,7 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Cliente realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/jourey-map-1.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/journey-map-1.png" alt="Journey Map">
 </div>
 <br>
 
@@ -715,7 +715,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/jourey-map-2.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/journey-map-2.png" alt="Journey Map">
 </div>
 
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
@@ -727,14 +727,14 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 <strong>Segmento Agencias de Viaje</strong><br>
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-1.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-1.png" alt="Empathy Map">
 </div>
 <br>
 
 <strong>Segmento Usuarios</strong><br>
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-2.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/empathy-map-2.png" alt="Empathy Map">
 </div>
 
 ### 2.3.5 As-Is Sccenario Maps
@@ -742,12 +742,12 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 <strong>Segmento Agencias de Viaje</strong><br>
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="As Is">
 </div>
 <br>
 
 <strong>Segmento Usuarios</strong><br>
 
 <div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="User Persona">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/as-is-1.png" alt="As Is">
 </div>
