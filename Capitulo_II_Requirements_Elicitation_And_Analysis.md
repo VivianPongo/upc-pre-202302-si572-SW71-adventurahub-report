@@ -520,41 +520,68 @@ En la sección de análisis se registra la información de las entrevistas de fo
 <strong>Segmento usuario viajero:</strong><br>
 
 <div align="center">
+<table>
+<thead>
+  <tr>
+    <th><div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-viajero-1.png" alt="Entrevista Evidencia">
-</div>
-
-<div align="center">
+</div></th>
+    <th><div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-viajero-2.png" alt="Entrevista Evidencia">
-</div>
-
+</div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
 <div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-viajero-3.png" alt="Entrevista Evidencia">
+</div></td>
+    <td><div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-viajero-4.png" alt="Entrevista Evidencia">
+</div></td>
+  </tr>
+</tbody>
+</table>
 </div>
 
-<div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-viajero-4.png" alt="Entrevista Evidencia">
-</div>
+
 <br>
 De acuerdo con los gráficos estadísticos que hemos realizado con los datos obtenidos de las entrevistas, hemos concluido que los viajeros frecuentemente tienen como destino el interior del Perú.  Otro dato que hemos resaltado son los problemas para armar un itinerario, un 50% tiene problemas para armarlos, por los factores de tiempo y disponibilidad de las agencias de viaje.  Con respecto a las agencias de viajes, el principal servicio por la que el cliente compran paquetes turísticos, son los vuelos, debido al precio de estos, ya que suelen ser lo más caro de un viaje. Siguiendo con el análisis, tenemos que la mayoría de los entrevistados contratan servicios de viajes por medio de la referencia, por el hecho, de saber cuál empresa te brinda un mejor servicio. Por último, todos los entrevistados mencionaron que sería de gran utilidad una aplicación que ayude a obtener mejores paquetes turísticos, ajustados a tu presupuesto y tiempo.
 <br>
 
 <strong>Para agencias de viaje:</strong><br>
-
 <div align="center">
+<table>
+<thead>
+  <tr>
+    <th><div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-agencia-1.png" alt="Entrevista Evidencia">
-</div>
-
-<div align="center">
+</div></th>
+    <th><div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-agencia-2.png" alt="Entrevista Evidencia">
-</div>
-
+</div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
 <div align="center">
 	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-agencia-3.png" alt="Entrevista Evidencia">
+</div></td>
+    <td><div align="center">
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-agencia-4.png" alt="Entrevista Evidencia">
+</div></td>
+  </tr>
+</tbody>
+</table>
 </div>
 
-<div align="center">
-	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/analisis-agencia-4.png" alt="Entrevista Evidencia">
-</div>
+
+
+
+
+
 <br>
 De acuerdo con los gráficos estadísticos, la mitad de las agencias de viajes entrevistadas presentan poca frecuencia respecto a la contratación de sus servicios, mientras que la otra mitad presenta una frecuencia alta. De la misma manera, el 50% de los procesos de reserva realizados se dan a través de una solicitud personalizada por parte de los clientes y, el otro 50% a través de la elección de paquetes ya armados. Asimismo, la mitad de los percances que han tenido con los clientes se han debido a la desinformación de estos últimos al momento de elegir su estadía, transporte, recorrido, entre otros; la otra mitad se debió a causa de un incumplimiento del pago para finalizar la compra. Finalmente, los ingresos percibidos provienen de la venta de los programas ofrecidos y los paquetes personalizados para los clientes, cada uno representando un 50% de los ingresos totales. 
 <br>
