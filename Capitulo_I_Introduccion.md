@@ -51,6 +51,15 @@ El nombre del startup es DreamTeam.
 	</div>
 </div>
 
+	<div>
+		<u>
+			<strong> Josmar Vela Sarazú - U201611746</strong>
+		</u>
+		<p>
+			Elegí la carrera de Ingeniría de Software por mi afición por la tecnología, sobre todo a la creación de aplicación web y móviles. Además, me gusta prácticar creando pequeñas aplicaciones donde aplico lo aprendido en la universidad o en clases en línea. 
+		</p>
+	</div>
+</div>
 <br>
 
 ## 1.2 Solution Profile
