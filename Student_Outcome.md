@@ -31,7 +31,8 @@ ingeniería.</td>
     <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
     Durante la fase inicial de modelado de arquitectura para este proyecto, elaboré un Context Diagram siguiendo la metodología C4. Mediante reuniones con el equipo de desarrollo y stakeholders del proyecto, pude recolectar los requerimientos y objetivos clave que nos permitieron establecer el alcance y contexto general del sistema.
     <br><br>
-    
+       <br><strong>Renato Clotario Castillo Rengifo<br>TB1</strong><br>Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
+
 </td>
     <td>En conclusión, la habilidad de comunicar oralmente ideas y resultados con objetividad a una audiencia diversa en el ámbito de la ingeniería no solo es esencial, sino que también refleja la versatilidad y adaptabilidad del ingeniero. Esta competencia facilita la colaboración interdisciplinaria, promueve la toma de decisiones informadas y asegura que la información se transmita de manera precisa, lo que, en última instancia, contribuye al éxito de los proyectos de ingeniería y al logro de sus objetivos.</td>
   </tr>
@@ -49,6 +50,9 @@ proyecto en ingeniería.
     <br><br>
     <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
     Con el propósito de establecer el contexto y alcance del sistema para este proyecto de arquitectura, elaboré un diagrama de contexto C4 representando los componentes y relaciones clave entre ellos. Luego, mediante un informe escrito dirigido tanto al equipo técnico como a los stakeholders del proyecto, describí objetivamente la propuesta del diagrama contextual, explicando el significado de cada elemento y su interacción.
+    <br><br>
+	        <strong>Renato Clotario Castillo Rengifo<br>TB1</strong><br>
+    Se logró tomar decisión en ambitos de la aplicación con el fin de limitar el alcance del proyectocomunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
     <br><br>
     </td>
     <td>En conclusion, la capacidad de comunicar oralmente ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos en el contexto del desarrollo de proyectos de ingeniería representa un logro fundamental en la formación de un ingeniero. Esta habilidad no solo fortalece la colaboración interdisciplinaria y la toma de decisiones basadas en datos, sino que también demuestra la versatilidad y adaptabilidad del profesional. Es un elemento esencial para el éxito en el campo de la ingeniería, donde la comunicación efectiva juega un papel crítico en la consecución de objetivos y la resolución de problemas complejos.</td>
