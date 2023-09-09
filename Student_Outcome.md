@@ -28,24 +28,26 @@ ingeniería.</td>
     <td>
 		<br><strong>Ivan Moran Moreno<br>TB1</strong><br>Mediante la aplicación exitosa de las metodologías Tactical DDD y Needfinding en proyectos de ingeniería garantiza una comunicación oral objetiva y efectiva con un público diverso. Tactical DDD proporciona una base sólida de datos para respaldar las soluciones propuestas, mientras que Needfinding identifica las necesidades específicas de cada audiencia. Estas acciones estratégicas aseguran una comunicación adaptada y precisa, promoviendo la colaboración interdisciplinaria y la toma de decisiones fundamentadas, elementos cruciales para el éxito global de los proyectos de ingeniería., 
 
-<br><strong>Miguel Bustillos Alayo<br>TB1</strong><br>
+<br><strong>Miguel Bustillos Alayo
+<br>TB1<br></strong>
 Por medio de la elaboración de Architectural Drivers Backlog se pueden abordar los factores determinantes para la implementación de una solución tecnológica relevante para el Business Core.
-              <br><strong>Josmar Vela Sarazú<br>TB1</strong><br> Se aplicaron las metodológias Tactical DDD y Needfinding. Tactical DDD proporciona una base sólida de datos para respaldar las soluciones propuestas, mientras que Needfinding se indentificaron las necesidades de cada grupo objetivo. Estas aseguran una comunicación precisa, promueven la colaboración interdisciplinaria y aseguran elementos cruciales para el éxito de los proyectos de software.
 
-    
-</td>
-<td>
-		<br><strong>Ivan Moran Moreno<br>TB1</strong><br>Mediante la aplicación exitosa de las metodologías Tactical DDD y Needfinding en proyectos de ingeniería garantiza una comunicación oral objetiva y efectiva con un público diverso. Tactical DDD proporciona una base sólida de datos para respaldar las soluciones propuestas, mientras que Needfinding identifica las necesidades específicas de cada audiencia. Estas acciones estratégicas aseguran una comunicación adaptada y precisa, promoviendo la colaboración interdisciplinaria y la toma de decisiones fundamentadas, elementos cruciales para el éxito global de los proyectos de ingeniería., 
+<br><strong>Josmar Vela Sarazú
+<br>TB1<br></strong>
+Se aplicaron las metodológias Tactical DDD y Needfinding. Tactical DDD proporciona una base sólida de datos para respaldar las soluciones propuestas, mientras que Needfinding se indentificaron las necesidades de cada grupo objetivo. Estas aseguran una comunicación precisa, promueven la colaboración interdisciplinaria y aseguran elementos cruciales para el éxito de los proyectos de software.
+
+<br><strong>Patrick Cuentas Mariano
+<br>TB1<br></strong>
+Durante la fase inicial de modelado de arquitectura para este proyecto, elaboré un Context Diagram siguiendo la metodología C4. Mediante reuniones con el equipo de desarrollo y stakeholders del proyecto, pude recolectar los requerimientos y objetivos clave que nos permitieron establecer el alcance y contexto general del sistema.
 
 
-    
-<br><strong>Ivan Moran Moreno<br>TB1</strong><br>Mediante la aplicación exitosa de las metodologías Tactical DDD y Needfinding en proyectos de ingeniería garantiza una comunicación oral objetiva y efectiva con un público diverso. Tactical DDD proporciona una base sólida de datos para respaldar las soluciones propuestas, mientras que Needfinding identifica las necesidades específicas de cada audiencia. Estas acciones estratégicas aseguran una comunicación adaptada y precisa, promoviendo la colaboración interdisciplinaria y la toma de decisiones fundamentadas, elementos cruciales para el éxito global de los proyectos de ingeniería.
-  <br><br>
-    <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
-    Durante la fase inicial de modelado de arquitectura para este proyecto, elaboré un Context Diagram siguiendo la metodología C4. Mediante reuniones con el equipo de desarrollo y stakeholders del proyecto, pude recolectar los requerimientos y objetivos clave que nos permitieron establecer el alcance y contexto general del sistema.
-    <br><br>
-	    <br><strong>Palomino Medina Oscar<br>TB1</strong><br>La implementación adecuada de las técnicas Tactical DDD y Needfinding en iniciativas de ingeniería asegura un diálogo claro y eficaz con un espectro amplio de oyentes.  
-       <br><strong>Renato Clotario Castillo Rengifo<br>TB1</strong><br>Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
+<br><strong>Palomino Medina Oscar
+<br>TB1<br></strong>
+La implementación adecuada de las técnicas Tactical DDD y Needfinding en iniciativas de ingeniería asegura un diálogo claro y eficaz con un espectro amplio de oyentes.
+
+<br><strong>Renato Clotario Castillo Rengifo
+<br>TB1<br></strong>
+Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
 
 </td>
     <td>En conclusión, la habilidad de comunicar oralmente ideas y resultados con objetividad a una audiencia diversa en el ámbito de la ingeniería no solo es esencial, sino que también refleja la versatilidad y adaptabilidad del ingeniero. Esta competencia facilita la colaboración interdisciplinaria, promueve la toma de decisiones informadas y asegura que la información se transmita de manera precisa, lo que, en última instancia, contribuye al éxito de los proyectos de ingeniería y al logro de sus objetivos.</td>
@@ -62,25 +64,22 @@ proyecto en ingeniería.
     <td>
     <br><strong>Ivan Moran Moreno<br>TB1<br></strong>Realicé una investigación exhaustiva sobre los factores clave que intervienen en las experiencias turísticas como parte del proceso de Needfinding para informar el desarrollo de mi solución de software.
 
-  <br><strong>Miguel Bustillos Alayo<br>TB1</strong><br>
+<br><strong>Miguel Bustillos Alayo
+<br>TB1<br></strong>
 Se comunica mediante una tabla la importancia de los factores determinantes para los Stakeholders y su impacto en la complejidad técnica de la Arquitectura. Esta información puede ser utilizada para una comunicación de igual nivel hacia los interesados del proyecto.
-  <br><strong>Josmar Vela Sarazú <br>TB1<br></strong>Utilice la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Esto para poder desarrollar el Candidate Context Discovery.
 
-  </td>
-    
-  <td>En conclusion, la capacidad de comunicar oralmente ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos en el contexto del desarrollo de proyectos de ingeniería representa un logro fundamental en la formación de un ingeniero. Esta habilidad no solo fortalece la colaboración interdisciplinaria y la toma de decisiones basadas en datos, sino que también demuestra la versatilidad y adaptabilidad del profesional. Es un elemento esencial para el éxito en el campo de la ingeniería, donde la comunicación efectiva juega un papel crítico en la consecución de objetivos y la resolución de problemas complejos.</td>
-    <br><br><strong>Palomino Medina<br>TB1<br></strong>se realizó correctamente de las herraminetas necesarias para la aplicación de eideas en escritura.<br>
-	    
-    Con el propósito de establecer el contexto y alcance del sistema para este proyecto de arquitectura, elaboré un diagrama de contexto C4 representando los componentes y relaciones clave entre ellos. Luego, mediante un informe escrito dirigido tanto al equipo técnico como a los stakeholders del proyecto, describí objetivamente la propuesta del diagrama contextual, explicando el significado de cada elemento y su interacción.
-    <br><br>
-	        <strong>Renato Clotario Castillo Rengifo<br>TB1</strong><br>
-    Se logró tomar decisión en ambitos de la aplicación con el fin de limitar el alcance del proyectocomunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
-    
-    <br><br>
-    
-    
-  <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
-    </td>
+<br><strong>Josmar Vela Sarazú
+<br>TB1<br></strong>
+Utilice la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Esto para poder desarrollar el Candidate Context Discovery.
+
+
+<br><strong>Pongo Quisocala Vivian
+<br>TB1<br></strong>
+Se elaboró el container level diagram para comunicar eficientemenete las ideas sobre los bounded context creados para el proyecto
+<br><strong>Mauricio Oscar Nuñez Melgarejo<br>TB1</strong><br> Para llevar a cabo la reducción gráfica de los 11 bounded context a los 6 bounded context en Miro, utilicé esta plataforma de colaboración en línea como una herramienta valiosa para simplificar y visualizar de manera efectiva la arquitectura del proyecto.
+<br><strong>Mauricio Oscar Nuñez Melgarejo<br>TB1</strong><br> Para llevar a cabo el context mapping de los 6 bounded context, me basé en el repositorio de Github "DDD Crew" y en la información recopilada durante la conferencia "Introduction to Context Mapping" en DDD Europe 2022. Esta valiosa fuente de conocimiento proporcionó una base sólida para abordar esta acción fundamental en el desarrollo de nuestro proyecto de ingeniería.
+
+</td>
     <td>En conclusion, la capacidad de comunicar oralmente ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos en el contexto del desarrollo de proyectos de ingeniería representa un logro fundamental en la formación de un ingeniero. Esta habilidad no solo fortalece la colaboración interdisciplinaria y la toma de decisiones basadas en datos, sino que también demuestra la versatilidad y adaptabilidad del profesional. Es un elemento esencial para el éxito en el campo de la ingeniería, donde la comunicación efectiva juega un papel crítico en la consecución de objetivos y la resolución de problemas complejos.</td>
   </tr>
 </tbody>
