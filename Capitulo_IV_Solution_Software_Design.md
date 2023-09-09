@@ -63,6 +63,7 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
     </tr>
   </tbody>
 </table>
+
 ### 4.1.4 Architectural Design Decision
 <table class="tg">
 <thead>
