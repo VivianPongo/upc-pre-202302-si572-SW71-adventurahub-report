@@ -219,6 +219,7 @@ LLENAR RESUMEN
 
 <strong>Segmento Cliente</strong><br>
 
+
 <table style="undefined;table-layout: fixed; width: 910px">
 <colgroup>
 <col style="width: 220px">
@@ -265,14 +266,14 @@ LLENAR RESUMEN
   <tr>
     <td colspan="2">Evidencia
 			<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-1.png" alt="Entrevista Evidencia">
+				<img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/tb1/Resources/interviews/entrevista-1.png" alt="Entrevista Evidencia">
 			</div>
 		</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2/" title="Title">https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EePdyu8GWOFBhtKoSoDuBlUBJVrNndBvgfYkTqO5FvwlhA?e=naeF9m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" title="Title">Microsoft Stream</p>
 		</td>
   </tr>
   <tr>
@@ -338,14 +339,14 @@ LLENAR RESUMEN
   <tr>
     <td colspan="2">Evidencia
 			<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-2.png" alt="Entrevista Evidencia">
+				<img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/tb1/Resources/interviews/entrevista-2.png" alt="Entrevista Evidencia">
 			</div>
 		</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://web.microsoftstream.com/video/29f68fc1-dafb-43cf-94b1-1722e7037d9b/" title="Title">https://web.microsoftstream.com/video/29f68fc1-dafb-43cf-94b1-1722e7037d9b</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EePdyu8GWOFBhtKoSoDuBlUBJVrNndBvgfYkTqO5FvwlhA?e=naeF9m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" title="Title">Microsoft Stream</p>
 		</td>
   </tr>
   <tr>
@@ -412,14 +413,14 @@ LLENAR RESUMEN
   <tr>
     <td colspan="2">Evidencia
 			<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-3.png" alt="Entrevista Evidencia">
+				<img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/tb1/Resources/interviews/entrevista-3.png" alt="Entrevista Evidencia">
 			</div>
 		</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://youtu.be/3o3b5o-gmwI/" title="Title">https://youtu.be/3o3b5o-gmwI</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EePdyu8GWOFBhtKoSoDuBlUBJVrNndBvgfYkTqO5FvwlhA?e=naeF9m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" title="Title">Microsoft Stream</p>
 		</td>
   </tr>
   <tr>
@@ -486,14 +487,14 @@ LLENAR RESUMEN
   <tr>
     <td colspan="2">Evidencia
 			<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/entrevista-4.png" alt="Entrevista Evidencia">
+				<img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/tb1/Resources/interviews/entrevista-4.png" alt="Entrevista Evidencia">
 			</div>
 		</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
-		<p><a target="_blank"  href="https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2/" title="Title">https://web.microsoftstream.com/video/867ba12e-8fc9-486b-9662-b3b580bbecc2</p>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EePdyu8GWOFBhtKoSoDuBlUBJVrNndBvgfYkTqO5FvwlhA?e=naeF9m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" title="Title">Microsoft Stream</p>
 		</td>
   </tr>
   <tr>
