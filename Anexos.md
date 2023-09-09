@@ -1,4 +1,10 @@
 # Anexos
+
+## EventStorming
+
+Enlace: [EventStorming](https://miro.com/welcomeonboard/UWlsOWdXWG1EaDdsNEoySUN3M0hEMExhNjlVWGNmaElldXBKbHU0NkI0ZVpTeDJ0ZURiUXJQWTFVcFVPcGV5TXwzNDU4NzY0NTUzMDIzNzI4NDkzfDI=?share_link_id=327617384415
+)
+
 ## Needfinding Interviews
 
 
