@@ -49,7 +49,7 @@ proyecto en ingeniería.
     <td>
     <br><strong>Ivan Moran Moreno<br>TB1<br></strong>Realicé una investigación exhaustiva sobre los factores clave que intervienen en las experiencias turísticas como parte del proceso de Needfinding para informar el desarrollo de mi solución de software.
     <br> <br><strong>Palomino Medina<br>TB1<br></strong>se realizó correctamente de las herraminetas necesarias para la aplicación de eideas en escritura.<br>
-	    
+	  <br> <br>   
     <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
     Con el propósito de establecer el contexto y alcance del sistema para este proyecto de arquitectura, elaboré un diagrama de contexto C4 representando los componentes y relaciones clave entre ellos. Luego, mediante un informe escrito dirigido tanto al equipo técnico como a los stakeholders del proyecto, describí objetivamente la propuesta del diagrama contextual, explicando el significado de cada elemento y su interacción.
     <br><br>
