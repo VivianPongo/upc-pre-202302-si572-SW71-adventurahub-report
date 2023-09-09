@@ -526,6 +526,12 @@ Siguiendo las secciones previas que han abordado los Functional Drivers, Quality
 </tbody>
 </table>
 
+## 4.2. Strategic-Level Attribute-Driven Design
+### 4.2.1. Event Storming
+Para esta sección se realizó una primera aproximación del abordaje de nuestro tema, modelando una base general de esta. Para esta parte se utilizó inicialmente la herramienta colaborativa Miro
+
+Primera versión del EventStorming debido al tamaño se encuentra en Anexos
+
 ### 4.2.2. Candidate Context Discovery
 Con el EventStorming realizado, se utilizo la técnica de start-with-value para la identificación de aquellas partes del core del dominio que van a aportar un mayor valor a nuestro negocio. Por lo cual, se identificaron 3 principales que vendrían ser Customer Relationship & Communication, Traveling Expirience Desing and Maintenance y Traveling Expirience Booking and Tracking.
 
