@@ -105,6 +105,7 @@ La siguiente tabla enumera las Historias de Usuario Principales que definen las 
     </tr>
   </tbody>
 </table>
+
 ### 4.1.2.2. Quality attribute Scenarios. 
 
  Estos escenarios ayudan a definir y comprender las expectativas y requisitos clave en términos de calidad del sistema que estamos desarrollando. A continuación, se describirán los más importantes.
