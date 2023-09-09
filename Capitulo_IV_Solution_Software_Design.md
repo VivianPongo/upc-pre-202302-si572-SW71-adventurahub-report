@@ -624,10 +624,14 @@ Entre estos dos bounded contexts, se aplica la relación Upstream/Downstream, ya
 ### 4.3.1 Software Archicture Context Level Diagrams
 
 ### 4.3.1 Software Archicture  Container Level Diagrams. 
+- **Identity and Access Management (IAM) con Profiles & Social Interaction:**
+<div align="center">
+  <img src="./resources/tb1/CLD Identity and Access Management.png" alt="C4 Container Diagram" />
+</div>
 
 - **Customer Relationship & Communication Management con Travel Experience Design and Maintenance:**
 <div align="center">
-  <img src="./resources/tb1/CLD Customer Relationship & Communication Management" alt="C4 Container Diagram" />
+  <img src="./resources/tb1/CLD Customer Relationship & Communication Management.png" alt="C4 Container Diagram" />
 </div>
 
 
