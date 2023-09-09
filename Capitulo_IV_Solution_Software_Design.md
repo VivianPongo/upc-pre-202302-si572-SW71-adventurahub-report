@@ -1,3 +1,228 @@
+## 4.1. Strategic-Level Attribute-Driven Design
+### 4.1.1. Design Purpose
+
+Para describir correctamente el Design Purpose de AdventureHub, es importante tener en cuenta los siguientes puntos:
+
+**Propósito general**
+
+El propósito general de AdventureHub es proporcionar una plataforma en línea fácil de usar que permita a los viajeros comprar paquetes de viaje personalizados que se adapten a sus intereses y presupuestos individuales. Nuestro objetivo es simplificar el proceso de planificación de viajes para los usuarios y ofrecer información confiable y transparente sobre precios y paquetes de viaje. Además, buscamos promover el turismo y apoyar a pequeñas agencias de viajes locales para fomentar un impacto positivo en la economía local y el turismo sostenible.
+
+**Público objetivo**
+
+Se tiene dos públicos objetivos distintos:
+1. Personas que buscan experiencias de aventura.
+2. Agencias de viajes que buscan publicar sus tours de viaje.
+
+Para el primer grupo, se busca una aplicación que les ofrezca:
+- Información detallada sobre destinos y actividades de aventura disponibles.
+- Precios y paquetes de viaje competitivos y adaptados a sus necesidades.
+- Acceso a información sobre transporte, alojamiento y otros servicios necesarios para su viaje.
+- Una experiencia de usuario fácil de usar.
+
+Por otro lado, las agencias de viajes buscan una plataforma en línea fácil de usar y eficiente para publicar sus tours de viaje y llegar a nuevos clientes potenciales, con funciones de gestión de reservas y pagos para facilitar la administración de los tours.
+
+**Características clave**
+
+Las características clave de AdventureHub incluyen:
+- **Usabilidad:** La aplicación debe ser fácil de usar e intuitiva para los usuarios, con una interfaz atractiva y funcionalidades claras.
+- **Rendimiento:** La aplicación debe ser rápida y confiable para una experiencia de usuario fluida.
+- **Seguridad:** La aplicación debe proteger la información personal y financiera de los usuarios.
+- **Escalabilidad:** La aplicación debe ser capaz de manejar un gran volumen de usuarios y transacciones sin afectar el rendimiento o la seguridad de la aplicación.
+- **Compatibilidad con múltiples plataformas:** La aplicación debe ser compatible con múltiples dispositivos, incluyendo computadoras de escritorio, laptops, tabletas y smartphones.
+- **Personalización:** La aplicación debe permitir la personalización de opciones de viaje para los usuarios.
+- **Integración de redes sociales:** La aplicación debe permitir la integración con las redes sociales para compartir información sobre experiencias de viaje y promocionar la aplicación.
+
+**Arquitectura del Sistema**
+
+La Arquitectura del Sistema propuesta para AdventureHub consiste en Microservicios bajo Attribute Driven Design (ADD). Se utilizarían diferentes tecnologías para cada capa, según las necesidades específicas de cada microservicio.
+
+En la **Capa de presentación** se utilizaría una aplicación web o móvil como interfaz de usuario y un framework de JavaScript como React, Angular o Vue.js para la lógica de presentación.
+En la **Capa de servicios**, cada microservicio se implementaría utilizando un lenguaje de programación diferente y se utilizaría un protocolo de comunicación como REST o gRPC para la comunicación entre microservicios.
+En la **Capa de acceso a datos**, se utilizarían diferentes tecnologías de almacenamiento de datos, como bases de datos relacionales o NoSQL, y frameworks de ORM como Hibernate o Sequelize para el acceso a los datos.
+En la **Capa de infraestructura**, se utilizarían tecnologías de contenerización como Docker para gestionar los contenedores de los microservicios, y herramientas de automatización como Ansible o Puppet para la gestión de la configuración de la infraestructura.
+
+
+## 4.1.2. Attribute-Driven Design Inputs. 
+### 4.1.2.1. Primary Functionality (Primary User Stories).
+
+La siguiente tabla enumera las Historias de Usuario Principales que definen las funcionalidades clave de nuestro proyecto de software. Estas historias representan las necesidades y objetivos principales de los usuarios y administradores, y son esenciales para el funcionamiento exitoso de nuestra aplicación. Cada historia de usuario se identifica con un ID único.
+
+<table>
+  <colgroup>
+    <col style="width: 10%" />
+    <col style="width: 90%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-04</td>
+      <td>Como usuario, quiero poder buscar paquetes de viaje en base a mi presupuesto, para encontrar opciones que se ajusten a mis necesidades financieras.</td>
+    </tr>
+    <tr>
+      <td>US-05</td>
+      <td>Como usuario, quiero poder explorar paquetes de viaje en base a la temporada del año, para encontrar opciones que se adapten al clima y las actividades disponibles en el momento.</td>
+    </tr>
+    <tr>
+      <td>US-06</td>
+      <td>Como usuario, quiero poder buscar paquetes de viaje en base al destino escogido, para encontrar opciones que se ajusten a mi ubicación y preferencias culturales.</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Como usuario, quiero poder reservar un paquete de viaje en la aplicación, para poder asegurar mi lugar y mi itinerario.</td>
+    </tr>
+    <tr>
+      <td>US-13</td>
+      <td>Como usuario, quiero recibir notificaciones sobre cambios en mi itinerario de viaje, para estar informado y preparado.</td>
+    </tr>
+    <tr>
+      <td>US-17</td>
+      <td>Como administrador, quiero poder enviar notificaciones personalizadas a los usuarios para informarles sobre nuevos paquetes de viaje y ofertas especiales.</td>
+    </tr>
+    <tr>
+      <td>US-24</td>
+      <td>Como usuario, quiero poder solicitar un paquete personalizado a través del chat de la aplicación, para poder encontrar la mejor opción de viaje para mí.</td>
+    </tr>
+    <tr>
+      <td>US-25</td>
+      <td>Como usuario, quiero recibir notificaciones en tiempo real cuando una agencia acepte mi solicitud de paquete personalizado, para poder comenzar la conversación de inmediato.</td>
+    </tr>
+    <tr>
+      <td>US-26</td>
+      <td>Como agencia de viajes, quiero poder ver una lista de solicitudes personalizadas de usuarios, para poder seleccionar las solicitudes que me interesan y comenzar una conversación.</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Como usuario, quiero poder comunicarme directamente con la agencia de viajes a través del chat de la aplicación, para poder hacer preguntas y resolver cualquier problema relacionado con mi reserva.</td>
+    </tr>
+    <tr>
+      <td>US-30</td>
+      <td>Como usuario, quiero poder aceptar o rechazar los componentes del paquete personalizado que se me ofrecen, para poder tener una experiencia personalizada y a medida.</td>
+    </tr>
+  </tbody>
+</table>
+### 4.1.2.2. Quality attribute Scenarios. 
+
+ Estos escenarios ayudan a definir y comprender las expectativas y requisitos clave en términos de calidad del sistema que estamos desarrollando. A continuación, se describirán los más importantes.
+
+
+<table>
+  <colgroup>
+    <col style="width: 10%" />
+    <col style="width: 25%" />
+    <col style="width: 45%" />
+    <col style="width: 20%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Quality Attribute</th>
+      <th>Scenario</th>
+      <th>Associated User Story</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>QA-1</td>
+    <td>Portabilidad</td>
+    <td>El usuario puede acceder a la plataforma web desde su navegador favorito.</td>
+    <td>US01 - US10, US12 – US31, US33</td>
+  </tr>
+  <tr>
+    <td>QA-2</td>
+    <td>Fiabilidad</td>
+    <td>El usuario puede acceder a las funcionalidades de la plataforma las 24 horas del día, los 7 días de la semana.</td>
+    <td>US01 - US10, US12 – US31, US33</td>
+  </tr>
+  <tr>
+    <td>QA-3</td>
+    <td>Fiabilidad</td>
+    <td>El backend de la plataforma debe poseer una alta disponibilidad para evitar interrupciones en el proceso de reserva y garantizar una experiencia de usuario sin problemas.</td>
+    <td>US01 - US10, US12 – US31, US33</td>
+  </tr>
+  <tr>
+    <td>QA-4</td>
+    <td>Fiabilidad</td>
+    <td>La plataforma web debe poseer un servicio de almacenamiento en la nube con copias de seguridad y redundancia en caso de fallas técnicas para garantizar la disponibilidad de los datos y evitar interrupciones en el servicio.</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td>QA-5</td>
+    <td>Rendimiento</td>
+    <td>La plataforma debe ser capaz de procesar al menos 500 transacciones de pagos de paquetes de viaje por hora sin tiempos de espera para los usuarios.</td>
+    <td>US08-US12, US31</td>
+  </tr>
+  <tr>
+    <td>QA-6</td>
+    <td>Rendimiento</td>
+    <td>En los períodos de alto tráfico en la plataforma, el tiempo de respuesta de la búsqueda de paquetes de viaje debería ser menor de 3 segundos para el 85% de los usuarios.</td>
+    <td>US04-US07, US24, US30</td>
+  </tr>
+  <tr>
+    <td>QA-7</td>
+    <td>Seguridad</td>
+    <td>Para el 95% de las solicitudes realizadas por usuarios o microservicios, el tiempo de respuesta para autenticación y autorización debe ser inferior a 2 segundos. Además, la tasa de éxito de autenticación y autorización debe ser superior al 99,9%.</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td>QA-8</td>
+    <td>Usabilidad</td>
+    <td>Los usuarios nuevos al acceder a la plataforma deberían aprender a reservar un paquete de viaje en la aplicación en menos de 10 minutos mediante las interfaces intuitivas y sin orientación adicional.</td>
+    <td>US04-US33</td>
+  </tr>
+  <tr>
+    <td>QA-9</td>
+    <td>Escalabilidad</td>
+    <td>La plataforma de viajes puede manejar tráfico ligero durante períodos de alta demanda sin experimentar interrupciones en el servicio al agregar más instancias de microservicios durante dichos períodos.</td>
+    <td>All</td>
+  </tr>
+  <tr>
+    <td>QA-10</td>
+    <td>Mantenibilidad</td>
+    <td>Usando herramientas para monitorear registros y métricas, los ingenieros de mantenimiento deben poder identificar la causa de los errores de producción en menos de 15 minutos.</td>
+    <td>US04-US33</td>
+  </tr>
+</table>
+
+
+### 4.1.2.3. Constraints. 
+
+En el proceso de desarrollo de nuestro proyecto de software, es esencial comprender y definir con claridad las restricciones que influirán en el diseño, implementación y funcionamiento del sistema. A continuación se detallarán cada una de ellas.
+
+<table>
+  <colgroup>
+    <col style="width: 10%" />
+    <col style="width: 90%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Constraint</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>CON-1</td>
+    <td>Las cuentas de los usuarios y los permisos de estos mismos deben ser manejados por un servidor directo de usuarios.</td>
+  </tr>
+  <tr>
+    <td>CON-2</td>
+    <td>Se debe realizar la conexión de la base de datos con los servicios de Amazon Web Services (AWS).</td>
+  </tr>
+  <tr>
+    <td>CON-3</td>
+    <td>La conexión de redes en las estaciones de trabajo de los usuarios puede tener baja latencia, pero generalmente es confiable.</td>
+  </tr>
+  <tr>
+    <td>CON-4</td>
+    <td>El sistema debe auto guardar los últimos 30 eventos, que se realizaron.</td>
+  </tr>
+</table>
+
+
+### 4.1.3. Architectural Drivers Backlog
 ### 4.1.3. Architectural Drivers Backlog
 Siguiendo las secciones previas que han abordado los Functional Drivers, Quality Attribute Drivers y todos los Constraints mencionadas, se han identificado los siguientes factores determinantes. Esto se logró al evaluar tanto la implementación de la solución tecnológica como su relevancia en el Business Core.
 
