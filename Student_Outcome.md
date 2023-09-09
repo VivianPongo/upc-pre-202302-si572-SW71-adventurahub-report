@@ -31,6 +31,7 @@ ingeniería.</td>
     <strong>Patrick Cuentas Mariano<br>TB1</strong><br>
     Durante la fase inicial de modelado de arquitectura para este proyecto, elaboré un Context Diagram siguiendo la metodología C4. Mediante reuniones con el equipo de desarrollo y stakeholders del proyecto, pude recolectar los requerimientos y objetivos clave que nos permitieron establecer el alcance y contexto general del sistema.
     <br><br>
+	    <br><strong>Palomino Medina Oscar<br>TB1</strong><br>La implementación adecuada de las técnicas Tactical DDD y Needfinding en iniciativas de ingeniería asegura un diálogo claro y eficaz con un espectro amplio de oyentes.  
        <br><strong>Renato Clotario Castillo Rengifo<br>TB1</strong><br>Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
 
 </td>
