@@ -221,8 +221,6 @@ En el proceso de desarrollo de nuestro proyecto de software, es esencial compren
   </tr>
 </table>
 
-
-### 4.1.3. Architectural Drivers Backlog
 ### 4.1.3. Architectural Drivers Backlog
 Siguiendo las secciones previas que han abordado los Functional Drivers, Quality Attribute Drivers y todos los Constraints mencionadas, se han identificado los siguientes factores determinantes. Esto se logró al evaluar tanto la implementación de la solución tecnológica como su relevancia en el Business Core.
 
