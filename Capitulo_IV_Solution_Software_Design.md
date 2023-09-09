@@ -625,5 +625,10 @@ Entre estos dos bounded contexts, se aplica la relación Upstream/Downstream, ya
 
 ### 4.3.1 Software Archicture  Container Level Diagrams. 
 
+- **Customer Relationship & Communication Management con Travel Experience Design and Maintenance:**
+<div align="center">
+  <img src="./resources/tb1/CLD Customer Relationship & Communication Management" alt="C4 Container Diagram" />
+</div>
+
 
 
