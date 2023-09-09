@@ -547,6 +547,34 @@ El tercer dominio identificado es Traveling Expirience Booking and Tracking, el 
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-3.png" alt="Candidate Context Discovery">
 			</div>
 
+### 4.2.3. Domain Message Flows Modeling
+
+##### 1. Scenario: Registering in the app
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/flow-1.png" width ="700px" alt="flow-1" style="margin-right: 20px;">
+</div>
+
+##### 2. Scenario: Registering in the app
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/flow-2.png" width ="700px" alt="flow-2" style="margin-right: 20px;">
+</div>
+
+##### 3. Scenario: Pay a Tour Package
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/flow-3.png" width ="700px" alt="flow-3" style="margin-right: 20px;">
+</div>
+
+
+##### 4. Scenario: Check purchased tour packages
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/flow-11.png" width ="700px" alt="flow-11" style="margin-right: 20px;">
+</div>
+
+##### 5. Scenario: Connect Tours Info and User chatbot to OpenAI
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/message-model-ai.jpg" width ="700px" alt="flow-11" style="margin-right: 20px;">
+</div>
+
 ## 4.3 Software Architecture
 
 ### 4.3.1 Software Archicture System Landscape Diagram
