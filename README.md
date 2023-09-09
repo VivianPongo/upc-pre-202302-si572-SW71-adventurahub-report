@@ -16,7 +16,7 @@ Ciclo: 2023-2
 
 ----
 ## Informe de Trabajo Final
-### Adevnture Hub
+### Dream Team
 
 #### Team Members 
 | Integrante                          | Código         |
