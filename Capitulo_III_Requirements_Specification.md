@@ -444,7 +444,7 @@ DADO que un usuario solicita un paquete personalizado y realiza un pago parcial,
 </td>
 </tbody>
 </table>
-<br><br>
+
 ## 3.3. Impact Mapping.
 En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación provocará transformaciones significativas en el estilo de vida de los usuarios. En última instancia, se podrá constatar que todos estos cambios se materializan a través de las historias de usuario.
 
