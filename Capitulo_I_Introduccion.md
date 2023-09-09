@@ -73,6 +73,18 @@ El nombre del startup es DreamTeam.
 	</div>
 </div>
 
+<div>
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/profile-images/mauricio.jpg" width="80" height="80">
+	<div>
+		<u>
+			<strong> Mauricio Oscar Nuñez Melgarejo - u201913455</strong>
+		</u>
+		<p>
+			Como profesional en formación de la carrera de ingeniería de software, tengo habilidades en programación, análisis de requisitos, diseño y testing de software, además de ser una persona comprometida, responsable y con una actitud proactiva hacia el trabajo en equipo. Tengo conocimientos en lenguajes de programación como Java, Python, C++, y tecnologías web como HTML, CSS y JavaScript, así como experiencia en el uso de herramientas de desarrollo y control de versiones.
+		</p>
+	</div>
+</div>
+
 
 <br>
 <div>
