@@ -42,7 +42,7 @@ En la **Capa de acceso a datos**, se utilizarían diferentes tecnologías de alm
 En la **Capa de infraestructura**, se utilizarían tecnologías de contenerización como Docker para gestionar los contenedores de los microservicios, y herramientas de automatización como Ansible o Puppet para la gestión de la configuración de la infraestructura.
 
 
-## 4.1.2. Attribute-Driven Design Inputs. 
+## 4.1.2. Attribute-Driven Design Inputs.
 ### 4.1.2.1. Primary Functionality (Primary User Stories).
 
 La siguiente tabla enumera las Historias de Usuario Principales que definen las funcionalidades clave de nuestro proyecto de software. Estas historias representan las necesidades y objetivos principales de los usuarios y administradores, y son esenciales para el funcionamiento exitoso de nuestra aplicación. Cada historia de usuario se identifica con un ID único.
@@ -106,7 +106,7 @@ La siguiente tabla enumera las Historias de Usuario Principales que definen las 
   </tbody>
 </table>
 
-### 4.1.2.2. Quality attribute Scenarios. 
+### 4.1.2.2. Quality attribute Scenarios.
 
  Estos escenarios ayudan a definir y comprender las expectativas y requisitos clave en términos de calidad del sistema que estamos desarrollando. A continuación, se describirán los más importantes.
 
@@ -189,7 +189,7 @@ La siguiente tabla enumera las Historias de Usuario Principales que definen las 
 </table>
 
 
-### 4.1.2.3. Constraints. 
+### 4.1.2.3. Constraints.
 
 En el proceso de desarrollo de nuestro proyecto de software, es esencial comprender y definir con claridad las restricciones que influirán en el diseño, implementación y funcionamiento del sistema. A continuación se detallarán cada una de ellas.
 
@@ -541,13 +541,39 @@ El segundo dominio indentificado es Traveling Expirience Desing and Maintenance,
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-2.png" alt="Candidate Context Discovery">
 			</div>
 
-El tercer dominio identificado es Traveling Expirience Booking and Tracking, el cual permitira a los usuarios agency el poder crear, remover, actulizar reservas de los paquetes y hacer seguimiento sobre el estado de estos. 
+El tercer dominio identificado es Traveling Expirience Booking and Tracking, el cual permitira a los usuarios agency el poder crear, remover, actulizar reservas de los paquetes y hacer seguimiento sobre el estado de estos.
 
 <div align="center">
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/Candidate-Context-Discovery-3.png" alt="Candidate Context Discovery">
 			</div>
 
 ### 4.2.3. Domain Message Flows Modeling
+
+### 4.2.4. Bounded Context Canvases
+
+* Travel Experience Booking and Tracking
+
+<img src="./resources/tb1/travel_bounded_canvas.png" width=700>
+
+* Travel Experience Design and Maintenance
+
+<img src="./resources/tb1/travel_exp_bounded_canvas.png" width=700>
+
+* Customer Relationship & Communication Management
+
+<img src="./resources/tb1/customer_bounded_canvas.png" width=700>
+
+* Subscription and Payments
+
+<img src="./resources/tb1/subscription_bounded_canvas.png" width=700>
+
+* Identity and Access Management
+
+<img src="./resources/tb1/identity_bounded_canvas.png" width=700>
+
+* Profiles & Social Interaction
+
+<img src="./resources/tb1/profile_bounded_canvas.png" width=700>
 
 ##### 1. Scenario: Registering in the app
 <div style="display: flex; align-items: center;">
