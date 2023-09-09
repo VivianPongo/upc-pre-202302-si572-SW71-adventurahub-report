@@ -575,6 +575,44 @@ El tercer dominio identificado es Traveling Expirience Booking and Tracking, el 
     <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/message-model-ai.jpg" width ="700px" alt="flow-11" style="margin-right: 20px;">
 </div>
 
+### 4.2.5. Context Mapping
+
+- **Identity and Access Management (IAM) con Profiles & Social Interaction:**
+
+Entre estos dos bounded contexts, se aplica el patrón Shared Kernel, ya que comparten información crítica para garantizar la consistencia. También tienen una relación de tipo Upstream/Downstream, dado que cualquier cambio en IAM podría afectar a Profiles & Social Interaction. Esto se debe a que IAM proporciona servicios de autenticación e identidad, datos fundamentales para el funcionamiento coherente de Profiles & Social Interaction.
+
+- **Identity and Access Management (IAM) con Customer Relationship & Communication Management:**
+
+Entre estos dos bounded contexts, se aplica la relación Upstream/Downstream, ya que los cambios en IAM podrían impactar a Customer Relationship & Communication Management. IAM actúa como el contexto "aguas arriba", proporcionando servicios de autenticación e identidad que son esenciales para el correcto funcionamiento de Customer Relationship & Communication Management, el contexto "aguas abajo".
+
+- **Customer Relationship & Communication Management con Profiles & Social Interaction:**
+
+Entre estos dos bounded contexts, se aplica el patrón Customer/Supplier, ya que Customer Relationship & Communication Management depende de los datos del perfil de usuario proporcionados por Profiles & Social Interaction para operar su asistente virtual con IA. También tienen una relación Upstream/Downstream, ya que cualquier cambio en Profiles & Social Interaction afectará a Customer Relationship & Communication Management.
+
+- **Customer Relationship & Communication Management con Subscription and Payments:**
+
+Entre estos dos bounded contexts, se aplica la relación Free, ya que no necesitan uno al otro para funcionar de manera independiente.
+
+- **Customer Relationship & Communication Management con Travel Experience Design and Maintenance:**
+
+Entre estos dos bounded contexts, se aplica el patrón Customer/Supplier, ya que Customer Relationship & Communication Management recibe información sobre tours y vuelos disponibles desde Travel Experience Design and Maintenance para su asistente IA. También tienen una relación Upstream/Downstream, dado que cualquier cambio en Customer Relationship & Communication Management afectará a Travel Experience Design and Maintenance.
+
+- **Travel Experience Design and Maintenance con Travel Experience Booking and Tracking:**
+
+Entre estos dos bounded contexts, se aplica el patrón Customer/Supplier, ya que Travel Experience Booking and Tracking recibe información sobre tours y vuelos disponibles desde Travel Experience Design and Maintenance para la reserva. También tienen una relación Upstream/Downstream, ya que cualquier cambio en Travel Experience Design and Maintenance afectará a Travel Experience Booking and Tracking.
+
+- **Travel Experience Booking and Tracking con Subscription and Payments:**
+
+Entre estos dos bounded contexts, se aplica el patrón Customer/Supplier, y también tienen una relación Upstream/Downstream, ya que la reserva dentro de Travel Experience Booking and Tracking depende del pago correspondiente que se realiza dentro de Subscription and Payments.
+
+- **Profiles & Social Interaction con Subscription and Payments:**
+
+Entre estos dos bounded contexts, se aplica la relación Upstream/Downstream, ya que los datos del perfil de usuario son necesarios para el proceso de pago dentro de Subscription and Payments.
+
+<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/context-mapping.png" alt="Context Mapping">
+</div>
+
 ## 4.3 Software Architecture
 
 ### 4.3.1 Software Archicture System Landscape Diagram
