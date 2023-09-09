@@ -10,7 +10,7 @@ El nombre del startup es DreamTeam.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 <div style="display: flex; align-items: center;">
-    <img src="URL_DE_LA_IMAGEN" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
+    <img src="[URL_DE_LA_IMAGEN](https://media.licdn.com/dms/image/C4E03AQHhnb-eyGG7qw/profile-displayphoto-shrink_800_800/0/1644894611343?e=1699488000&v=beta&t=Rnn1hN48coIn2ZFMBe2uSZyBe2NcbTfxuLSKE3gwZ7s)" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
     <div>
         <u><strong>Ivan Moran Moreno - U201919381</strong></u><br>
         Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Siempre, desde más joven, he estado interesado en la tecnología, y es por eso por lo que decidí estudiar esta carrera. Me gusta aprender nuevos frameworks, tecnologías e inteligencia artificial, y participar en Hackatons y StartUps para ampliar mi conocimiento.
