@@ -73,6 +73,19 @@ El nombre del startup es DreamTeam.
 	</div>
 </div>
 
+
+<br>
+<div>
+	<img src="./resources/profile-images/os.png" width="80" height="80">
+	<div>
+		<u>
+			<strong> Oscar Enrique Palomino Medina - U201822717</strong>
+		</u>
+		<p>
+			Estudiante de la carrera de Ingeniería de Software de la UPC. Me gusta elaborar lluvia de ideas en trabajos grupales para lograr un mejor desenvolvimiento de cada uno y así poder conocerlos más, soy carismático y empeñoso al elaborar cada trabajo o proyectos tanto en mi vida personal como universitaria. Poseo conocimientos en C++, HTML, CSS, javascript y C# De esta manera me comprometo a lograr un buen trabajo en equipo poniendo a disposición todas mis cualidades y experiencias para lograr el mejor Proyecto.
+		</p>
+	</div>
+</div>
 <br>
 
 ## 1.2 Solution Profile
