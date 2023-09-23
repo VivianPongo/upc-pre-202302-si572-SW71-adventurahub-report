@@ -515,9 +515,9 @@ En esta sección, necesitamos confirmar todas estas suposiciones que se han cues
 
 Para encontrar el segmento objetivo de nuestra empresa, hemos decidido dividir este punto en diferentes tipos de segmentos, los cuales son:
 
-<strong>Viajeros aventureros:</strong>
+<strong>Turistas:</strong>
 <br>
-Estos son los usuarios que buscan vivir experiencias emocionantes y desafiantes durante sus viajes en Perú.  
+Estos son los usuarios que buscan vivir experiencias emocionantes y agradables durante sus viajes a Perú, mediante la compra de paquetes turísticos.   
 
 <table style="undefined;table-layout: fixed; width: 757px">
 <colgroup>
@@ -527,7 +527,7 @@ Estos son los usuarios que buscan vivir experiencias emocionantes y desafiantes 
 <thead>
   <tr>
     <th></th>
-    <th>Viajeros Aventureros<br></th>
+    <th>Turistas<br></th>
   </tr>
 </thead>
 <tbody>
@@ -545,7 +545,7 @@ Estos son los usuarios que buscan vivir experiencias emocionantes y desafiantes 
   </tr>
   <tr>
     <td>Experiencia</td>
-    <td>Amateur - Experimentados en aventuras extremas</td>
+    <td>Amateur - Experimentados</td>
   </tr>
   <tr>
     <td>Poder Adquisitivo<br></td>
@@ -553,18 +553,18 @@ Estos son los usuarios que buscan vivir experiencias emocionantes y desafiantes 
   </tr>
   <tr>
     <td>Clase Social<br></td>
-    <td>Clase A - B - D<br></td>
+    <td>Clase A - B - C<br></td>
   </tr>
   <tr>
     <td>Habito de Consumo<br></td>
-    <td>Busqueda de tours y paquetes turisticos con actividades de aventura<br></td>
+    <td>Busqueda de tours y paquetes turisticos con actividades variadas<br></td>
   </tr>
 </tbody>
 </table>
 
-<strong>Agencias de viaje especializadas en aventuras:</strong>
+<strong>Agencias</strong>
 <br>
-Estos son las agencias de viaje que ofrecen paquetes turísticos que incluyen actividades de aventura en Perú.
+Estos son las agencias que ofrecen paquetes turísticos con diversos tipos de actividades en el Perú.
 
 <table style="undefined;table-layout: fixed; width: 757px">
 <colgroup>
@@ -574,21 +574,21 @@ Estos son las agencias de viaje que ofrecen paquetes turísticos que incluyen ac
 <thead>
   <tr>
     <th></th>
-    <th>Agencias de viaje especializadas en aventuras<br><br></th>
+    <th>Agencias<br><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ubicacion<br></td>
-    <td>Peru<br></td>
+    <td>Ubicación<br></td>
+    <td>Perú<br></td>
   </tr>
   <tr>
-    <td>Poder Adquisitivo<br></td>
-    <td>Tamaño Pequeñas - Medianas - Grandes<br></td>
+    <td>Sector<br></td>
+    <td>Turismo<br></td>
   </tr>
   <tr>
-    <td>Ubicacion</td>
-    <td>Clase A - B - D<br></td>
+    <td>Tamaño Empresa</td>
+    <td>Pequeñas - Medianas<br></td>
   </tr>
 </tbody>
 </table>
