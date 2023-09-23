@@ -263,6 +263,8 @@ Para definir cómo debe verse y comportarse un producto, es importante tener en 
   
 #### 1.2.2.3 Lean UX Hyphotesis Statements
 
+Los Hypothesis Statements desempeñan un papel fundamental en el enfoque centrado en el usuario y son esenciales para el éxito de AdventureHub. Estas declaraciones son una brújula que guía el desarrollo del producto hacia las necesidades reales de los usuarios. Además, actúan como una herramienta de medición al proporcionar métricas claras para evaluar su validez, lo que permite tomar decisiones de diseño y desarrollo más informadas. A continuación, se presentan las hipótesis creadas al identificar los supuestos más importantes. 
+
 1. Creemos que, al proporcionar una plataforma web y móvil con información detallada sobre aventuras y destinos en línea, para usuarios de viajes, lograremos que los usuarios tomen decisiones de viaje más informadas y satisfagan sus necesidades de planificación de viaje. Sabremos que esto es cierto cuando observemos un aumento significativo en la interacción de los usuarios con la plataforma y una mejora en la toma de decisiones de viaje a través de la retroalimentación cualitativa de los usuarios y el aumento en el tiempo promedio que pasan en la plataforma.
 
 2. Creemos que los usuarios desean una interacción efectiva con proveedores (agencias) y valoran la seguridad en el proceso de reserva de aventuras. Sabremos que esto es cierto cuando veamos un aumento en la cantidad de interacciones entre usuarios y proveedores en nuestra plataforma, así como una disminución en las quejas relacionadas con la seguridad.
@@ -279,9 +281,15 @@ Para definir cómo debe verse y comportarse un producto, es importante tener en 
 
 8. Creemos que nuestra fuente principal de ingresos será a través de tarifas de servicio (planes) por el uso de funciones exclusivas en nuestra plataforma. Sabremos que esto es cierto cuando los ingresos previstos se cumplan o superen nuestras proyecciones.
 
-9. Creemos que los usuarios estarán interesados en tener una experiencia de búsqueda y reservación de actividades al aire libre en una plataforma en línea
+9. Creemos que el usuario aprovechará nuestro producto en diversas etapas de su viaje, desde la exploración inicial de opciones hasta la coordinación de servicios y la confirmación de reservas, principalmente a través de dispositivos móviles y computadoras. Sabremos que esto es cierto cuando observemos un patrón consistente de uso a lo largo de estas etapas y cuando la cantidad de reservas realizadas en nuestra plataforma sea significativa.
 
+10. Creemos que el usuario agencia de viajes busca soluciones tecnológicas para mejorar la promoción de sus paquetes de viajes y simplificar la gestión de reservas en línea. Sabremos que esto es cierto cuando observemos una adopción activa de agencias de viajes en nuestra plataforma y una creciente carga de información de paquetes de viaje.
 
+11. Creemos que nuestro producto ayudará a las agencias de viajes, proporcionando una plataforma que simplifica la promoción de paquetes de viaje y facilita la reserva de viajes por parte de sus clientes. Sabremos que esto es cierto cuando las agencias de viajes utilicen regularmente nuestra plataforma para promocionar sus paquetes y gestionar reservas, y cuando obtengamos retroalimentación positiva que indique una mejora en la eficiencia y la visibilidad en línea de estas agencias.
+
+12. Creemos que nuestro producto se utiliza en todo momento por parte de la agencia de viajes, tanto para la carga de información de paquetes como para la interacción con los clientes que desean reservar en línea. Sabremos que esto es cierto cuando veamos una alta tasa de actividad constante por parte de las agencias en nuestra plataforma.
+
+13. Creemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes. Sabremos que esto es cierto cuando las agencias de viajes elijan nuestra plataforma debido a su apariencia profesional y cuando no se produzcan incidentes significativos que afecten negativamente la experiencia del usuario o la gestión de negocios en línea.
 
 
 #### 1.2.2.4 Lean UX Canvas
