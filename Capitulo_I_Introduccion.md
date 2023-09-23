@@ -456,7 +456,6 @@ La falta de personalización en la experiencia del usuario al elegir un destino 
 
 Agencia:
 Poca confianza en las pequeñas y medianas agencias de viajes y la falta de visibilidad para estas empresas.
-
 <br></td>
     <td rowspan="2">
 		<strong>Solution Ideas</strong>
@@ -496,7 +495,6 @@ Información detallada sobre cada destino
 Capacidad para tomar decisiones más informadas sobre el viaje
 
 Posibilidad de personalizar actividades y experiencias en cada destino.
-
 		</td>
   </tr>
 </thead>
