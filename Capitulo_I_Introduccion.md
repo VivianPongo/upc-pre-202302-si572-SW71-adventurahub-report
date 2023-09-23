@@ -468,16 +468,15 @@ Sistema de búsqueda avanzada que permita a los usuarios filtrar los paquetes de
 Sistema de calificación y comentarios de los turistas para las agencias de viaje y destinos.
 
 Integración con proveedores de servicios turísticos locales para ofrecer actividades personalizadas en cada destino.
-
 		</td>
     <td>
 		<strong>Business Outcomes</strong>
 		<br>
-Mayor cantidad de usuarios que reservan paquetes de viaje a través de la plataforma.
+•	Mayor cantidad de usuarios que reservan paquetes de viaje a través de la plataforma.
 
-Aumento de las ventas de las agencias asociadas a la plataforma.
+•	Aumento de las ventas de las agencias asociadas a la plataforma.
 
-Satisfacción del usuario y la fidelización a la plataforma.
+•	Satisfacción del usuario y la fidelización a la plataforma.
 		</td>
   </tr>
   <tr>
