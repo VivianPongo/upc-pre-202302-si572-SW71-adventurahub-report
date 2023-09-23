@@ -132,6 +132,9 @@ Por lo tanto, la pregunta clave para este proyecto es:
 
 
 #### 1.2.2.2 Lean UX Assumptions
+
+Los Lean UX Assumptions son esenciales para el proyecto AdventureHub porque proporcionan una base sólida y orientada al usuario para el desarrollo de la plataforma. Son vitales para reducir riesgos, optimizar recursos y garantizar que el producto final sea realmente valioso y satisfaga las necesidades reales de todos los usuarios, lo que, a su vez, contribuye al éxito del proyecto.
+
 ####  <strong>BUSINESS ASSUMPTIONS:</strong>
 
 En esta sección, registraremos las acciones que, al resultar de forma positiva o negativa, nos favorecerá a conocer si nuestra propuesta está cumpliendo o no con el objetivo.
