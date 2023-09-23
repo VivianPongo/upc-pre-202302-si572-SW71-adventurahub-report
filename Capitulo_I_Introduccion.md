@@ -136,20 +136,32 @@ Por lo tanto, la pregunta clave para este proyecto es:
 
 En esta sección, registraremos las acciones que, al resultar de forma positiva o negativa, nos favorecerá a conocer si nuestra propuesta está cumpliendo o no con el objetivo.
   
-<br>
-    
 
-*	1.	Facilitar a los usuarios la búsqueda de información sobre diferentes tipos de aventuras y destinos
-	El objetivo principal de este proyecto es facilitar información centralizada a los usuarios, funcionando como un centro de referencias de diferentes tipos de aventuras y destinos disponibles.
+* Suponemos que existe una demanda significativa por parte de los usuarios de viajes para acceder a información detallada sobre aventuras y destinos en línea.
 
-*	2.	Facilitar la interacción entre proveedores de servicios y usuarios
-	Sabemos que no existe una fluida interacción entre proveedores de servicios de aventura y usuarios, ya que la mayoría de ellos no tienen una plataforma específica para promocionar sus servicios y características.
+* Suponemos que, al proporcionar una plataforma centralizada con información detallada, los usuarios podrán tomar decisiones de viaje más informadas y satisfacer sus necesidades de planificación de viaje.
 
-*	3.	Facilitar la reserva de aventuras y servicios de manera segura y eficiente.
-	Sabemos que a menudo los usuarios tienen dificultades para reservar aventuras y servicios de manera segura y eficiente, en AdventureHub los usuarios podrán reservar de manera segura y fácil en un solo lugar.
+* Suponemos que nuestro público objetivo está compuesto por entusiastas de los viajes que valoran experiencias únicas y buscan eficiencia en la planificación de aventuras.
 
-*	4.	Facilitar la organización de viajes personalizados y completos
-	Sabemos que muchos usuarios buscan organizar viajes personalizados y completos, pero a menudo tienen dificultades para encontrar información y coordinar con diferentes proveedores de servicios. En AdventureHub los usuarios podrán encontrar información completa y coordinar todo en un solo lugar.
+* Suponemos que los usuarios desean una interacción efectiva con proveedores (agencias) y valoran la seguridad en el proceso de reserva de aventuras.
+
+* Suponemos que los usuarios desean opciones de viaje personalizadas y completas que satisfagan sus preferencias y necesidades individuales.
+
+* Suponemos que una colaboración efectiva entre proveedores y usuarios conducirá al crecimiento de nuestra base de clientes, generando confianza y participación en nuestra plataforma.
+
+* Suponemos que nuestra fuente principal de ingresos será a través de tarifas de servicio (planes) por las reservas realizadas en nuestra plataforma.
+
+* Suponemos que la competencia principal son algunas aplicaciones similares en el mercado que buscan facilitar la conexión efectiva entre usuarios y proveedores de servicios de aventura.
+
+* Suponemos que superaremos a la competencia al ofrecer una plataforma confiable, segura y eficiente que responda a las necesidades tanto de usuarios como de proveedores.
+
+* Suponemos que el mayor riesgo que enfrentamos es la pérdida de confianza de los usuarios debido a preocupaciones relacionadas con la seguridad y la privacidad en línea.
+
+* Suponemos que mitigaremos el riesgo al implementar medidas efectivas de seguridad de datos y transacciones en línea, garantizando la confidencialidad y la integridad de la información.
+
+* Reconocemos que el éxito del proyecto depende de la disposición de los proveedores de servicios de aventura para colaborar y de la confianza de los usuarios en nuestra plataforma para sus reservas de viaje. Si estas suposiciones resultan falsas, el proyecto podría enfrentar desafíos sustanciales.
+
+
 
 ####  <strong>USER:</strong>
 
