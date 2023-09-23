@@ -184,7 +184,7 @@ También nos enfocamos en proporcionar a las agencias de viajes una plataforma e
 
 ####  <strong>USER ASSUMPTIONS :</strong>
 
-Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el proyecto AdventureHub, ya que establecen una base sólida para comprender las necesidades y expectativas de los usuarios. Estas suposiciones guían la definición de objetivos y el diseño centrado en el usuario, aseguran la validación continua a lo largo del desarrollo, minimizan riesgos, alinean al equipo y optimizan los recursos.
+Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el proyecto AdventureHub, ya que establecen una base para comprender las necesidades y expectativas de los usuarios. Estas suposiciones guían la definición de objetivos y el diseño. Asimismo, aseguran la validación continua a lo largo del desarrollo, minimizan riesgos, alinean al equipo y optimizan los recursos.
 
 ##### Usuario Turista
 
@@ -215,8 +215,26 @@ Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el
 
 * Suponemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes.
 
+<br>
 
-####  <strong>FEATURE ASSUMPTIONS:</strong>
+####  <strong>BUSINESS OUTCOME :</strong>
+
+
+
+
+
+
+<br> 
+
+####  <strong>USER OUTCOME :</strong>
+
+
+
+
+
+<br>
+
+####  <strong>FEATURE :</strong>
 
 <strong>¿Qué características son importantes?</strong>
 <br>
@@ -291,6 +309,7 @@ Los Hypothesis Statements desempeñan un papel fundamental en el enfoque centrad
 
 13. Creemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes. Sabremos que esto es cierto cuando las agencias de viajes elijan nuestra plataforma debido a su apariencia profesional y cuando no se produzcan incidentes significativos que afecten negativamente la experiencia del usuario o la gestión de negocios en línea.
 
+<br>
 
 #### 1.2.2.4 Lean UX Canvas
 
