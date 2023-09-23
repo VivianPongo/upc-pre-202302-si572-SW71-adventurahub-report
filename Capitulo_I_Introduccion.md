@@ -169,18 +169,22 @@ Los segmentos de usuarios a los que está dirigida nuestra aplicación serán pe
 
 <br>
     
-*	1.	Usuarios de aventura individuales
+*	Usuarios viajeros que buscan una grata experiencia de de viaje. En este grupo podemos encontrar a los siguientes subgrupos de viajeros: 
+
+    * Usuarios de aventura individuales
 Nos enfocamos en personas que buscan tener experiencias de aventura de manera individual, ya sean mochileros, viajeros solitarios o parejas aventureras.
 
-* 2.	Familias que buscan experiencias de aventura
+    * Familias/grupos que buscan experiencias de aventura
 También nos enfocamos en familias que buscan tener experiencias de aventura juntos, desde excursiones de un día hasta vacaciones más largas.
 
-* 3.	Agencia de viajes que buscan publicar sus tours de viaje y promociones.
+* Agencia de viajes que buscan publicar sus tours de viaje y promociones.
 También nos enfocamos en proporcionar a las agencias de viajes una plataforma en la que puedan publicar sus tours y promociones de viajes fácilmente y que puedan comunicarse de manera automatizada con los viajeros.
 
 ####  <strong>USER ASSUMPTIONS :</strong>
 
 Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el proyecto AdventureHub, ya que establecen una base sólida para comprender las necesidades y expectativas de los usuarios. Estas suposiciones guían la definición de objetivos y el diseño centrado en el usuario, aseguran la validación continua a lo largo del desarrollo, minimizan riesgos, alinean al equipo y optimizan los recursos.
+
+##### Usuario Turista
 
 * Suponemos que el usuario es un apasionado de los viajes, ávido de aventuras y experiencias únicas, con un conjunto diverso de preferencias y necesidades de viaje.
 
@@ -193,6 +197,21 @@ Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el
 * Suponemos que las características cruciales para el usuario incluyen una interfaz de usuario atractiva e intuitiva que simplifica la navegación, información detallada y actualizada sobre destinos y aventuras para facilitar la toma de decisiones, opciones de personalización de viajes que se adapten a sus preferencias individuales, y un proceso de reserva robusto y seguro para brindar tranquilidad.
 
 * Suponemos que nuestro producto debe destacarse por su diseño atractivo y su funcionalidad intuitiva, garantizando una experiencia de usuario fluida y segura en todo momento. La interfaz debería ser visualmente atractiva, y la navegación debe ser sencilla, lo que permitirá a los usuarios explorar y reservar aventuras de manera eficiente.
+
+
+##### Usuario Agencia de Viajes
+
+* Suponemos que el usuario es una agencia de viajes que busca soluciones tecnológicas para mejorar la promoción de sus paquetes de viajes y simplificar la gestión de reservas en línea.
+
+* Suponemos que nuestro producto se integra en la operación diaria de la agencia de viajes, proporcionando una plataforma que simplifica la promoción de paquetes de viaje y facilita la reserva de viajes por parte de sus clientes.
+
+* Suponemos que nuestro producto aborda los desafíos que enfrenta la agencia de viajes en la promoción efectiva de sus paquetes y en la gestión eficiente de reservas en línea, mejorando la visibilidad en línea y optimizando la experiencia del cliente.
+
+* Suponemos que nuestro producto se utiliza en todo momento por parte de la agencia de viajes, tanto para la carga de información de paquetes como para la interacción con los clientes que desean reservar en línea.
+
+* Suponemos que características como una interfaz de usuario intuitiva para la carga de paquetes, una plataforma de reserva segura y confiable, y herramientas de promoción efectiva son esenciales para la agencia de viajes.
+
+* Suponemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes.
 
 
 ####  <strong>FEATURE ASSUMPTIONS:</strong>
