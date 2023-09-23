@@ -182,7 +182,7 @@ En esta sección nombraremos los beneficios que recibirán nuestros usuarios den
 * 8.	Los proveedores de servicios podrán responder rápidamente a las consultas de los usuarios a través del sistema de mensajería, lo que permitirá una comunicación fluida y una atención al cliente eficiente.
 * 9.	Los usuarios podrán mantener un registro de todas sus comunicaciones y conversaciones con los proveedores de servicios en el sistema de mensajería, lo que les permitirá acceder fácilmente a la información en el futuro y tener un historial de sus reservas y consultas.
 
-####  <strong>USER OUTCOME:</strong>
+####  <strong>FEATURE ASSUMPTIONS:</strong>
 
 * <strong>¿Qué características son importantes?</strong>
 <br>
