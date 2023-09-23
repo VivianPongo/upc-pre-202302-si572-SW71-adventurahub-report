@@ -167,7 +167,6 @@ En esta sección, registraremos las acciones que, al resultar de forma positiva 
 
 Los segmentos de usuarios a los que está dirigida nuestra aplicación serán personas que buscan tener experiencias de aventura, desde jóvenes mochileros hasta familias que buscan vacaciones diferentes. Y también, agencia de viajes que buscan publicar sus tours de viaje.
 
-<br>
     
 *	Usuarios viajeros que buscan una grata experiencia de de viaje. En este grupo podemos encontrar a los siguientes subgrupos de viajeros: 
 
@@ -216,49 +215,47 @@ Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el
 
 ####  <strong>FEATURE ASSUMPTIONS:</strong>
 
-* <strong>¿Qué características son importantes?</strong>
+<strong>¿Qué características son importantes?</strong>
 <br>
 En el caso de AdventureHub, algunas características importantes podrían incluir:
 
-	+	Interfaz de usuario intuitiva y fácil de usar: El sistema de mensajería estará integrado en la interfaz de usuario de la aplicación, lo que permitirá a los usuarios comunicarse de manera fácil y rápida con los proveedores de aventuras y hacer consultas sobre los paquetes personalizados.
+*	Interfaz de usuario intuitiva y fácil de usar: El sistema de mensajería estará integrado en la interfaz de usuario de la aplicación, lo que permitirá a los usuarios comunicarse de manera fácil y rápida con los proveedores de aventuras y hacer consultas sobre los paquetes personalizados.
 
-	+	Sistema de reservas en línea: Los usuarios podrán utilizar el sistema de mensajería para hacer preguntas sobre los paquetes de viaje, obtener información adicional y realizar reservas en línea, todo dentro de la misma aplicación.
+*	Sistema de reservas en línea: Los usuarios podrán utilizar el sistema de mensajería para hacer preguntas sobre los paquetes de viaje, obtener información adicional y realizar reservas en línea, todo dentro de la misma aplicación.
 
-	+	Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
++	Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
 
-	+	Personalización de aventuras: Los usuarios podrán utilizar el sistema de mensajería para comunicarse con los proveedores de aventuras y solicitar personalizaciones en los paquetes de viaje, como agregar actividades adicionales, modificar itinerarios o hacer consultas especiales.
++	Personalización de aventuras: Los usuarios podrán utilizar el sistema de mensajería para comunicarse con los proveedores de aventuras y solicitar personalizaciones en los paquetes de viaje, como agregar actividades adicionales, modificar itinerarios o hacer consultas especiales.
 
-	+	Comunicación con proveedores de aventuras: El sistema de mensajería permitirá a los usuarios comunicarse directamente con los proveedores de aventuras, lo que facilitará la comunicación y la respuesta a preguntas o inquietudes sobre los paquetes de viaje personalizados.
++	Comunicación con proveedores de aventuras: El sistema de mensajería permitirá a los usuarios comunicarse directamente con los proveedores de aventuras, lo que facilitará la comunicación y la respuesta a preguntas o inquietudes sobre los paquetes de viaje personalizados.
 
-	+	Integración con notificaciones push: El sistema de mensajería estará integrado con notificaciones push, lo que permitirá a los usuarios recibir alertas en tiempo real sobre nuevos mensajes o respuestas de los proveedores de aventuras, mejorando la comunicación y la eficiencia del proceso de reserva.
++	Integración con notificaciones push: El sistema de mensajería estará integrado con notificaciones push, lo que permitirá a los usuarios recibir alertas en tiempo real sobre nuevos mensajes o respuestas de los proveedores de aventuras, mejorando la comunicación y la eficiencia del proceso de reserva.
 
-	+	Seguridad de datos: Se implementarán medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
++	Seguridad de datos: Se implementarán medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
 
-	+	Registro y seguimiento de conversaciones: El sistema de mensajería registrará y seguirá las conversaciones entre los usuarios y los proveedores de aventuras, lo que permitirá un seguimiento completo de las comunicaciones y un historial de mensajes para futuras referencias.
++	Registro y seguimiento de conversaciones: El sistema de mensajería registrará y seguirá las conversaciones entre los usuarios y los proveedores de aventuras, lo que permitirá un seguimiento completo de las comunicaciones y un historial de mensajes para futuras referencias.
 
-	+	Integración con perfiles de redes sociales: Los usuarios podrán utilizar el sistema de mensajería para compartir información sobre las aventuras reservadas en sus perfiles de redes sociales, lo que permitirá una mayor interacción social y conexión con otros usuarios con intereses similares.
++	Integración con perfiles de redes sociales: Los usuarios podrán utilizar el sistema de mensajería para compartir información sobre las aventuras reservadas en sus perfiles de redes sociales, lo que permitirá una mayor interacción social y conexión con otros usuarios con intereses similares.
 
-	+	Soporte al cliente: El equipo de soporte al cliente de AdventureHub estará disponible a través del sistema de mensajería para responder rápidamente a las preguntas y problemas de los usuarios, brindando un servicio de atención al cliente eficiente y orientado a la satisfacción del usuario.
-
-  + ¿Qué características son deseables?
++	Soporte al cliente: El equipo de soporte al cliente de AdventureHub estará disponible a través del sistema de mensajería para responder rápidamente a las preguntas y problemas de los usuarios, brindando un servicio de atención al cliente eficiente y orientado a la satisfacción del usuario.
 
 
-
-* ¿Cómo debe verse nuestro producto y comportarse?
+<strong>¿Cómo debe verse nuestro producto y comportarse?</strong>
 <br>
+
 Para definir cómo debe verse y comportarse un producto, es importante tener en cuenta las siguientes consideraciones:
 
-	+	Diseño atractivo: La apariencia del producto debe ser atractiva y llamar la atención del usuario. Un diseño atractivo puede ayudar a diferenciar el producto de la competencia y atraer a los clientes potenciales.
++	Diseño atractivo: La apariencia del producto debe ser atractiva y llamar la atención del usuario. Un diseño atractivo puede ayudar a diferenciar el producto de la competencia y atraer a los clientes potenciales.
 
-	+	Facilidad de uso: El producto debe ser fácil de usar y entender para el usuario. Una interfaz de usuario intuitiva y clara puede hacer que la experiencia del usuario sea más agradable y reducir la curva de aprendizaje.
++	Facilidad de uso: El producto debe ser fácil de usar y entender para el usuario. Una interfaz de usuario intuitiva y clara puede hacer que la experiencia del usuario sea más agradable y reducir la curva de aprendizaje.
 
-	+	Funcionalidad adecuada: El producto debe tener las características y funcionalidades adecuadas para satisfacer las necesidades de los usuarios. Es importante conocer a los usuarios y sus necesidades para asegurarse de que el producto tenga las funcionalidades adecuadas.
++	Funcionalidad adecuada: El producto debe tener las características y funcionalidades adecuadas para satisfacer las necesidades de los usuarios. Es importante conocer a los usuarios y sus necesidades para asegurarse de que el producto tenga las funcionalidades adecuadas.
 
-	+	Velocidad y rendimiento: El producto debe ser rápido y eficiente en su funcionamiento. Los usuarios esperan una respuesta rápida y un rendimiento fluido del producto.
++	Velocidad y rendimiento: El producto debe ser rápido y eficiente en su funcionamiento. Los usuarios esperan una respuesta rápida y un rendimiento fluido del producto.
 
-	+	Adaptabilidad: El producto debe ser adaptable a diferentes dispositivos y plataformas. Los usuarios esperan poder acceder al producto desde cualquier dispositivo, ya sea un teléfono móvil, una tablet o un ordenador.
++	Adaptabilidad: El producto debe ser adaptable a diferentes dispositivos y plataformas. Los usuarios esperan poder acceder al producto desde cualquier dispositivo, ya sea un teléfono móvil, una tablet o un ordenador.
 
-	+	Seguridad: El producto debe ser seguro y proteger la información del usuario. La seguridad es una preocupación importante para los usuarios y puede ser un factor decisivo en su elección de producto.
++	Seguridad: El producto debe ser seguro y proteger la información del usuario. La seguridad es una preocupación importante para los usuarios y puede ser un factor decisivo en su elección de producto.
 
   
 #### 1.2.2.3 Lean UX Hyphotesis Statements
