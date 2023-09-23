@@ -451,38 +451,52 @@ Para definir cómo debe verse y comportarse un producto, es importante tener en 
     <td>
 		<strong>Business Problem</strong>
 		<br>
-Los usuarios viajeros y las agencias de viaje en Perú tienen dificultades para encontrar paquetes de viaje que se adapten a sus necesidades y presupuestos.
+Usuario Turista:  
+La falta de personalización en la experiencia del usuario al elegir un destino de viaje y la falta de información detallada y confiable sobre los destinos y paquetes de viajes disponibles.
+
+Agencia:
+Poca confianza en las pequeñas y medianas agencias de viajes y la falta de visibilidad para estas empresas.
+
 <br></td>
     <td rowspan="2">
 		<strong>Solution Ideas</strong>
 		<br>
-Plataforma en línea que conecte a los usuarios con agencias de viaje y proporcione información detallada sobre destinos.
-Sistema de búsqueda avanzada que permita a los usuarios filtrar los paquetes de viaje por presupuesto, duración del viaje, actividades, entre otros.
-Sistema de calificación y comentarios de los usuarios para las agencias de viaje y destinos.
+Plataforma en línea que conecte a los usuarios con agencias de viaje y proporcione información detallada sobre destinos. 
+
+Sistema de búsqueda avanzada que permita a los usuarios filtrar los paquetes de viaje por presupuesto, duración del viaje, actividades, entre otros. 
+
+Sistema de calificación y comentarios de los turistas para las agencias de viaje y destinos.
+
 Integración con proveedores de servicios turísticos locales para ofrecer actividades personalizadas en cada destino.
+
 		</td>
     <td>
 		<strong>Business Outcomes</strong>
 		<br>
-•	Aumento de la cantidad de usuarios que reservan paquetes de viaje a través de la plataforma.
-•	Aumento de las ventas de las agencias de viaje asociadas a la plataforma.
-•	Aumento de la satisfacción del usuario y la fidelización a la plataforma.
+Mayor cantidad de usuarios que reservan paquetes de viaje a través de la plataforma.
+
+Aumento de las ventas de las agencias asociadas a la plataforma.
+
+Satisfacción del usuario y la fidelización a la plataforma.
 		</td>
   </tr>
   <tr>
   	<td>
 		<strong>User & Customers</strong>
 		<br>
-Usuarios viajeros: Personas interesadas en viajar y explorar nuevos lugares, que buscan opciones de paquetes de viaje personalizados y asequibles.
-Agencias de viaje: Empresas que ofrecen paquetes de viaje a los usuarios.
+Turista: Personas interesadas en viajar y explorar nuevos lugares, que buscan opciones de paquetes de viaje personalizados y asequibles.
+Agencias: Empresas que ofrecen paquetes de viaje a los turistas.
 		</td>
     <td>
 		<strong>User Benefits</strong>
 		<br>
-•	Mayor cantidad de opciones de paquetes de viaje personalizados.
-•	Información detallada sobre cada destino.
-•	Capacidad para tomar decisiones más informadas sobre el viaje.
-•	Posibilidad de personalizar actividades y experiencias en cada destino.
+Mayor cantidad de opciones de paquetes de viaje personalizados
+	    
+Información detallada sobre cada destino
+
+Capacidad para tomar decisiones más informadas sobre el viaje
+
+Posibilidad de personalizar actividades y experiencias en cada destino.
 
 		</td>
   </tr>
@@ -492,8 +506,9 @@ Agencias de viaje: Empresas que ofrecen paquetes de viaje a los usuarios.
     <td>
 		<strong>Hypothesis</strong>
 		<br>
-Si creamos una plataforma en línea que conecte a los usuarios con agencias de viaje, aumentaremos el número de opciones de paquetes de viaje disponibles y mejoraremos la satisfacción del usuario.
-Si proporcionamos información detallada sobre cada destino, los usuarios podrán tomar decisiones más informadas sobre su viaje.
+Creemos que al desarrollar una plataforma en línea que conecte a los usuarios turistas con agencias de viaje, aumentara el número de opciones de paquetes de viaje disponibles y mejora la satisfacción del usuario.
+	    
+Creemos que al proporcionar información detallada sobre cada destino, los usuarios podrán informarse y tomar mejores decisiones sobres sus viajes.
 		</td>
     <td>
 		<strong>What is the most important thing we need to learn first?</strong>
@@ -557,14 +572,14 @@ Estos son los usuarios que buscan vivir experiencias emocionantes y agradables d
   </tr>
   <tr>
     <td>Habito de Consumo<br></td>
-    <td>Busqueda de tours y paquetes turisticos con actividades variadas<br></td>
+    <td>Busqueda de tours y paquetes de viajes con actividades variadas<br></td>
   </tr>
 </tbody>
 </table>
 
 <strong>Agencias</strong>
 <br>
-Estos son las agencias que ofrecen paquetes turísticos con diversos tipos de actividades en el Perú.
+Estos son las agencias que ofrecen paquetes de viajes con diversos tipos de actividades en el Perú.
 
 <table style="undefined;table-layout: fixed; width: 757px">
 <colgroup>
