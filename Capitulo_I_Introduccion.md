@@ -219,17 +219,46 @@ Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el
 
 ####  <strong>BUSINESS OUTCOME :</strong>
 
+* Aumento significativo en la cantidad de usuarios registrados en la plataforma.
 
+* Incremento en la participación activa de proveedores de servicios de aventura en la plataforma.
 
+* Mayor número de reservas de viajes y aventuras realizadas a través de AdventureHub.
 
+* Mejora en la tasa de retención de usuarios, lo que indica una mayor satisfacción y fidelidad.
+
+* Mayor interacción y colaboración entre usuarios y proveedores de servicios de aventura.
+
+* Incremento en la visibilidad en línea de las agencias de viaje asociadas, lo que se traduce en más clientes potenciales.
+
+* Reducción en las quejas relacionadas con la seguridad y la confiabilidad en el proceso de reserva en línea.
+
+* Mayor eficiencia en la carga y actualización de información de paquetes de viaje por parte de las agencias de viaje.
+
+* Aumento en las ventas de planes de servicio y ganancias por uso de funciones exclusivas en la plataforma de AdventureHub.
+
+* Mayor satisfacción del usuario al utilizar la plataforma, reflejada en evaluaciones y comentarios positivos.
 
 
 <br> 
 
 ####  <strong>USER OUTCOME :</strong>
 
+* Mayor satisfacción del usuario al encontrar información detallada y confiable sobre destinos y aventuras, facilitando la toma de decisiones informadas.
 
+* Mayor comodidad al acceder a la plataforma desde dispositivos móviles y computadoras, lo que permite una planificación y reserva de viajes en línea más accesible.
 
+* Experiencia de usuario fluida y segura al utilizar la plataforma, reflejada en una navegación intuitiva y un proceso de reserva confiable.
+
+* Personalización de viajes que se adapten a las preferencias individuales del usuario, lo que permite experiencias de viaje únicas y personalizadas.
+
+* Eficiencia en la coordinación de servicios y confirmación de reservas, lo que ahorra tiempo y reduce el estrés en la planificación del viaje.
+
+* Mayor confianza en la seguridad y la confiabilidad de las transacciones en línea, lo que reduce las preocupaciones del usuario.
+
+* Facilitación de la exploración inicial de opciones de viaje, lo que ayuda al usuario a descubrir nuevas aventuras y destinos de manera más efectiva.
+
+* Acceso a una amplia gama de opciones de viaje, lo que permite a los usuarios encontrar aventuras que se adapten a sus preferencias y necesidades únicas.
 
 
 <br>
