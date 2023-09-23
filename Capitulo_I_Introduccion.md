@@ -132,7 +132,7 @@ Por lo tanto, la pregunta clave para este proyecto es:
 
 
 #### 1.2.2.2 Lean UX Assumptions
-####  <strong>BUSINESS OUTCOME:</strong>
+####  <strong>BUSINESS ASSUMPTIONS:</strong>
 
 En esta sección, registraremos las acciones que, al resultar de forma positiva o negativa, nos favorecerá a conocer si nuestra propuesta está cumpliendo o no con el objetivo.
   
@@ -163,7 +163,7 @@ En esta sección, registraremos las acciones que, al resultar de forma positiva 
 
 
 
-####  <strong>USER:</strong>
+####  <strong>USER :</strong>
 
 Los segmentos de usuarios a los que está dirigida nuestra aplicación serán personas que buscan tener experiencias de aventura, desde jóvenes mochileros hasta familias que buscan vacaciones diferentes. Y también, agencia de viajes que buscan publicar sus tours de viaje.
 
@@ -178,21 +178,22 @@ También nos enfocamos en familias que buscan tener experiencias de aventura jun
 * 3.	Agencia de viajes que buscan publicar sus tours de viaje y promociones.
 También nos enfocamos en proporcionar a las agencias de viajes una plataforma en la que puedan publicar sus tours y promociones de viajes fácilmente y que puedan comunicarse de manera automatizada con los viajeros.
 
-####  <strong>USER OUTCOME:</strong>
+####  <strong>USER ASSUMPTIONS :</strong>
 
-En esta sección nombraremos los beneficios que recibirán nuestros usuarios dentro de l a aplicación.
+Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el proyecto AdventureHub, ya que establecen una base sólida para comprender las necesidades y expectativas de los usuarios. Estas suposiciones guían la definición de objetivos y el diseño centrado en el usuario, aseguran la validación continua a lo largo del desarrollo, minimizan riesgos, alinean al equipo y optimizan los recursos.
 
-<br>
+* Suponemos que el usuario es un apasionado de los viajes, ávido de aventuras y experiencias únicas, con un conjunto diverso de preferencias y necesidades de viaje.
 
-* 1.	Los usuarios podrán comunicarse directamente con los proveedores de servicios a través del sistema de mensajería integrado para hacer preguntas, obtener información adicional y personalizar sus aventuras.
-* 2.	El sistema de mensajería permitirá a los usuarios solicitar cotizaciones personalizadas de aventuras y servicios, lo que les brindará la posibilidad de adaptar su viaje de acuerdo a sus necesidades y preferencias.
-* 3.	Los proveedores de servicios podrán enviar ofertas especiales y promociones a través del sistema de mensajería, lo que permitirá a los usuarios recibir información actualizada y oportunidades exclusivas.
-* 4.	Los usuarios podrán recibir notificaciones y alertas a través del sistema de mensajería sobre cambios en la disponibilidad de aventuras, actualizaciones de los proveedores de servicios y otras noticias relevantes.
-* 5.	El sistema de mensajería integrado permitirá a los usuarios gestionar todas sus comunicaciones y reservas en un solo lugar, lo que simplificará el proceso de reserva y garantizará una comunicación clara y eficiente.
-* 6.	Los usuarios podrán calificar y dejar comentarios sobre las aventuras y servicios a través del sistema de mensajería, lo que brindará retroalimentación valiosa a los proveedores de servicios y ayudará a otros usuarios en sus decisiones de reserva.
-* 7.	Los usuarios podrán tener conversaciones en tiempo real con los proveedores de servicios para obtener información adicional sobre las aventuras, resolver dudas o aclarar detalles, lo que mejorará la experiencia del usuario y la confianza en el servicio.
-* 8.	Los proveedores de servicios podrán responder rápidamente a las consultas de los usuarios a través del sistema de mensajería, lo que permitirá una comunicación fluida y una atención al cliente eficiente.
-* 9.	Los usuarios podrán mantener un registro de todas sus comunicaciones y conversaciones con los proveedores de servicios en el sistema de mensajería, lo que les permitirá acceder fácilmente a la información en el futuro y tener un historial de sus reservas y consultas.
+* Suponemos que nuestro producto se convierte en una parte integral de la vida del usuario, desempeñando un papel fundamental como la plataforma central para planificar, explorar y reservar sus emocionantes viajes y aventuras.
+
+* Suponemos que nuestro producto resuelve los desafíos y preocupaciones del usuario relacionados con la búsqueda y planificación de viajes al proporcionar información detallada y confiable sobre destinos y aventuras, al tiempo que garantiza la seguridad y la confiabilidad en el proceso de reserva en línea.
+
+* Suponemos que el usuario aprovecha nuestro producto en diferentes etapas de su viaje, desde la exploración inicial de opciones hasta la coordinación de servicios y la confirmación de reservas. Esto se logra principalmente a través de dispositivos móviles y computadoras, brindando comodidad y accesibilidad.
+
+* Suponemos que las características cruciales para el usuario incluyen una interfaz de usuario atractiva e intuitiva que simplifica la navegación, información detallada y actualizada sobre destinos y aventuras para facilitar la toma de decisiones, opciones de personalización de viajes que se adapten a sus preferencias individuales, y un proceso de reserva robusto y seguro para brindar tranquilidad.
+
+* Suponemos que nuestro producto debe destacarse por su diseño atractivo y su funcionalidad intuitiva, garantizando una experiencia de usuario fluida y segura en todo momento. La interfaz debería ser visualmente atractiva, y la navegación debe ser sencilla, lo que permitirá a los usuarios explorar y reservar aventuras de manera eficiente.
+
 
 ####  <strong>FEATURE ASSUMPTIONS:</strong>
 
