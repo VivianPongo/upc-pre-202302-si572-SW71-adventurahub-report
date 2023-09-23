@@ -263,212 +263,26 @@ Para definir cómo debe verse y comportarse un producto, es importante tener en 
   
 #### 1.2.2.3 Lean UX Hyphotesis Statements
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>1</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que los usuarios estarán interesados en tener una experiencia de búsqueda y reservación de actividades al aire libre en una plataforma en línea</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios registrados en el sitio web después del lanzamiento</td>
-  </tr>
-</tbody>
-</table>
+1. Creemos que, al proporcionar una plataforma web y móvil con información detallada sobre aventuras y destinos en línea, para usuarios de viajes, lograremos que los usuarios tomen decisiones de viaje más informadas y satisfagan sus necesidades de planificación de viaje. Sabremos que esto es cierto cuando observemos un aumento significativo en la interacción de los usuarios con la plataforma y una mejora en la toma de decisiones de viaje a través de la retroalimentación cualitativa de los usuarios y el aumento en el tiempo promedio que pasan en la plataforma.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la integración con otras plataformas populares de reserva, como Airbnb y Booking, aumentará la exposición de AdventureHub a una audiencia más amplia</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de visitantes al sitio web que llegan a través de enlaces de afiliados de plataformas de reserva</td>
-  </tr>
-</tbody>
-</table>
+2. Creemos que los usuarios desean una interacción efectiva con proveedores (agencias) y valoran la seguridad en el proceso de reserva de aventuras. Sabremos que esto es cierto cuando veamos un aumento en la cantidad de interacciones entre usuarios y proveedores en nuestra plataforma, así como una disminución en las quejas relacionadas con la seguridad.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la implementación de un sistema de recomendaciones personalizadas basado en las preferencias de los usuarios mejorará la satisfacción del cliente y aumentará la retención de los mismos</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de reservas repetidas y la duración promedio de las sesiones del usuario en el sitio web</td>
-  </tr>
-</tbody>
-</table>
+3. Creemos que, al proporcionar una plataforma web y móvil con información detallada sobre aventuras y destinos en línea, para viajeros ávidos, lograremos una demanda significativa por parte de los usuarios para acceder a información detallada sobre aventuras y destinos en línea. Sabremos que esto es cierto cuando observemos un aumento sostenido en el tráfico de usuarios que buscan información sobre destinos y aventuras en nuestra plataforma.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>4</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de imágenes y reseñas detalladas de actividades y proveedores aumentará la confianza de los usuarios en la calidad del servicio</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en el porcentaje de usuarios que completan una reserva después de ver imágenes y reseñas detalladas de la actividad o proveedor</td>
-  </tr>
-</tbody>
-</table>
+4. Creemos que nuestro público objetivo está compuesto en su mayoría por entusiastas de los viajes que valoran experiencias únicas y buscan eficiencia en la planificación de aventuras. Sabremos que esto es cierto cuando observemos que la mayoría de nuestros usuarios se identifican como viajeros.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>5</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que el uso de tecnología de reconocimiento de voz en el proceso de reserva mejorará la experiencia del usuario y aumentará la eficiencia del proceso de reserva</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la tasa de conversión de usuarios que utilizan la tecnología de reconocimiento de voz en el proceso de reserva en comparación con los usuarios que no la utilizan</td>
-  </tr>
-</tbody>
-</table>
+5. Creemos que los usuarios desean opciones de viaje personalizadas y completas que satisfagan sus preferencias y necesidades individuales. Sabremos que esto es cierto cuando los usuarios utilicen activamente las herramientas de personalización de paquetes de viajes en nuestra plataforma. 
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>6</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la implementación de un sistema de chat en vivo mejorará la comunicación con los usuarios y aumentará la satisfacción del cliente</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de consultas y preguntas de los usuarios resueltas a través del sistema de chat en vivo</td>
-  </tr>
-</tbody>
-</table>
+6. Creemos que la competencia principal son algunas aplicaciones similares en el mercado que buscan facilitar la conexión efectiva entre usuarios y proveedores de servicios de aventura. Sabremos que esto es cierto cuando obtengamos una ventaja competitiva demostrable en términos de adquisición de nuevos usuarios y proveedores, retención de usuarios existentes y retroalimentación positiva en comparación con otras aplicaciones similares en el mercado.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>7/th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de un sistema de seguimiento de actividades y entrenamientos personalizados aumentará la fidelidad de los usuarios</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios que se registran para un seguimiento personalizado de actividades y entrenamientos</td>
-  </tr>
-</tbody>
-</table>
+7. Creemos que una colaboración efectiva entre proveedores y usuarios conducirá al crecimiento de nuestra base de clientes. Sabremos que esto es cierto cuando observemos un aumento constante en el número de proveedores y usuarios que se unen a nuestra plataforma. 
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>8</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la integración de tecnología de realidad virtual en las imágenes y videos de las actividades aumentará el interés y la participación de los usuarios.</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios que interactúan con las actividades y proveedores que utilizan tecnología de realidad virtual.</td>
-  </tr>
-</tbody>
-</table>
+8. Creemos que nuestra fuente principal de ingresos será a través de tarifas de servicio (planes) por el uso de funciones exclusivas en nuestra plataforma. Sabremos que esto es cierto cuando los ingresos previstos se cumplan o superen nuestras proyecciones.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>9</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de una función de compartir en redes sociales aumentará la exposición de AdventureHub y atraerá a nuevos usuarios.</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de visitantes al sitio</td>
-  </tr>
-</tbody>
-</table>
+9. Creemos que los usuarios estarán interesados en tener una experiencia de búsqueda y reservación de actividades al aire libre en una plataforma en línea
+
+
+
 
 #### 1.2.2.4 Lean UX Canvas
 
