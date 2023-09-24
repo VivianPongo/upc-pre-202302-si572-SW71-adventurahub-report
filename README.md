@@ -33,14 +33,14 @@ Ciclo: 2023-2
 | Oscar Enrique Palomino Medina       | U201822717     |
 
 
+# Control de versiones
 
-
-| Versión | Fecha       | Autores                | Descripción                           |
-|---------|-------------|------------------------|-------------------------------------- |
-| 1.0.0   | 00/00/2023  | Juan, Maria            | Lanzamiento inicial del proyecto      |
-| 1.0.1   | 00/00/2023  | Pedro, Carlos          | Corrección de bugs                    |
-| 1.1.0   | 00/00/2023   | Maria, Ana             | Nueva funcionalidad añadida           |
-| ...     | ...         | ...                    |                                       |
+| Versión | Fecha       | Autores                | Descripción                                                             |
+|---------|-------------|------------------------|------------------------------------------------------------------------ |
+| 1.0.0   | 00/00/2023  | Mauricio, Oscar, piero, patrick, vivian, miguel, ivan....            | Creaciónd le informe      |
+| 1.0.1   | 00/00/2023  | ejemeplos          | Corrección de bugs                                                          |
+| 1.1.0   | 00/00/2023   | ejemplo            | Nueva funcionalidad añadida                                                |
+| ...     | ...         | ...                    |                                                                         |
 
 # Tabla de Contenidos
 
