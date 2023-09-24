@@ -3,14 +3,16 @@
 La elaboración del "To Be Scenario Map" en el contexto del proyecto AdventureHub se erige como un proceso fundamental en la mejora y optimización de la experiencia del usuario. Este mapa nos proporciona una representación visual del estado ideal que aspiramos alcanzar en nuestra plataforma, donde los usuarios disfrutan de una experiencia sin contratiempos y gratificante en cada fase de su viaje. Cada paso de este mapa refleja con precisión las acciones ejecutadas por el usuario, así como sus emociones y necesidades en ese momento particular
 #### To-Be Scenario Map de las agencias turísticas.
 
-[![To-Be Scenario Map de las agencias turísticas.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/tobe-agency.png)]()
+El To Be Scenario Map del usuario agencia de viajes en AdventureHub es un diagrama sistemático que describe de manera secuencial los pasos y acciones que los agentes de viajes llevarán a cabo al interactuar con la plataforma. Esto abarca desde el proceso de inicio de sesión hasta las tareas relacionadas con la promoción de paquetes de viaje. 
+
+[![To-Be Scenario Map de las agencias turísticas.](resources/tb1/to-be-scenario-agencia.jpg)]()
 
 
 #### To-Be Scenario Map del usuario turista.
 
 El "To Be Scenario Map" del usuario turista en AdventureHub representa una experiencia ideal de viaje. El usuario utiliza la plataforma de manera intuitiva para explorar, personalizar y reservar sus viajes de manera segura y emocionante. Cada paso refleja una interacción positiva y culmina en una experiencia enriquecedora y gratificante. 
 
-[![To-Be Scenario Map del usuario turista.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/tobe-user.png)]()
+[![To-Be Scenario Map del usuario turista.](resources/tb1/to-be-scenario-viajero.jpg)]()
 
 
 ## Capítulo 3.2: User Stories y Technical User Stories
