@@ -32,6 +32,16 @@ Ciclo: 2023-2
 | Miguel Angel Bustillos Alayo       	| U20181F794     |
 | Oscar Enrique Palomino Medina       | U201822717     |
 
+
+
+
+| Versión | Fecha       | Autores                | Descripción                           |
+|---------|-------------|------------------------|-------------------------------------- |
+| 1.0.0   | 00/00/2023  | Juan, Maria            | Lanzamiento inicial del proyecto      |
+| 1.0.1   | 00/00/2023  | Pedro, Carlos          | Corrección de bugs                    |
+| 1.1.0   | 00/00/2023   | Maria, Ana             | Nueva funcionalidad añadida           |
+| ...     | ...         | ...                    |                                       |
+
 # Tabla de Contenidos
 
 - [Capítulo 1: Introduccion]([capitulo1/resumen.md](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_I_Introduccion.md)https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_I_Introduccion.md)
