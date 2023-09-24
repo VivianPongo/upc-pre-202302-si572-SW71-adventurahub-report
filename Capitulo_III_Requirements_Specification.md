@@ -1917,13 +1917,34 @@ El Epic del contenido dinámico se refiere a la personalización de la página d
 </table>
 
 ## 3.3. Impact Mapping.
+
 En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación provocará transformaciones significativas en el estilo de vida de los usuarios. En última instancia, se podrá constatar que todos estos cambios se materializan a través de las historias de usuario.
 
+### Business Goals y Estrategia
+
+Hemos establecido tres Business Goals, teniendo en cuenta los User Persona previamente identificados. Cada Business Goal se acompaña de una serie de Impacts y Deliverables específicos para cada User Persona. Asimismo, hemos desarrollado User Stories para cada Deliverable, lo que nos ha permitido definir claramente los features necesarios para alcanzar nuestros objetivos.
+
+#### Business Goals
+
+1. **Optimizar el Procesamiento de Solicitudes**: Nuestra primera meta es reducir el tiempo de procesamiento de las solicitudes personalizadas de paquetes de viaje en un 20% para las agencias de viajes en los próximos 6 meses.
+
+2. **Fomentar la Retención de Usuarios**: Nuestro segundo objetivo es mejorar la retención de usuarios registrados en un 25% en los próximos 12 meses.
+
+3. **Impulsar las Reservas de Paquetes**: Nuestra tercera meta es incrementar el número de reservas de paquetes de viaje en un 15% entre los turistas en los próximos 9 meses.
+
+#### Estrategia de Impact Maps
+
+Para mapear y visualizar cómo estos elementos se relacionan y contribuyen a nuestros Business Goals, hemos empleado la herramienta Uxpressia para crear Impact Maps. Estos mapas nos proporcionan una representación gráfica y estructurada de nuestra estrategia, ayudándonos a mantener el enfoque en la consecución de nuestros objetivos.
+
+
 #### Impact Map de las agencias turisticas.
-[![Impact mapping de las agencias turísticas.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/impact-map-agency.png)]()
+[![Impact mapping de las agencias turísticas.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/f7e1197532d3f346d04615dfd7dddd22875a77e5/resources/tb1/Impact%20map%201%20-%20Usuario%20Agencia.png)]()
 
 #### Impact Map del usuario turista.
-[![Impact Map del usuario turista.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/tb1/impact-map-user.png)]()
+[![Impact Map del usuario turista.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/f7e1197532d3f346d04615dfd7dddd22875a77e5/resources/tb1/Impact%20map%201%20-%20Usuario%20Turista.png)]()
+
+[![Impact Map del usuario turista.](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/f7e1197532d3f346d04615dfd7dddd22875a77e5/resources/tb1/Impact%20map%202%20-%20Usuario%20Turista.png)]()
+
 
 
 ## 3.4. Product Backlog.
