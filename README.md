@@ -32,5 +32,10 @@ Ciclo: 2023-2
 | Miguel Angel Bustillos Alayo       	| U20181F794     |
 | Oscar Enrique Palomino Medina       | U201822717     |
 
+# Tabla de Contenidos
 
+- [Capítulo 1: Introduccion]([capitulo1/resumen.md](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_I_Introduccion.md)https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_I_Introduccion.md)
+- [Capítulo 2: Requirements Elicitation And Analysis]([capitulo2/introduccion.md](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_II_Requirements_Elicitation_And_Analysis.md)https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_II_Requirements_Elicitation_And_Analysis.md)
+- [Capítulo 3:Requirements Specification](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_III_Requirements_Specification.md)
+- [Capitulo 4: Software Design](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/Capitulo_IV_Solution_Software_Design.md)
 <div align="right">Agosto 2023</div>
