@@ -1919,6 +1919,8 @@ En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación pr
 
 
 ## 3.4. Product Backlog.
+Esta herramienta nos permite realizar una lista que prioriza los elementos de trabajo que representan las características, mejoras y tareas necesarias para el desarrollo de nuestro proyecto.
+
 <table>
 <thead>
   <tr>
@@ -2366,28 +2368,28 @@ En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación pr
   </tr>
   <tr>
     <td>63</td>
-    <td>US31</td>
+    <td>US32</td>
     <td>Navegación fácil en la landing page</td>
     <td>Como propietario del sitio web, quiero que los usuarios puedan navegar fácilmente por la landing page de AdventureHub, para que puedan encontrar rápidamente la información que necesitan y tomar acciones como búsqueda de paquetes o registro.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>64</td>
-    <td>TS31</td>
+    <td>TS32</td>
     <td>Implementación de Navegación Fácil en la Landing Page</td>
     <td>Como equipo de desarrollo, debemos implementar la funcionalidad que garantice una navegación fácil en la landing page de AdventureHub, incluyendo una interfaz intuitiva, acceso rápido a funciones clave y diseño responsive para dispositivos móviles.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>65</td>
-    <td>US31</td>
+    <td>US33</td>
     <td>Suscripción al Boletín en el Landing Page</td>
     <td>Como propietario del sitio web, quiero que los usuarios tengan la opción de suscribirse al boletín informativo de AdventureHub directamente desde la landing page, para que puedan recibir actualizaciones y ofertas por correo electrónico.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>66</td>
-    <td>TS31</td>
+    <td>TS33</td>
     <td>Implementación de Suscripción al Boletín en el Landing Page</td>
     <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios suscribirse al boletín informativo de AdventureHub directamente desde la landing page, incluyendo el diseño del formulario, el registro de suscripciones en la base de datos y la confirmación de suscripción exitosa.</td>
     <td>3</td>
