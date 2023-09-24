@@ -112,24 +112,25 @@ El tiempo que demora la búsqueda de un paquete de viaje puede variar según las
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-AdventureHub se enfoca en la compra de paquetes de viaje para promover el turismo y apoyar a las pequeñas agencias de viajes. A pesar de la existencia de varias aplicaciones de viajes en el mercado, se ha identificado una necesidad insatisfecha entre los viajeros que buscan una experiencia personalizada y que se adapte a sus intereses y preferencias individuales.
 
-Los viajeros suelen enfrentar problemas al planificar sus viajes, como la falta de información confiable, la complejidad de comparar precios y paquetes de viaje, la dificultad para encontrar destinos que se adapten a sus intereses y presupuestos, y la falta de confianza en las pequeñas agencias de viajes que ofrecen estos paquetes.
+AdventureHub se centra en la adquisición de paquetes de viaje para fomentar el turismo y respaldar a las pequeñas agencias de viajes. A pesar de la existencia de múltiples aplicaciones de viajes en el mercado, hemos identificado una necesidad insatisfecha entre los viajeros que buscan experiencias personalizadas que se ajusten a sus intereses y preferencias individuales.
 
-En este contexto, se evidencian dos grupos segmentos que están involucrados: los viajeros y las pequeñas agencias de viajes. Los viajeros buscan destinos que satisfagan sus necesidades y preferencias, mientras que las pequeñas agencias de viajes buscan aumentar su visibilidad y llegar a nuevos clientes.
+Los viajeros se enfrentan a desafíos en la planificación de sus viajes, que incluyen la falta de información confiable, la complejidad de comparar precios y paquetes de viaje, la dificultad para encontrar destinos que se adapten a sus intereses y presupuestos, y la falta de confianza en las pequeñas agencias de viajes. Estas agencias, a su vez, luchan por atraer clientes de manera efectiva, dependiendo en gran medida de terceros y redes sociales para su visibilidad.
 
-Por lo tanto, el objetivo principal de AdventureHub es crear una aplicación que brinde una experiencia personalizada y confiable para los viajeros, al mismo tiempo que fomente la competencia saludable entre las pequeñas agencias de viajes. La aplicación debe ofrecer información clara y detallada sobre los destinos, opciones de precios y paquetes de viaje, así como una interfaz fácil de usar que permita a los viajeros comparar y reservar paquetes de viaje con confianza.
+En este contexto, se identifican dos grupos principales involucrados: los viajeros que buscan destinos personalizados y las pequeñas agencias de viajes que enfrentan dificultades en la adquisición de clientes.
 
-Para lograr este objetivo, se deben resolver los siguientes problemas:
-*	La falta de información detallada y confiable sobre los destinos y paquetes de viaje disponibles.
-*La falta de una interfaz fácil de usar para comparar y reservar paquetes de viaje.
-*	La falta de confianza en las pequeñas agencias de viajes y la falta de visibilidad para estas empresas.
-*	La falta de personalización en la experiencia del usuario al elegir un destino de viaje.
+Por lo tanto, el objetivo principal de AdventureHub es desarrollar una suite de productos digitales que brinde experiencias personalizadas y confiables para los viajeros, al mismo tiempo que soluciona el desafío de las pequeñas agencias de viajes al atraer clientes de manera eficaz. Esta suite de productos debe proporcionar información detallada y precisa sobre destinos, opciones de precios y paquetes de viaje, además de una interfaz amigable que permita a los viajeros comparar y reservar paquetes con confianza.
 
+Para lograr este objetivo, debemos abordar los siguientes problemas:
 
-Por lo tanto, la pregunta clave para este proyecto es: 
-¿Cómo podemos crear una aplicación que brinde información detallada y confiable, una interfaz fácil de usar y una experiencia personalizada para los viajeros, mientras que fomenta la competencia saludable entre las pequeñas agencias de viajes?
+*	La falta de información detallada y confiable sobre destinos y paquetes de viaje disponibles.
+*	La carencia de una interfaz fácil de usar para comparar y reservar paquetes de viaje.
+*	La falta de confianza en las pequeñas agencias de viajes y la dificultad para aumentar su visibilidad.
+*	La ausencia de opciones de personalización en la experiencia del usuario al seleccionar un destino de viaje.
 
+Por lo tanto, la pregunta fundamental que guía este proyecto es: 
+
+*	¿Cómo podemos crear una suite de productos digitales que ofrezca información detallada y confiable, una interfaz amigable y una experiencia personalizada para los viajeros, al mismo tiempo que facilita la adquisición de clientes para las pequeñas agencias de viajes, promoviendo así una competencia saludable en el mercado de viajes?
 
 #### 1.2.2.2 Lean UX Assumptions
 
