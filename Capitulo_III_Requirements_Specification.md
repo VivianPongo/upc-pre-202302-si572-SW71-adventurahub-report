@@ -472,210 +472,462 @@ En el Impact Mapping, se puede apreciar cómo el desarrollo de la aplicación pr
     <td>US01</td>
     <td>Búsqueda de paquetes de viaje por presupuesto</td>
     <td>Como usuario, quiero poder buscar paquetes de viaje en base a mi presupuesto, para encontrar opciones que se ajusten a mis necesidades financieras.</td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>2</td>
+    <td>TS01</td>
+    <td>Implementación de la búsqueda de paquetes por presupuesto</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad de búsqueda de paquetes de viaje por presupuesto en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
     <td>US02</td>
     <td>Exploración de paquetes por temporada</td>
     <td>Como usuario, quiero poder explorar paquetes de viaje en base a la temporada del año, para encontrar opciones que se adapten al clima y las actividades disponibles en el momento.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>4</td>
+    <td>TS02</td>
+    <td>Implementación de exploración de paquetes por temporada</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios explorar paquetes de viaje según la temporada del año.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
     <td>US03</td>
     <td>Búsqueda paquetes de viaje por destino</td>
     <td>Como usuario, quiero poder buscar paquetes de viaje en base al destino escogido, para encontrar opciones que se ajusten a mi ubicación y preferencias culturales.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>6</td>
+    <td>TS03</td>
+    <td>Implementación de búsqueda de paquetes por destino</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios buscar paquetes de viaje por destino.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>7</td>
     <td>US04</td>
     <td>Reserva de paquete de viaje</td>
     <td>Como usuario, quiero poder reservar un paquete de viaje en la aplicación, para poder asegurar mi lugar y mi itinerario.</td>
     <td>5</td>
   </tr>
   <tr>
+    <td>8</td>
+    <td>TS04</td>
+    <td>Implementación de Reserva y Gestión de Paquetes de Viaje</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios reservar paquetes de viaje y gestionar sus reservas.</td>
     <td>5</td>
+  </tr>
+  <tr>
+    <td>9</td>
     <td>US05</td>
     <td>Pago de paquete de viaje</td>
     <td>Como usuario, quiero poder pagar por un paquete de viaje en la aplicación, para tener una transacción segura y conveniente.</td>
     <td>8</td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>10</td>
+    <td>TS05</td>
+    <td>Implementación de Proceso de Pago de Paquetes de Viaje</td>
+    <td>Como equipo de desarrollo, debemos implementar el proceso de pago de paquetes de viaje para garantizar transacciones seguras y convenientes.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>11</td>
     <td>US06</td>
     <td>Confirmación de reserva y pago</td>
     <td>Como usuario, quiero recibir una confirmación de mi reserva y pago en la aplicación, para tener la tranquilidad de que mi transacción ha sido exitosa.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>12</td>
+    <td>TS06</td>
+    <td>Implementación de Confirmación de Reserva y Pago</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios recibir confirmaciones de reserva y pago, así como notificaciones para el administrador.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>13</td>
     <td>US07</td>
     <td>Múltiples métodos de pago en perfil de usuario</td>
     <td>Como usuario registrado, quiero poder guardar múltiples métodos de pago en mi perfil, para poder hacer reservas con mayor facilidad y rapidez.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>14</td>
+    <td>TS07</td>
+    <td>Implementación de Gestión de Métodos de Pago en el Perfil de Usuario</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios gestionar sus métodos de pago en sus perfiles.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
     <td>US08</td>
     <td>Recibo de pago por correo electrónico</td>
     <td>Como usuario registrado, quiero recibir un recibo de mi pago por correo electrónico después de hacer una reserva exitosa, para tener un registro de mi transacción.</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>16</td>
+    <td>TS08</td>
+    <td>Implementación de Envío de Recibo de Pago por Correo Electrónico</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios recibir automáticamente un recibo de pago por correo electrónico después de completar una reserva exitosa.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td>
     <td>US09</td>
     <td>Información detallada de transacciones de pago</td>
     <td>Como administrador, quiero poder acceder a información detallada sobre las transacciones de pago, para asegurarme de que todas las reservas se hayan pagado correctamente y mantener un registro actualizado.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>18</td>
+    <td>TS09</td>
+    <td>Implementación de Gestión de Transacciones de Pago para Administradores</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los administradores acceder a información detallada sobre las transacciones de pago, filtrar transacciones por fecha y exportar informes de transacciones.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
     <td>US10</td>
     <td>Notificaciones de cambios en itinerario de viaje</td>
     <td>Como usuario, quiero recibir notificaciones sobre cambios en mi itinerario de viaje, para estar informado y preparado.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>20</td>
+    <td>TS10</td>
+    <td>Implementación de Notificaciones de Cambios en el Itinerario de Viaje</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios recibir notificaciones en tiempo real sobre cambios en sus itinerarios de viaje reservados, actualizar automáticamente los itinerarios y gestionar sus preferencias de notificaciones.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
     <td>US11</td>
     <td>Alertas de ofertas y promociones</td>
     <td>Como usuario, quiero recibir alertas sobre ofertas y promociones para destinos de mi interés, para poder aprovechar descuentos y ahorrar dinero.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>22</td>
+    <td>TS11</td>
+    <td>Implementación de Alertas de Ofertas y Promociones</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios recibir alertas de ofertas y promociones de acuerdo con sus preferencias de notificación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>23</td>
     <td>US12</td>
     <td>Recordatorios de próximo viaje</td>
     <td>Como usuario, quiero recibir notificaciones de recordatorio para mi próximo viaje, para no olvidar detalles importantes.</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>24</td>
+    <td>TS12</td>
+    <td>Implementación de Recordatorios de Próximo Viaje</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados recibir recordatorios y alertas sobre su próximo viaje, con opciones de configuración de preferencias.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>25</td>
     <td>US13</td>
     <td>Personalización de notificaciones de usuario registrado</td>
     <td>Como usuario registrado, quiero poder controlar el tipo y frecuencia de las notificaciones que recibo de AdventureHub, para personalizar mi experiencia de uso y evitar ser abrumado por información innecesaria.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>26</td>
+    <td>TS13</td>
+    <td>Implementación de Personalización de Notificaciones de Usuario Registrado</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados personalizar sus preferencias de notificaciones en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
     <td>US14</td>
     <td>Notificaciones personalizadas de administrador</td>
     <td>Como administrador, quiero poder enviar notificaciones personalizadas a los usuarios para informarles sobre nuevos paquetes de viaje y ofertas especiales.</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>15</td>
+    <td>28</td>
+    <td>TS14</td>
+    <td>Implementación de Notificaciones Personalizadas de Administrador</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los administradores configurar y recibir notificaciones personalizadas sobre eventos críticos en la plataforma.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>29</td>
     <td>US15</td>
     <td>Notificación de actualización de paquete de viaje en lista de deseos</td>
     <td>Como usuario registrado, quiero poder recibir una notificación cuando se haya actualizado un paquete de viaje que tengo guardado en mi lista de deseos.</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>US61</td>
+    <td>30</td>
+    <td>TS15</td>
+    <td>Implementación de Notificación de Actualización de Paquete de Viaje en Lista de Deseos</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios recibir notificaciones cuando un paquete de viaje guardado en su lista de deseos se actualiza.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>US16</td>
     <td>Edición de perfil de usuario</td>
     <td>Como usuario, quiero poder editar mi perfil de usuario en la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>32</td>
+    <td>TS16</td>
+    <td>Implementación de Edición de Perfil de Usuario</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados editar la información de su perfil en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
     <td>US17</td>
     <td>Configuración de preferencias de notificaciones</td>
     <td>Como usuario, quiero poder configurar mis preferencias de notificaciones en la aplicación.</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>34</td>
+    <td>TS17</td>
+    <td>Implementación de Configuración de Preferencias de Notificaciones</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados configurar sus preferencias de notificaciones en la aplicación.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>35</td>
     <td>US18</td>
     <td>Eliminación de cuenta de usuario</td>
     <td>Como usuario, quiero poder eliminar mi cuenta de usuario en la aplicación.</td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>19</td>
+    <td>36</td>
+    <td>TS18</td>
+    <td>Implementación de Eliminación de Cuenta de Usuario</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados eliminar sus cuentas de usuario en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>37</td>
     <td>US19</td>
     <td>Reseñas de viajes para usuarios registrados</td>
     <td>Como usuario registrado, quiero poder dejar una reseña sobre mi experiencia en un viaje reservado a través de AdventureHub.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>38</td>
+    <td>TS19</td>
+    <td>Implementación de Reseñas de Viajes para Usuarios Registrados</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados escribir y leer reseñas de viajes en la aplicación.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>39</td>
     <td>US20</td>
     <td>Visualización de reseñas de otros viajeros</td>
-    <td>Como usuario registrado, quiero poder ver las reseñas de otros viajeros para ayudarme a tomar una decisión informada sobre la reserva de un viaje.</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados visualizar las reseñas de otros viajeros sobre destinos y paquetes de viaje en la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>40</td>
+    <td>TS20</td>
+    <td>Implementación de Visualización de Reseñas de Otros Viajeros</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados visualizar las reseñas de otros viajeros sobre destinos y paquetes de viaje en la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>41</td>
     <td>US21</td>
     <td>Solicitud de paquete personalizado a través del chat</td>
     <td>Como usuario, quiero poder solicitar un paquete personalizado a través del chat de la aplicación, para poder encontrar la mejor opción de viaje para mí.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>22</td>
+    <td>42</td>
+    <td>TS21</td>
+    <td>Implementación de Solicitud de Paquete Personalizado a través del Chat</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados solicitar paquetes de viaje personalizados a través del chat de la aplicación.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>43</td>
     <td>US22</td>
     <td>Notificaciones en tiempo real de aceptación de solicitud personalizada</td>
     <td>Como usuario, quiero recibir notificaciones en tiempo real cuando una agencia acepte mi solicitud de paquete personalizado, para poder comenzar la conversación de inmediato.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>23</td>
+    <td>44</td>
+    <td>TS22</td>
+    <td>Implementación de Notificaciones en Tiempo Real de Aceptación de Solicitud Personalizada</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite enviar notificaciones en tiempo real a los usuarios registrados cuando su solicitud de paquete de viaje personalizado es aceptada por el equipo de atención al cliente.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>45</td>
     <td>US23</td>
     <td>Lista de solicitudes personalizadas para agencia de viajes</td>
     <td>Como agencia de viajes, quiero poder ver una lista de solicitudes personalizadas de usuarios, para poder seleccionar las solicitudes que me interesan y comenzar una conversación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>24</td>
+    <td>46</td>
+    <td>TS23</td>
+    <td>Implementación de Lista de Solicitudes Personalizadas para Agencia de Viajes</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a las agencias de viajes acceder y gestionar una lista de todas las solicitudes personalizadas de paquetes de viaje realizadas por los usuarios.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>47</td>
     <td>US24</td>
     <td>Visualización de perfil de usuario para agencia de viajes</td>
     <td>Como agencia de viajes, quiero poder ver el perfil del usuario que hizo la solicitud personalizada, para poder personalizar mi oferta y proporcionar una mejor experiencia de usuario.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>25</td>
+    <td>48</td>
+    <td>TS24</td>
+    <td>Implementación de Visualización de Perfil de Usuario para Agencia de Viajes</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a las agencias de viajes acceder y visualizar perfiles de usuario detallados en la aplicación, con el fin de brindar un servicio más personalizado.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>49</td>
     <td>US25</td>
     <td>Comunicación directa con agencia de viajes a través del chat</td>
     <td>Como usuario, quiero poder comunicarme directamente con la agencia de viajes a través del chat de la aplicación, para poder hacer preguntas y resolver cualquier problema relacionado con mi reserva.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>50</td>
+    <td>TS25</td>
+    <td>Implementación de Comunicación Directa con Agencia de Viajes a través del Chat</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados comunicarse directamente con la agencia de viajes a través de un chat en la aplicación, para brindarles asistencia y respuestas a sus preguntas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>51</td>
     <td>US26</td>
     <td>Comandos predefinidos para agencia de viajes</td>
     <td>Como agencia de viajes, quiero tener una lista de comandos predefinidos que pueda utilizar para armar el paquete personalizado, para poder ahorrar tiempo en la conversación y proporcionar opciones claras y concisas al usuario.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>27</td>
-    <td>US72</td>
+    <td>52</td>
+    <td>TS26</td>
+    <td>Implementación de Comandos Predefinidos para Agencia de Viajes en el Chat</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados acceder y utilizar comandos predefinidos en el chat de la aplicación para obtener información rápida de la agencia de viajes.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>US27</td>
     <td>Aceptación o rechazo de componentes del paquete personalizado</td>
     <td>Como usuario, quiero poder aceptar o rechazar los componentes del paquete personalizado que se me ofrecen, para poder tener una experiencia personalizada y a medida.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>28</td>
+    <td>54</td>
+    <td>TS27</td>
+    <td>Implementación de Aceptación o Rechazo de Componentes del Paquete Personalizado</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados revisar y tomar decisiones sobre la aceptación o el rechazo de componentes específicos de un paquete de viaje personalizado propuesto por la agencia de viajes.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>55</td>
     <td>US28</td>
     <td>Enlace de pago en chat para paquete personalizado</td>
     <td>Como usuario, quiero poder aceptar o rechazar los componentes del paquete personalizado que se me ofrecen, para poder tener una experiencia personalizada y a medida.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>29</td>
+    <td>56</td>
+    <td>TS28</td>
+    <td>Implementación de Enlace de Pago en Chat para Paquete Personalizado</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permite a los usuarios registrados recibir un enlace de pago a través del chat de la aplicación cuando acepten un paquete de viaje personalizado, y luego completar el proceso de reserva y pago de manera segura.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>57</td>
     <td>US29</td>
     <td>Correo electrónico con detalles de paquete de viaje y factura</td>
     <td>Como usuario, quiero recibir un correo electrónico con los detalles de mi paquete de viaje y mi factura después de completar la transacción, para poder tener un registro de mis reservas.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>30</td>
+    <td>58</td>
+    <td>TS29</td>
+    <td>Implementación de Correo Electrónico con Detalles de Paquete de Viaje y Factura</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que envía automáticamente un correo electrónico a los usuarios registrados después de completar con éxito una reserva de paquete de viaje, incluyendo un itinerario, información del alojamiento, actividades planificadas y una factura detallada.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>59</td>
     <td>US30</td>
     <td>Sistema de seguimiento de pagos y cancelaciones para agencia de viajes</td>
     <td>Como agencia de viajes, quiero tener un sistema de seguimiento de pagos y cancelaciones de paquetes personalizados, para poder mantener un registro claro de las transacciones y reducir el riesgo de pérdidas económicas.</td>
     <td>5</td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td>TS30</td>
+    <td>Implementación del Sistema de Seguimiento de Pagos y Cancelaciones para Agencia de Viajes</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a las agencias de viajes realizar un seguimiento de los pagos recibidos de los clientes y gestionar las cancelaciones de paquetes de viaje de manera eficiente a través de un sistema dedicado.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td>US31</td>
+    <td>Contenido dinámico en la landing page</td>
+    <td>Como propietario del sitio web, quiero que la landing page de AdventureHub muestre contenido dinámico basado en las preferencias del usuario y las ofertas actuales, para aumentar la participación y las conversiones.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>TS31</td>
+    <td>Implementación de Contenido Dinámico en la Landing Page</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita mostrar contenido dinámico en la landing page de AdventureHub basado en las preferencias del usuario y las ofertas actuales, con la capacidad de actualizar automáticamente el contenido para mantenerlo fresco.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td>US31</td>
+    <td>Navegación fácil en la landing page</td>
+    <td>Como propietario del sitio web, quiero que los usuarios puedan navegar fácilmente por la landing page de AdventureHub, para que puedan encontrar rápidamente la información que necesitan y tomar acciones como búsqueda de paquetes o registro.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td>TS31</td>
+    <td>Implementación de Navegación Fácil en la Landing Page</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que garantice una navegación fácil en la landing page de AdventureHub, incluyendo una interfaz intuitiva, acceso rápido a funciones clave y diseño responsive para dispositivos móviles.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td>US31</td>
+    <td>Suscripción al Boletín en el Landing Page</td>
+    <td>Como propietario del sitio web, quiero que los usuarios tengan la opción de suscribirse al boletín informativo de AdventureHub directamente desde la landing page, para que puedan recibir actualizaciones y ofertas por correo electrónico.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>TS31</td>
+    <td>Implementación de Suscripción al Boletín en el Landing Page</td>
+    <td>Como equipo de desarrollo, debemos implementar la funcionalidad que permita a los usuarios suscribirse al boletín informativo de AdventureHub directamente desde la landing page, incluyendo el diseño del formulario, el registro de suscripciones en la base de datos y la confirmación de suscripción exitosa.</td>
+    <td>3</td>
   </tr>
 </tbody>
 </table>
