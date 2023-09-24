@@ -3,9 +3,13 @@
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-DreamTeam, surge con la finalidad de cubrir las necesidades de las personas mediante el uso de la tecnología y comunicación móvil, está conformado por seis integrantes, todos estudiantes de la carrera de Ingeniería de Software.
+DreamTeam es una startup fundada y liderada por un equipo compuesto por seis estudiantes apasionados por la Ingeniería de Software. Nuestra visión es transformar la vida de las personas a través de soluciones tecnológicas y comunicación móvil, y hemos decidido nombrar nuestra iniciativa "DreamTeam".
 
-El nombre del startup es DreamTeam.
+Como estudiantes de Ingeniería de Software, estamos decididos a utilizar nuestra experiencia y conocimiento para abordar las necesidades de las personas en el mundo digital en constante evolución. Creemos que la tecnología puede ser una poderosa herramienta para mejorar la calidad de vida y simplificar las tareas cotidianas.
+
+En DreamTeam, estamos comprometidos con la excelencia y la innovación. Nos esforzamos por crear soluciones tecnológicas que no solo sean efectivas, sino también accesibles y fáciles de usar para una amplia gama de usuarios. Nuestro objetivo es ser un motor de cambio positivo en la sociedad, brindando aplicaciones móviles y servicios de comunicación que marquen la diferencia.
+
+A medida que avanzamos en nuestra misión, estamos emocionados por las oportunidades de colaboración, crecimiento y aprendizaje que se presentan en nuestro camino. Esperamos con ansias contribuir de manera significativa al mundo digital y, al mismo tiempo, aprender y crecer como equipo y como individuos en este apasionante viaje.
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
@@ -86,6 +90,19 @@ El nombre del startup es DreamTeam.
 		</p>
 	</div>
 </div>
+
+<div>
+	<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/profile-images/mauricio.jpg" width="80" height="80">
+	<div>
+		<u>
+			<strong> Mauricio Oscar Nuñez Melgarejo - u201913455</strong>
+		</u>
+		<p>
+			Como profesional en formación de la carrera de ingeniería de software, tengo habilidades en programación, análisis de requisitos, diseño y testing de software, además de ser una persona comprometida, responsable y con una actitud proactiva hacia el trabajo en equipo. Tengo conocimientos en lenguajes de programación como Java, Python, C++, y tecnologías web como HTML, CSS y JavaScript, así como experiencia en el uso de herramientas de desarrollo y control de versiones.
+		</p>
+	</div>
+</div>
+
 <br>
 
 ## 1.2 Solution Profile
@@ -112,24 +129,25 @@ El tiempo que demora la búsqueda de un paquete de viaje puede variar según las
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
-AdventureHub se enfoca en la compra de paquetes de viaje para promover el turismo y apoyar a las pequeñas agencias de viajes. A pesar de la existencia de varias aplicaciones de viajes en el mercado, se ha identificado una necesidad insatisfecha entre los viajeros que buscan una experiencia personalizada y que se adapte a sus intereses y preferencias individuales.
 
-Los viajeros suelen enfrentar problemas al planificar sus viajes, como la falta de información confiable, la complejidad de comparar precios y paquetes de viaje, la dificultad para encontrar destinos que se adapten a sus intereses y presupuestos, y la falta de confianza en las pequeñas agencias de viajes que ofrecen estos paquetes.
+AdventureHub se centra en la adquisición de paquetes de viaje para fomentar el turismo y respaldar a las pequeñas agencias de viajes. A pesar de la existencia de múltiples aplicaciones de viajes en el mercado, hemos identificado una necesidad insatisfecha entre los viajeros que buscan experiencias personalizadas que se ajusten a sus intereses y preferencias individuales.
 
-En este contexto, se evidencian dos grupos segmentos que están involucrados: los viajeros y las pequeñas agencias de viajes. Los viajeros buscan destinos que satisfagan sus necesidades y preferencias, mientras que las pequeñas agencias de viajes buscan aumentar su visibilidad y llegar a nuevos clientes.
+Los viajeros se enfrentan a desafíos en la planificación de sus viajes, que incluyen la falta de información confiable, la complejidad de comparar precios y paquetes de viaje, la dificultad para encontrar destinos que se adapten a sus intereses y presupuestos, y la falta de confianza en las pequeñas agencias de viajes. Estas agencias, a su vez, luchan por atraer clientes de manera efectiva, dependiendo en gran medida de terceros y redes sociales para su visibilidad.
 
-Por lo tanto, el objetivo principal de AdventureHub es crear una aplicación que brinde una experiencia personalizada y confiable para los viajeros, al mismo tiempo que fomente la competencia saludable entre las pequeñas agencias de viajes. La aplicación debe ofrecer información clara y detallada sobre los destinos, opciones de precios y paquetes de viaje, así como una interfaz fácil de usar que permita a los viajeros comparar y reservar paquetes de viaje con confianza.
+En este contexto, se identifican dos grupos principales involucrados: los viajeros que buscan destinos personalizados y las pequeñas agencias de viajes que enfrentan dificultades en la adquisición de clientes.
 
-Para lograr este objetivo, se deben resolver los siguientes problemas:
-*	La falta de información detallada y confiable sobre los destinos y paquetes de viaje disponibles.
-*La falta de una interfaz fácil de usar para comparar y reservar paquetes de viaje.
-*	La falta de confianza en las pequeñas agencias de viajes y la falta de visibilidad para estas empresas.
-*	La falta de personalización en la experiencia del usuario al elegir un destino de viaje.
+Por lo tanto, el objetivo principal de AdventureHub es desarrollar una suite de productos digitales que brinde experiencias personalizadas y confiables para los viajeros, al mismo tiempo que soluciona el desafío de las pequeñas agencias de viajes al atraer clientes de manera eficaz. Esta suite de productos debe proporcionar información detallada y precisa sobre destinos, opciones de precios y paquetes de viaje, además de una interfaz amigable que permita a los viajeros comparar y reservar paquetes con confianza.
 
+Para lograr este objetivo, debemos abordar los siguientes problemas:
 
-Por lo tanto, la pregunta clave para este proyecto es: 
-¿Cómo podemos crear una aplicación que brinde información detallada y confiable, una interfaz fácil de usar y una experiencia personalizada para los viajeros, mientras que fomenta la competencia saludable entre las pequeñas agencias de viajes?
+*	La falta de información detallada y confiable sobre destinos y paquetes de viaje disponibles.
+*	La carencia de una interfaz fácil de usar para comparar y reservar paquetes de viaje.
+*	La falta de confianza en las pequeñas agencias de viajes y la dificultad para aumentar su visibilidad.
+*	La ausencia de opciones de personalización en la experiencia del usuario al seleccionar un destino de viaje.
 
+Por lo tanto, la pregunta fundamental que guía este proyecto es: 
+
+*	¿Cómo podemos crear una suite de productos digitales que ofrezca información detallada y confiable, una interfaz amigable y una experiencia personalizada para los viajeros, al mismo tiempo que facilita la adquisición de clientes para las pequeñas agencias de viajes, promoviendo así una competencia saludable en el mercado de viajes?
 
 #### 1.2.2.2 Lean UX Assumptions
 
