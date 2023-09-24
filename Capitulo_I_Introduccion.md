@@ -45,12 +45,12 @@ A medida que avanzamos en nuestra misión, estamos emocionados por las oportunid
 
 | Imagen | Oscar Enrique Palomino Medina - U201822717  |
 |----------|----------|
-| <img src="./resources/profile-images/os.png" width="100" height="100">   | Estudiante de la carrera de Ingeniería de Software de la UPC. Me gusta elaborar lluvia de ideas en trabajos grupales para lograr un mejor desenvolvimiento de cada uno y así poder conocerlos más, soy carismático y empeñoso al elaborar cada trabajo o proyectos tanto en mi vida personal como universitaria. Poseo conocimientos en C++, HTML, CSS, javascript y C# De esta manera me comprometo a lograr un buen trabajo en equipo poniendo a disposición todas mis cualidades y experiencias para lograr el mejor Proyecto.  |
+| <img src="./resources/profile-images/os.png" width="150" height="150">   | Estudiante de la carrera de Ingeniería de Software de la UPC. Me gusta elaborar lluvia de ideas en trabajos grupales para lograr un mejor desenvolvimiento de cada uno y así poder conocerlos más, soy carismático y empeñoso al elaborar cada trabajo o proyectos tanto en mi vida personal como universitaria. Poseo conocimientos en C++, HTML, CSS, javascript y C# De esta manera me comprometo a lograr un buen trabajo en equipo poniendo a disposición todas mis cualidades y experiencias para lograr el mejor Proyecto.  |
 
 
 | Imagen | Mauricio Oscar Nuñez Melgarejo - u201913455  |
 |----------|----------|
-| <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/profile-images/mauricio.jpg" width="100" height="100">   | Como profesional en formación de la carrera de ingeniería de software, tengo habilidades en programación, análisis de requisitos, diseño y testing de software, además de ser una persona comprometida, responsable y con una actitud proactiva hacia el trabajo en equipo. Tengo conocimientos en lenguajes de programación como Java, Python, C++, y tecnologías web como HTML, CSS y JavaScript, así como experiencia en el uso de herramientas de desarrollo y control de versiones.  |
+| <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/profile-images/mauricio.jpg" width="150" height="150">   | Como profesional en formación de la carrera de ingeniería de software, tengo habilidades en programación, análisis de requisitos, diseño y testing de software, además de ser una persona comprometida, responsable y con una actitud proactiva hacia el trabajo en equipo. Tengo conocimientos en lenguajes de programación como Java, Python, C++, y tecnologías web como HTML, CSS y JavaScript, así como experiencia en el uso de herramientas de desarrollo y control de versiones.  |
 
 
 
