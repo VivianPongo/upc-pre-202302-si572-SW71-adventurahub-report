@@ -3,9 +3,13 @@
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-DreamTeam, surge con la finalidad de cubrir las necesidades de las personas mediante el uso de la tecnología y comunicación móvil, está conformado por seis integrantes, todos estudiantes de la carrera de Ingeniería de Software.
+DreamTeam es una startup fundada y liderada por un equipo compuesto por seis estudiantes apasionados por la Ingeniería de Software. Nuestra visión es transformar la vida de las personas a través de soluciones tecnológicas y comunicación móvil, y hemos decidido nombrar nuestra iniciativa "DreamTeam".
 
-El nombre del startup es DreamTeam.
+Como estudiantes de Ingeniería de Software, estamos decididos a utilizar nuestra experiencia y conocimiento para abordar las necesidades de las personas en el mundo digital en constante evolución. Creemos que la tecnología puede ser una poderosa herramienta para mejorar la calidad de vida y simplificar las tareas cotidianas.
+
+En DreamTeam, estamos comprometidos con la excelencia y la innovación. Nos esforzamos por crear soluciones tecnológicas que no solo sean efectivas, sino también accesibles y fáciles de usar para una amplia gama de usuarios. Nuestro objetivo es ser un motor de cambio positivo en la sociedad, brindando aplicaciones móviles y servicios de comunicación que marquen la diferencia.
+
+A medida que avanzamos en nuestra misión, estamos emocionados por las oportunidades de colaboración, crecimiento y aprendizaje que se presentan en nuestro camino. Esperamos con ansias contribuir de manera significativa al mundo digital y, al mismo tiempo, aprender y crecer como equipo y como individuos en este apasionante viaje.
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
