@@ -454,7 +454,7 @@ LLENAR RESUMEN
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Melgranejo</td>
+    <td>Melgarejo</td>
   </tr>
   <tr>
     <td>Edad</td>
