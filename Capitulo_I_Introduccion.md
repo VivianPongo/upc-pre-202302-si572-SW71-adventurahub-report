@@ -105,6 +105,11 @@ A medida que avanzamos en nuestra misión, estamos emocionados por las oportunid
 
 <br>
 
+
+| Imagen | Información  |
+|----------|----------|
+| [![Vivian-Pongo.](resources/profile-images/vivian.png)]()   | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y beneficiaria de la beca PRONABEC, actualmente avanzando en el octavo ciclo de la carrera de Ingeniería de Software. Mi pasión por la tecnología me ha llevado a adquirir una amplia gama de habilidades, desde programación web (Frontend) y desarrollo móvil con Kotlin y Flutter hasta la programación en C++, Dart, JavaScript y Java. Además, poseo experiencia en pruebas unitarias con JUnit y Mockito, y domino herramientas como Excel, Power BI y SQL en diversos niveles.  |
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 Procedemos a implementar la herramienta 5W Y 2H, la cuál nos ayudará para poder entender y plantear de forma correcta la problemática identificada y su solución respectiva.
