@@ -269,25 +269,38 @@ Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el
 <br>
 En el caso de AdventureHub, algunas características importantes podrían incluir:
 
+
+* Motor de Búsqueda Avanzado: Un motor de búsqueda que permita a los usuarios encontrar fácilmente paquetes de viajes y destinos según sus preferencias, fechas y presupuesto.
+
+* Perfiles de Usuario Personalizados: Perfiles de usuario donde los viajeros pueden ingresar sus preferencias, historial de viajes y deseos para recibir recomendaciones personalizadas.
+
+* Información Detallada de Destinos y Aventuras: Páginas/vistas detalladas que brinden información completa sobre destinos, actividades y aventuras, incluyendo reseñas, fotos y consejos de otros viajeros.
+
+* Herramientas de Personalización de Viajes: Una función que permita a los usuarios personalizar completamente su itinerario de viaje, incluyendo opciones de transporte, alojamiento y actividades.
+
+* Sistema de Reservas Integrado: Un sistema de reserva seguro y eficiente que permita a los usuarios reservar aventuras y servicios de manera directa.
+
+* Calendario de Viajes: Un calendario integrado que ayude a los usuarios a organizar y llevar un seguimiento de sus itinerarios de viaje.
+
+* Plataforma de Comunicación con Proveedores: Un sistema de mensajería interna que permita a los usuarios comunicarse de manera efectiva con los proveedores de servicios.
+
+* Valoraciones y Reseñas: La capacidad para que los usuarios califiquen y reseñen destinos y aventuras, brindando información valiosa a otros viajeros.
+
+* Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
+
 *	Interfaz de usuario intuitiva y fácil de usar: El sistema de mensajería estará integrado en la interfaz de usuario de la aplicación, lo que permitirá a los usuarios comunicarse de manera fácil y rápida con los proveedores de aventuras y hacer consultas sobre los paquetes personalizados.
 
-*	Sistema de reservas en línea: Los usuarios podrán utilizar el sistema de mensajería para hacer preguntas sobre los paquetes de viaje, obtener información adicional y realizar reservas en línea, todo dentro de la misma aplicación.
+* Notificaciones Personalizadas: Un sistema de notificaciones que informe a los usuarios sobre ofertas especiales, cambios en itinerarios y otras actualizaciones relevantes.
 
-+	Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
+* Herramientas de Promoción para Agencias de Viajes: Funcionalidades específicas para agencias de viajes que les permitan cargar y promocionar paquetes de viaje de manera efectiva.
 
-+	Personalización de aventuras: Los usuarios podrán utilizar el sistema de mensajería para comunicarse con los proveedores de aventuras y solicitar personalizaciones en los paquetes de viaje, como agregar actividades adicionales, modificar itinerarios o hacer consultas especiales.
+* Seguridad y Privacidad Reforzadas: Medidas sólidas de seguridad de datos y transacciones en línea para garantizar la confidencialidad y la integridad de la información del usuario.
 
-+	Comunicación con proveedores de aventuras: El sistema de mensajería permitirá a los usuarios comunicarse directamente con los proveedores de aventuras, lo que facilitará la comunicación y la respuesta a preguntas o inquietudes sobre los paquetes de viaje personalizados.
-
-+	Integración con notificaciones push: El sistema de mensajería estará integrado con notificaciones push, lo que permitirá a los usuarios recibir alertas en tiempo real sobre nuevos mensajes o respuestas de los proveedores de aventuras, mejorando la comunicación y la eficiencia del proceso de reserva.
-
-+	Seguridad de datos: Se implementarán medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
++	Seguridad de datos: Se deberá mplementar medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
 
 +	Registro y seguimiento de conversaciones: El sistema de mensajería registrará y seguirá las conversaciones entre los usuarios y los proveedores de aventuras, lo que permitirá un seguimiento completo de las comunicaciones y un historial de mensajes para futuras referencias.
 
-+	Integración con perfiles de redes sociales: Los usuarios podrán utilizar el sistema de mensajería para compartir información sobre las aventuras reservadas en sus perfiles de redes sociales, lo que permitirá una mayor interacción social y conexión con otros usuarios con intereses similares.
-
-+	Soporte al cliente: El equipo de soporte al cliente de AdventureHub estará disponible a través del sistema de mensajería para responder rápidamente a las preguntas y problemas de los usuarios, brindando un servicio de atención al cliente eficiente y orientado a la satisfacción del usuario.
++	Soporte al cliente: Un sistema de soporte al cliente en línea que brinde asistencia en tiempo real a los usuarios.
 
 
 <strong>¿Cómo debe verse nuestro producto y comportarse?</strong>
