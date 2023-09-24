@@ -76,7 +76,10 @@ Utilice la técnica de start-with-value para la identificación de aquellas part
 <br><strong>Pongo Quisocala Vivian
 <br>TB1<br></strong>
 Se elaboró el container level diagram para comunicar eficientemenete las ideas sobre los bounded context creados para el proyecto
-<br><strong>Mauricio Oscar Nuñez Melgarejo<br>TB1</strong><br> Para llevar a cabo la reducción gráfica de los 11 bounded context a los 6 bounded context en Miro, utilicé esta plataforma de colaboración en línea como una herramienta valiosa para simplificar y visualizar de manera efectiva la arquitectura del proyecto.
+
+<br><strong>Mauricio Oscar Palomino Medina<br>TB1</strong><br> Para llevar a cabo la reducción gráfica de los 11 bounded context a los 6 bounded context en Miro, utilicé esta plataforma de colaboración en línea como una herramienta valiosa para simplificar y visualizar de manera efectiva la arquitectura del proyecto.
+
+
 <br><strong>Mauricio Oscar Nuñez Melgarejo<br>TB1</strong><br> Para llevar a cabo el context mapping de los 6 bounded context, me basé en el repositorio de Github "DDD Crew" y en la información recopilada durante la conferencia "Introduction to Context Mapping" en DDD Europe 2022. Esta valiosa fuente de conocimiento proporcionó una base sólida para abordar esta acción fundamental en el desarrollo de nuestro proyecto de ingeniería.
 
 </td>
