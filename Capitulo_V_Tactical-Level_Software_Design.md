@@ -622,7 +622,7 @@ En esta sección, se presentan los diagramas que presentan a mayor detalle la
 #### 5.5.7.2. Bounded Context Database Design Diagram.
 [Imagen]
 
-## 5.6. Bounded Context: Travel Experiencie Booking and Tracking
+## 5.6. Bounded Context: Travel Experience Booking and Tracking
 Presentamos el bounded context de Travel Experience Booking and Tracking, en el cual se abordan las capas relacionadas con la reserva y el estado de la misma, en relación con los usuarios que están utilizando este sistema. A continuación, se detallarán sus principales componentes.
 ### 5.6.1. Domain Layer.
 En esta sección se identifican las clases más importantes de este Bounded Context.
