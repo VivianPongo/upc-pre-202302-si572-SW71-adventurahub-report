@@ -487,13 +487,24 @@ Es el encargado de modificar y obtener información de los pagos.
  
 <br>
 
-
-
-
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams.
+
+<div align="center">
+				<img src="resources/tp/C4-Component-Suscription-BoundedContext.jpeg" alt="Bounded Context Software Architecture Component">
+</div>
+
 ### 5.2.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.2.7.1. Bounded Context Domain Layer Class Diagrams.
+
+<div align="center">
+				<img src="resources/tp/Class-Diagram-Suscription-BoundedContext.jpeg" alt="Class Diagrams">
+</div>
+
 #### 5.2.7.2. Bounded Context Database Design Diagram.
+
+<div align="center">
+				<img src="resources/tp/Database-Diagram-Suscription-BoundedContext.jpeg" alt="Database Design Diagram">
+</div>
 
 ## 5.3. Bounded Context: Profiles & Social Interaction
 ### 5.3.1. Domain Layer.
@@ -544,7 +555,16 @@ Repositories:
 ### 5.3.6. Bounded Context Software Architecture Component Level Diagrams.
 ### 5.3.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.3.7.1. Bounded Context Domain Layer Class Diagrams.
+
+<div align="center">
+				<img src="resources/tp/ClassDiagram-Payment-BoundendConext.jpeg" alt="Class Diagrams">
+</div>
+
 #### 5.3.7.2. Bounded Context Database Design Diagram.
+
+<div align="center">
+				<img src="resources/tp/Database-Diagram-Payment-BoundendConext.jpeg" alt="Class Diagrams">
+</div>
 
 ## 5.4. Bounded Context: Customer Relationship & Communication Management
 ### 5.4.1. Domain Layer.
