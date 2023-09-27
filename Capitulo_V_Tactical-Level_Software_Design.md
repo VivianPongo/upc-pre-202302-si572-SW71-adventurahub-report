@@ -654,16 +654,299 @@ Repositories:
 </div>
 
 ## 5.4. Bounded Context: Customer Relationship & Communication Management
+
 ### 5.4.1. Domain Layer.
+
+Entities: 
+
+ 
+
+User: Representa al usuario registrado 
+
+Notification: Representa una notificación para enviar 
+
+Email: Representa un email 
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Atributos</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">User</td>
+      <td>Id</td>
+      <td>Identificador único para cada registro de usuario</td>
+    </tr>
+    <tr>
+      <td>Created_at</td>
+      <td>Almacena la fecha y hora en que se creó el registro de usuario.</td>
+    </tr>
+    <tr>
+      <td>Updated_at</td>
+      <td>Almacena la fecha y hora de la última actualización de la información de usuario</td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>Representa la dirección de correo electrónico del usuario.</td>
+    </tr>
+    <tr>
+      <td>Password</td>
+      <td>Almacena la contraseña segura del usuario.</td>
+    </tr>
+    <tr>
+      <td>Username</td>
+      <td>Es un nombre de usuario opcional que el usuario puede elegir para su cuenta.</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Representa el estado actual de la cuenta del usuario.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Attributes</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Notification</td>
+      <td>Id</td>
+      <td>Identificador único para cada registro de notificación</td>
+    </tr>
+    <tr>
+      <td>Title</td>
+      <td>Representa el título o encabezado de la notificación.</td>
+    </tr>
+    <tr>
+      <td>Body</td>
+      <td>Contiene el contenido principal de la notificación.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Attributes</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Email</td>
+      <td>From</td>
+      <td>Dirección de correo electrónico del remitente</td>
+    </tr>
+    <tr>
+      <td>To</td>
+      <td>Dirección de correo electrónico del destinatario</td>
+    </tr>
+    <tr>
+      <td>Subject</td>
+      <td>Asunto o título del correo electrónico</td>
+    </tr>
+    <tr>
+      <td>Body</td>
+      <td>Contiene el contenido principal del correo electrónico</td>
+    </tr>
+  </tbody>
+</table>
+
+Value Objects:
+
+<table>
+  <thead>
+    <tr>
+      <th>Value Object</th>
+      <th>Atributos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UserId</td>
+      <td>id</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Value Object</th>
+      <th>Atributos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EmailAddress</td>
+      <td>email</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 5.4.2. Interface Layer.
+
+<table>
+  <thead>
+    <tr>
+      <th>Interfaz</th>
+      <th>Methods</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">UserRepository</td>
+      <td>findById()</td>
+      <td>Operaciones de repositorio de usuarios</td>
+    </tr>
+    <tr>
+      <td>Save()</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Interfaz</th>
+      <th>Methods</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">NotificationRepository</td>
+      <td>findById()</td>
+      <td>Operaciones de repositorio de notificaciones</td>
+    </tr>
+    <tr>
+      <td>Save()</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Interfaz</th>
+      <th>Methods</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">EmailService</td>
+      <td>Send()</td>
+      <td>Envía emails</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Interfaz</th>
+      <th>Methods</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">NotificationService</td>
+      <td>Send()</td>
+      <td>Envía notificaciones</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.4.3. Application Layer.
+
+<table>
+  <thead>
+    <tr>
+      <th>Command Handler</th>
+      <th>Methods</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">CustomerCommunication CommandHandler</td>
+      <td>RegisterUserCommand(name, email)</td>
+      <td>Maneja el comando de registro del usuario</td>
+    </tr>
+    <tr>
+      <td>SendNotificationCommand(user, notification)</td>
+      <td>Maneja el comando para el envío de la notificación</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 5.4.4. Infrastructure Layer.
+
+<table>
+  <thead>
+    <tr>
+      <th>Implementation</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>UserRepositoryImpl</td>
+      <td>Accede a la base de datos para operaciones de usuario</td>
+    </tr>
+    <tr>
+      <td>EmailServiceImpl</td>
+      <td>Utiliza API de email externa</td>
+    </tr>
+    <tr>
+      <td>NotificationServiceImpl</td>
+      <td>Utiliza API de notificaciones push externa</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 5.4.6. Bounded Context Software Architecture Component Level Diagrams.
+
+[Imagen]
 ### 5.4.7. Bounded Context Software Architecture Code Level Diagrams.
+
+En esta sección, se presentan los diagramas que presentan a mayor detalle la 
+
+implementación de componentes en el Bounded Context Customer Relationship & Communication Management. 
+
 #### 5.4.7.1. Bounded Context Domain Layer Class Diagrams.
+
+[Imagen]
 #### 5.4.7.2. Bounded Context Database Design Diagram.
 
-
+[Imagen]
 ## 5.5. Bounded Context: Travel Experience Design and Maintenance
 ### 5.5.1. Domain Layer.
 
