@@ -4,6 +4,14 @@
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
 ### 6.2.3. Searching Systems.
+En la sección de sistemas de navegación se implementarán sistemas de búsqueda que faciliten al usuario la navegación por la aplicación.
+- Lista de anuncios de los paquetes de viaje.
+- Búsqueda de paquetes de viaje por presupuesto dentro de un rango establecido.
+- Búsqueda de paquetes de viaje según temporada del año.
+- Búsqueda de paquetes de viaje según el destino seleccionado.
+- Búsqueda de transacciones de pago para los administradores.	
+- Lista de notificaciones sobre los actualizaciones de las reservas, entre otras actualizaciones dentro de la aplicación.
+
 ### 6.2.4. SEO Tags and Meta Tags.
 Esta sección se refiere a las etiquetas con la que llegaremos y proporcionaremos información a nuestros usuarios.<br>
 
