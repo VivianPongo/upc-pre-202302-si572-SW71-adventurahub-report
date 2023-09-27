@@ -623,10 +623,114 @@ En esta sección, se presentan los diagramas que presentan a mayor detalle la
 [Imagen]
 
 ## 5.6. Bounded Context: Travel Experiencie Booking and Tracking
+Presentamos el bounded context de Travel Experience Booking and Tracking, en el cual se abordan las capas relacionadas con la reserva y el estado de la misma, en relación con los usuarios que están utilizando este sistema. A continuación, se detallarán sus principales componentes.
 ### 5.6.1. Domain Layer.
+En esta sección se identifican las clases más importantes de este Bounded Context.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Class</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Attributes</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Booking</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Id</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Id de la reserva</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fecha de la reserva</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Status</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Estado de la reserva</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NumberOfPeople</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Número de personas para la reserva</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.6.2. Interface Layer.
+En esta sección se identifican las clases que conforman la capa de Interface/Persentation Layer. En este caso la clase controller.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BookingController</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getAllBookings()</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene todas las reservas</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getBookingsByUserId(Long userId)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene todas las reservas por Id de usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">createBooking(CreateBookingResource resource)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Crea una reserva</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.6.3. Application Layer.
+Se identifican las clases que manejan los flujos de procesos del negocio que se manejan en la clase  controlador.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BookingServiceImpl</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getAll()</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene todas las reservas</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getAllUserId(Long id)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene todas las reservas por Id de usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">create(Booking trip)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Crea una reserva</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.6.4. Infrastructure Layer.
+En esta sección se presentan aquellas clases que acceden a servicios externos como la base de datos o los servicios de email. En nuestro caso la clase repository.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BookingRepository</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">findAllByUserId(Long id)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene todas las reservas de los usuarios mediante su id respectivo.</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.6.6. Bounded Context Software Architecture Component Level Diagrams.
 ### 5.6.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.6.7.1. Bounded Context Domain Layer Class Diagrams.
