@@ -12,8 +12,10 @@
 
 <div align="center">
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-1.png" alt="Mockup Landing Page">
-</div>
+resources/tp/MockUp-Landing-Page-1.png" alt="Candidate Context Discovery">
+			</div>
+
+<div align="center">
 
 <div align="center">
 				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
