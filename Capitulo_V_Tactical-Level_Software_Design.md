@@ -1,8 +1,152 @@
 ## 5.1. Bounded Context: Identity and Access Management
+
+Presentamos el bounded context de Identity and Access Management, en el cual se abordan las capas relacionadas a la identidad y autorización de los usuarios en el uso del sistema. A continuación se detallaran sus principales componentes:
+
 ### 5.1.1. Domain Layer.
+En esta sección se identifican las clases más importantes de este Bounded Context.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Class</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Attributes</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">User</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Id</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Id del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Email</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Nombre de perfil del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Password</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Apellido para el perfil del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Username</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Breve identificador del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Email</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Correo del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Password</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Contraseña de la cuenta del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PhotoUrl</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Foto o Imagen de perfil del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PhoneNumber</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Numero de teléfono del viajero</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">SocialMedia</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Redes sociales del viajero</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.1.2. Interface Layer.
+En esta sección se identifican las clases que conforman la capa de Interface/Persentation Layer. En ese caso la clase Controller.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AuthController</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getUserMobileToken(String username)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene el token del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">updateUserMobileToken(String email, UpdateUserResource resource)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Actualiza el token del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">updateUserEmail(String currentEmail, UpdateEmailResource resource)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Actualiza el email del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">login(AuthCredentialsResource resource)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Inicializa al usuario en la aplicación</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">register(AuthCredentialsResource credentials)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Registra al usuario en la aplicación</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.1.3. Application Layer.
+Se identifican las clases que manejan los flujos de procesos del negocio que se manejan en la clase  controlador.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">AuthServiceImpl</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">getUserMobileToken(String username)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene el token del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">updateUserMobileToken(String email, String mobile_token)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Actualiza el token del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">updateUserEmail(String currentEmail, String newEmail)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Actualiza el email del usuario</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">login(AuthCredentialsResource credentials)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Inicializa al usuario en la aplicación</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">register(AuthCredentialsResource credentialsResource)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Registra al usuario en la aplicación</span></td>
+  </tr>
+</tbody>
+</table>
+
+
 ### 5.1.4. Infrastructure Layer.
+En esta sección se presentan aquellas clases que acc	eden a servicios externos como la base de datos o los servicios de email. En nuestro caso la clase repository.
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Methods</span></th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">UserRepository</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">findByEmail(String email);</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene usuario por email</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">findByUsername(String username);</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Obtiene usuario por username</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.1.6. Bounded Context Software Architecture Component Level Diagrams.
 ### 5.1.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.1.7.1. Bounded Context Domain Layer Class Diagrams.
