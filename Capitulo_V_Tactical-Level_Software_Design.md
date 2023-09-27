@@ -1271,7 +1271,7 @@ TripImplementation
   </thead>
   <tbody>
     <tr>
-      <td>TripImpl</td>
+      <td rowspan="4">TripImpl</td>
       <td>findById(tripId)</td>
       <td>Obtiene un Viaje por su Id</td>
     </tr>
@@ -1305,7 +1305,7 @@ DestinationImplementation
   </thead>
   <tbody>
     <tr>
-      <td>DestinationImpl</td>
+      <td rowspan="3">DestinationImpl</td>
       <td>findById(destinationId)</td>
       <td>Obtiene un Destino por su Id</td>
     </tr>
@@ -1334,7 +1334,7 @@ DestinationImplementation
   </thead>
   <tbody>
     <tr>
-      <td>ItineraryImpl</td>
+      <td rowspan="4">ItineraryImpl</td>
       <td>Accede a base de datos para operaciones relacionadas a los Itinerarios</td>
     </tr>
     <tr>
@@ -1346,9 +1346,13 @@ DestinationImplementation
 
 
 ### 5.5.6. Bounded Context Software Architecture Component Level Diagrams.
-Insertar imagen
 
-[Enlace al archivo](https://drive.google.com/file/d/1AWbEGEW3yzRwQFLFZSiuSSebupcg4yqE/view?usp=sharing)
+Imagen101
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams%20-%20Customer%20Relationship.jpg" alt="Bounded Context Software Architecture Component Level Diagrams">
+</div>
+
+[Enlace al archivo](https://drive.google.com/drive/folders/1Ij2d_conwapI4QdItDSN8uFMnUERSWti?usp=drive_link)
 
 
 
