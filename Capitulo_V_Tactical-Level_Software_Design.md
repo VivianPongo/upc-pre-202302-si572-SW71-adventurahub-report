@@ -503,7 +503,7 @@ Es el encargado de modificar y obtener información de los pagos.
 #### 5.2.7.2. Bounded Context Database Design Diagram.
 
 <div align="center">
-				<img src="resources/tp/Database-Diagram-Suscription-BoundedContext.jpeg" alt="Database Design Diagram">
+				<img src="resources/tp/Database-Diagram-Suscription-BoundedContext.png" alt="Database Design Diagram">
 </div>
 
 ## 5.3. Bounded Context: Profiles & Social Interaction
