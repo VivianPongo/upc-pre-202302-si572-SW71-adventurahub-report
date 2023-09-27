@@ -79,6 +79,13 @@ Los sistemas de navegación dentro de la aplicación serán los siguientes.
 
 ## 6.3. Landing Page UI Design.
 ### 6.3.1. Landing Page Wireframe.
+
+El "Landing Page Wireframe" es una guía visual de utilizamos para esbozar y planificar la estructura de nuestra Landing page. Creamos representaciones gráficas simples y esquemáticas, sin incluir detalles visuales o de diseño completos. Nos permitieron organizar los elementos, como el encabezado, el contenido principal y los botones de call-to-action, sin preocuparnos por los colores o las imágenes específicas en ese momento. 
+
+<div align="center">
+				<img src="resources/tp/Wireframe - Landing Page - Emergentes.png" alt="Wireframe Landing page">
+</div>
+
 ### 6.3.2. Landing Page Mock-up.
 
 <div align="center">
