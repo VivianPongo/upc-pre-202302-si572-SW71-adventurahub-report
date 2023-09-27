@@ -30,18 +30,44 @@ La elección de colores en AdventureHub desempeña un papel fundamental en la ex
 
 <br>
 
-[![typography-1](resources/tp/color1.png)]()
 
-[![typography-2](resources/tp/color2.png)]()
+<div align="center">
+				<img src="resources/tp/color1.png" 
+        alt="color-1">
+</div>
+
+<div align="center">
+				<img src="resources/tp/color2.png" 
+        alt="color-2">
+</div>
+
 
 #### Spacing
 
 El espaciado es un elemento crítico en el diseño, ya que afecta directamente a la legibilidad, la organización y la apariencia general de una interfaz. En AdventureHub, prestamos una atención cuidadosa al espaciado para garantizar una experiencia visualmente agradable y fácil de usar.
 
-[![typography-1](resources/tp/espacio.png)]()
+
+[![spacing](resources/tp/espacio.png)]()
 
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
+
+El Web and Mobile Style Guide de AdventureHub desempeña un papel fundamental al proporcionar una referencia completa y detallada sobre los estándares visuales y de interacción para las interfaces tanto de la web como de dispositivos móviles. En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de interacción para responsive web interfaces y native mobile interfaces.
+
+Las decisiones tomadas son: 
+
+* Paleta de colores: Hemos seleccionado una paleta de colores vibrantes, incluyendo el rojo (#FC4747) para invocar una sensación de energía y aventura, el azul (#5A698F) para transmitir confianza y profesionalismo, y el blanco (#FFFFFF) para un aspecto limpio y moderno. 
+
+* Tipografía: Utilizamos la fuente "Outfit" con variaciones de "Light" y "Medium" para encabezados y cuerpo de texto, lo que garantiza una lectura fácil y atractiva. La elección tipográfica se ha adaptado para lograr una jerarquía clara y coherente, optimizando la legibilidad en dispositivos de diferentes tamaños.
+
+* Espaciado: Mantenemos un espaciado uniforme y consistente en todos los elementos de la interfaz, lo que mejora la organización y la legibilidad.
+
+* Botones y elementos interactivos: Hemos definido un estilo para botones y elementos interactivos. Estos elementos siguen principios de diseño centrados en el usuario para facilitar la navegación y la acción.
+
+* Responsive Design: Para las interfaces web, hemos implementado un diseño responsivo que se adapta automáticamente a diferentes tamaños de pantalla, desde escritorios hasta dispositivos móviles. Esto garantiza que los usuarios tengan una experiencia coherente sin importar el dispositivo que utilicen.
+
+
+
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
 
