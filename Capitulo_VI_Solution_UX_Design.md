@@ -1,6 +1,46 @@
 ## 6.1. Style Guidelines.
 ### 6.1.1. General Style Guidelines.
 
+El branding desempeña un papel crucial en AdventureHub al transmitir su personalidad distintiva, que combina una energía aventurera con profesionalismo y confianza. Para construir esta identidad de marca de manera efectiva, hemos empleado Figma, una herramienta de diseño y colaboración. A través de una plantilla, hemos creado y mantenido de forma coherente elementos clave de diseño, como, la paleta de colores, la tipografía y otros aspectos visuales. Esta elección nos ha permitido trabajar de manera colaborativa y en tiempo real, asegurando que nuestra marca sea uniforme en todas las interacciones con los usuarios.
+
+#### Lenguaje aplicado
+
+La plataforma web y móvil de AdventureHub utilizará un lenguaje coloquial en la interfaz. Esta elección tiene varios beneficios significativos. En primer lugar, el lenguaje coloquial crea un ambiente acogedor y cercano para los usuarios, lo que les permite sentirse más cómodos y conectados con la plataforma.
+
+
+#### Typography:
+
+AdventureHub ha seleccionado la fuente "Outfit" para garantizar una experiencia de lectura óptima en toda la plataforma. La fuente "Outfit" se utilizará en sus variaciones "Light" y "Medium", y se ajustará según el contraste con los colores de fondo para mejorar la legibilidad. Además, hemos establecido tamaños de fuente específicos para las secciones de "Heading" y "Body" para garantizar una jerarquía tipográfica coherente. Es importante destacar que la fuente "Outfit" es de código abierto y fue creada por On Brand Investments Pty Ltd, lo que refuerza nuestro compromiso con el acceso abierto y la calidad en el diseño tipográfico.
+
+[![typography-1](resources/tp/outfit1.png)]()
+
+![typography-2](resources/tp/outfit2.png "a title")
+
+#### Colors:
+
+La elección de colores en AdventureHub desempeña un papel fundamental en la experiencia del usuario y en la percepción de la marca. Es por ello que se han elegido colores específicos, como #FC4747, #10141E, #5A698F, #161D2F y #FFFFFF, ya que pueden ser beneficiosos para la plataforma. Estos colores no solo reflejan la personalidad enérgica que llama a la aventura, sino también la profesionalidad y la confianza que son fundamentales para la marca. Son una parte integral de la identidad de AdventureHub, comunicando su estilo y los valores que representa. Esta elección de colores ayuda a diferenciar a AdventureHub de la competencia y a establecer una conexión emocional sólida con los usuarios.
+
+* Destacar llamadas a la acción: El color #FC4747 es un tono de rojo brillante y enérgico que puede utilizarse para resaltar elementos de acción importantes, como botones de "Reservar ahora" o "Explorar aventuras". Este color es conocido por atraer la atención de los usuarios y alentar la interacción.
+
+* Elegancia y profesionalismo: Los colores #10141E y #161D2F son tonos de gris oscuro y azul oscuro, respectivamente. Estos colores transmiten una sensación de elegancia, sofisticación y profesionalismo. Pueden utilizarse para el fondo de la plataforma, lo que proporciona un telón de fondo neutro que resalta el contenido y las imágenes de aventuras.
+
+* Confianza y serenidad: El color #5A698F es un azul más claro que transmite confianza, serenidad y fiabilidad. Puede ser adecuado para elementos de navegación, encabezados y otros aspectos de la interfaz que deben generar confianza en los usuarios mientras exploran las opciones de viaje.
+
+* Legibilidad y accesibilidad: El color #FFFFFF representa el blanco puro y se utiliza comúnmente para el texto sobre fondos oscuros. Este contraste mejora la legibilidad del contenido, lo que es fundamental para que los usuarios puedan consumir información de manera efectiva.
+
+<br>
+
+[![typography-1](resources/tp/color1.png)]()
+
+[![typography-2](resources/tp/color2.png)]()
+
+#### Spacing
+
+El espaciado es un elemento crítico en el diseño, ya que afecta directamente a la legibilidad, la organización y la apariencia general de una interfaz. En AdventureHub, prestamos una atención cuidadosa al espaciado para garantizar una experiencia visualmente agradable y fácil de usar.
+
+[![typography-1](resources/tp/espacio.png)]()
+
+
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
