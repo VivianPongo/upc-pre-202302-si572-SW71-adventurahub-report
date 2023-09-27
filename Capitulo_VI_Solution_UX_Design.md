@@ -336,3 +336,27 @@ El "Landing Page Mock-up" es una una herramienta que utilizamos para visualizar 
 </div>
 
 ## 6.5. Applications Prototyping.
+
+Esta sección incluye Prototipos de UI para Mobile con simulación de interacción y navegación.
+
+<h3> Explicación de Application Prototyping </h3>
+<img src="resources/tp/prototyping/video_screenshot.png" alt="video" >
+<b>URL: <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u201819125_upc_edu_pe/ERddOigHZONJstuLPctFKzcB5yi9sUWRtzE4_quVkUvVbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=x8TuR4</a></b>
+<b>Timing 7:34 min</b>
+
+<div align="center">
+        <h3>User Flow: Login</h3>
+				<img src="resources/tp/prototyping/p-flow1.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Flow: Signup</h3>
+				<img src="resources/tp/prototyping/p-flow2.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Flow: Booking </h3>
+				<img src="resources/tp/prototyping/p-flow3.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Flow: Chat</h3>
+				<img src="resources/tp/prototyping/p-flow4.png" alt="mockups">
+</div>
