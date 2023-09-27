@@ -934,7 +934,11 @@ Value Objects:
 
 ### 5.4.6. Bounded Context Software Architecture Component Level Diagrams.
 
-[Imagen]
+
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams%20-%20Customer%20Relationship.jpg?raw=true" alt="Bounded Context Software Architecture Component Class Diagrams">
+</div>
+
 ### 5.4.7. Bounded Context Software Architecture Code Level Diagrams.
 
 En esta sección, se presentan los diagramas que presentan a mayor detalle la 
@@ -943,10 +947,18 @@ implementación de componentes en el Bounded Context Customer Relationship & Com
 
 #### 5.4.7.1. Bounded Context Domain Layer Class Diagrams.
 
-[Imagen]
+
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Domain%20Layer%20Class%20Diagrams%20Travel%20Experience%20-%20Customer%20Relationship.jpg?raw=true" alt="Bounded Context Software Architecture Component Class Diagrams">
+</div>
+
 #### 5.4.7.2. Bounded Context Database Design Diagram.
 
-[Imagen]
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Database%20Design%20Diagram%20-%20Customer%20Relationship.jpg?raw=true" alt="Bounded Context Software Architecture Component Class Diagrams">
+</div>
+
+
 ## 5.5. Bounded Context: Travel Experience Design and Maintenance
 ### 5.5.1. Domain Layer.
 
@@ -1347,9 +1359,8 @@ DestinationImplementation
 
 ### 5.5.6. Bounded Context Software Architecture Component Level Diagrams.
 
-Imagen101
 <div align="center">
-  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams%20-%20Customer%20Relationship.jpg" alt="Bounded Context Software Architecture Component Level Diagrams">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Software%20Architecture%20Component%20Level%20Diagrams%20-%20Travel%20Experience.png?raw=true" alt="Bounded Context Software Architecture Component Level Diagrams">
 </div>
 
 [Enlace al archivo](https://drive.google.com/drive/folders/1Ij2d_conwapI4QdItDSN8uFMnUERSWti?usp=drive_link)
@@ -1360,11 +1371,22 @@ Imagen101
 
 En esta sección, se presentan los diagramas que presentan a mayor detalle la 
 
-[Imagen]
+
+
 #### 5.5.7.1. Bounded Context Domain Layer Class Diagrams.
-[Imagen]
+
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Domain%20Layer%20Class%20Diagrams%20-%20Travel%20Experience.png?raw=true" alt="Bounded Context Software Architecture Component Class Diagrams">
+</div>
+
 #### 5.5.7.2. Bounded Context Database Design Diagram.
-[Imagen]
+
+
+<div align="center">
+  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_V_Tactical-Level_Software_Design/resources/tp/Bounded%20Context%20Database%20Design%20Diagram%20-%20Travel%20Experience%20Design.png?raw=true" alt="Bounded Context Software Architecture Component Class Diagrams">
+</div>
+
+
 
 ## 5.6. Bounded Context: Travel Experience Booking and Tracking
 Presentamos el bounded context de Travel Experience Booking and Tracking, en el cual se abordan las capas relacionadas con la reserva y el estado de la misma, en relación con los usuarios que están utilizando este sistema. A continuación, se detallarán sus principales componentes.
