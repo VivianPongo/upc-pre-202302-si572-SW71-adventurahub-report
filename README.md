@@ -24,7 +24,6 @@ Ciclo: 2023-2
 | Vivian Maite Pongo Quisocala        | U201920614     |
 | Ivan Moran Moreno                   | U201919381     |
 | Alessandro Paris Chumpitaz Paredes  | U201523840     |
-| Hermann Klaus Seer Diaz    				  | U201710889     |
 | Patrick Johan Cuentas Mariano       | U201819125     |
 | Nuñez Melgarejo, Mauricio Oscar     | U201913455     |
 | Josmar Vela Sarazú       					  | U201611746     |
