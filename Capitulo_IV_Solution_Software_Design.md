@@ -235,45 +235,84 @@ En el proceso de desarrollo de nuestro proyecto de software, es esencial compren
 <tbody>
   <tr>
     <td>TUS006</td>
-    <td>Latencia Maxima<br></td>
-    <td>La latencia de procesamiento de pagos no debe superar los 2 segundos en el 95% de las transacciones<br></td>
-    <td>Escenario 1: Latencia Máxima en Carga Normal<br><br>Dado que se ha establecido un umbral de latencia máxima para transacciones de pago en condiciones normales.<br>Cuando el sistema procese transacciones de pago durante una carga de trabajo típica.<br>Entonces el 95% de las transacciones de pago deberá completarse en menos de 2 segundos.<br><br>Escenario 2: Latencia Máxima en Picos de Carga<br><br>Dado que se ha definido un límite de latencia máxima para transacciones de pago durante picos de carga.<br>Cuando el sistema experimente un aumento significativo en la carga debido a eventos especiales o promociones.<br>Entonces el 90% de las transacciones de pago aún debe completarse en menos de 3 segundos.</td>
-    <td>2</td>
+    <td>FrontEnd Technologies<br></td>
+    <td>Se restringe a los frameworks de Angular y Vue.Js<br></td>
+    <td>Escenario 1: Verificación de Tecnologías FrontEndl<br><br>
+		Dado que se ha establecido una restricción para utilizar solo Vue.js o Angular en el FrontEnd de la aplicación.<br>
+		Cuando se realice una revisión del código fuente del FrontEnd.<br>
+		Entonces se debe confirmar que todas las partes del FrontEnd están implementadas utilizando Vue.js o Angular sin excepciones.<br><br>
+		Escenario 2: Cumplimiento de la Restricción en Desarrollo Continuo<br>
+		Dado que se ha establecido una restricción para utilizar exclusivamente Vue.js o Angular en el FrontEnd.<br><br>
+		Cuando se realicen actualizaciones o adiciones al FrontEnd de la aplicación.<br>
+		Entonces se debe verificar que las nuevas implementaciones siguen cumpliendo con la restricción, y cualquier violación de esta restricción se debe abordar antes de la implementación final.<br>
+	</td>
+  <td>5</td>
+  </tr>
+	  <tr>
+    <td>TUS008</td>
+    <td>FrontEnd UI Component<br></td>
+    <td>Se restringe a las librerias de UI Angular Material y PrimeVue<br></td>
+    <td>Escenario 1: Diseño y Desarrollo de una Pantalla de Inicio de Sesión<br><br>
+Dado el constraint "FrontEnd UI Component" que limita el uso de bibliotecas de UI a Angular Material y PrimeNG en el FrontEnd.<br>
+Cuando el equipo de desarrollo tenga que diseñar y desarrollar una nueva pantalla de inicio de sesión para la aplicación.<br>
+Entonces el equipo debe utilizar exclusivamente componentes de Angular Material o PrimeNG para construir la interfaz de usuario de la pantalla de inicio de sesión, garantizando así el cumplimiento del constraint.<br><br>
+Escenario 2: Actualización de la Pantalla de Perfil de Usuario<br><br>
+Dado el constraint "FrontEnd UI Component" que restringe el uso de bibliotecas de UI a Angular Material y PrimeNG en el FrontEnd.<br>
+Cuando se realice una actualización en la pantalla de perfil de usuario de la aplicación.<br>
+Entonces el equipo de desarrollo debe asegurarse de que cualquier cambio realizado en la interfaz de usuario de la pantalla de perfil de usuario se realice utilizando componentes de Angular Material o PrimeNG, cumpliendo así con la restricción del constraint.</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>TUS006</td>
-    <td>Monitorizacion</td>
-    <td>Se debe implementar un sistema de monitorización que registre y alerte sobre cualquier anomalía en la latencia de procesamiento de pagos</td>
-    <td>Escenario 1: Registros de Latencia<br><br>Dado que se ha implementado un sistema de monitorización de latencia.<br>Cuando las transacciones de pago se procesen en el sistema.<br>Entonces el sistema generará registros de latencia detallados que incluirán el tiempo de inicio y finalización de cada transacción. Estos registros estarán disponibles para revisión y análisis por parte del equipo de operaciones y el equipo de desarrollo.<br><br>Escenario 2: Alertas de Latencia Excesiva<br><br>Dado que se han configurado alertas de latencia excesiva.<br>Cuando la latencia de procesamiento de pagos exceda los límites establecidos (por ejemplo, más de 2 segundos en un 95% de transacciones).<br>Entonces el sistema enviará alertas automáticas al equipo de operaciones y al equipo de desarrollo por correo electrónico y mensajes de texto para que puedan tomar medidas inmediatas.</td>
-    <td></td>
+    <td>TUS009</td>
+    <td>BackEnd Technologies</td>
+    <td>Se restringe el uso a SpringBoot Java y ASP.NET Core C#</td>
+    <td>Escenario 1: Implementación de un Nuevo Servicio de Usuario<br><br>
+Dado el constraint "BackEnd Technologies" que limita el uso de tecnologías de backend a Spring Boot Java y ASP.NET Core C#.<br>
+Cuando el equipo de desarrollo deba implementar un nuevo servicio de usuario en el backend de la aplicación.<br>
+Entonces el equipo debe utilizar exclusivamente Spring Boot Java o ASP.NET Core C# para desarrollar y desplegar este nuevo servicio, garantizando así el cumplimiento del constraint.<br><br>
+
+Escenario 2: Mantenimiento y Mejora de un Servicio Existente<br><br>
+Dado el constraint "BackEnd Technologies" que restringe el uso de tecnologías de backend a Spring Boot Java y ASP.NET Core C#.<br>
+Cuando sea necesario realizar mantenimiento o mejoras en un servicio existente en el backend de la aplicación.<br>
+Entonces el equipo de desarrollo debe asegurarse de que todas las modificaciones se realicen utilizando Spring Boot Java o ASP.NET Core C#, de acuerdo con la restricción del constraint.</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Presupuesto</td>
-    <td>No se debe superar el limite de 3000 dolares de creditos en la nube.<br></td>
-    <td>Escenario 1: Control de Límite de Créditos<br><br>Dado que se ha establecido un límite máximo de 3000 dólares en créditos de nube.<br>Cuando un usuario realice acciones que consuman créditos en la nube, como el almacenamiento o el uso de recursos computacionales.<br>Entonces el sistema debe monitorear y calcular los créditos consumidos en tiempo real y evitar que un usuario exceda el límite establecido.<br><br>Escenario 2: Notificación de Límite Cercano<br><br>Dado que se ha configurado un límite de créditos en la nube de 3000 dólares.<br>Cuando un usuario se acerque al 90% del límite de créditos disponibles (es decir, tenga menos de 300 dólares de créditos disponibles).<br>Entonces el sistema debe enviar una notificación por correo electrónico al usuario para informarle sobre la proximidad al límite y proporcionar orientación sobre cómo administrar sus créditos de manera eficiente.<br>Estos criterios de aceptación aseguran que el sistema controle y notifique adecuadamente a los usuarios con respecto al límite de créditos en la nube para evitar que lo superen y les brinda información oportuna sobre su uso de créditos.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>TUS0011</td>
     <td>Tiempo de Desarrollo</td>
     <td>Se cuenta con limite de 5 meses para el total desarrollo y entrega de la plataforma desplegada</td>
     <td>Escenario 1: Planificación y Seguimiento del Proyecto<br><br>Dado que se ha establecido un límite de tiempo de 5 meses para el desarrollo y entrega de la plataforma.<br>Cuando el equipo de desarrollo haya creado un plan de proyecto detallado que incluya hitos clave, fechas de entrega parciales y recursos asignados.<br>Entonces el equipo de desarrollo debe seguir de cerca el progreso del proyecto, asegurándose de que cada hito se cumpla según lo programado y tomando medidas inmediatas para abordar cualquier desviación del plan.<br><br>Escenario 2: Entrega de la Plataforma Completa<br><br>Dado que se ha establecido un límite de 5 meses para el desarrollo y entrega de la plataforma.<br>Cuando se cumpla el plazo de 5 meses desde el inicio del proyecto.<br>Entonces el equipo de desarrollo debe haber entregado la plataforma completa y desplegada en un entorno de producción, lista para su uso por parte de los usuarios finales.<br>Estos criterios de aceptación aseguran una gestión efectiva del proyecto dentro del límite de tiempo establecido y garantizan que la plataforma se entregue de manera oportuna para su uso.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
-    <td></td>
+    <td>TUS013</td>
     <td>Base de Datos Relacional</td>
-    <td>Se debe de hacer uso de base de datos relacional por necesitar acceso y lectura de bases de datos existentes de este formato</td>
-    <td>Escenario 1: Integración de Base de Datos Relacional<br><br>Dado que se requiere acceso y lectura de bases de datos existentes en formato relacional.<br>Cuando el sistema esté diseñado e implementado de manera que pueda integrarse correctamente con bases de datos relacionales existentes.<br>Entonces el sistema debe ser capaz de acceder y leer datos de las bases de datos existentes sin problemas de compatibilidad ni pérdida de información.<br><br>Escenario 2: Pruebas Exitosas de Integración de Datos<br><br>Dado que se ha diseñado el sistema para hacer uso de una base de datos relacional.<br>Cuando se realicen pruebas exhaustivas de integración de datos entre el sistema y las bases de datos existentes.<br>Entonces las pruebas deben completarse con éxito, demostrando que el sistema puede acceder y leer datos de las bases de datos relacionales existentes sin errores significativos.</td>
+    <td>Se restringe la administracion de base de datos de tipo relacional, tal como MySql, PostgreSQL</td>
+    <td>Escenario 1: Implementación de una Nueva Base de Datos Relacional<br><br>
+Dado el constraint "Base de Datos Relacional" que limita la administración de bases de datos a tipos relacionales como MySQL y PostgreSQL.<br>
+Cuando sea necesario crear una nueva base de datos para un componente de la aplicación.<br>
+Entonces se debe utilizar una base de datos relacional, como MySQL o PostgreSQL, para la implementación de la nueva base de datos, cumpliendo así con el constraint.<br><br>
+
+Escenario 2: Migración de Datos a una Base de Datos Relacional<br><br>
+Dado el constraint "Base de Datos Relacional" que restringe la administración de bases de datos a tipos relacionales como MySQL y PostgreSQL.<br>
+Cuando se requiera migrar datos desde una base de datos no relacional a una base de datos relacional en el proceso de desarrollo o mantenimiento de la aplicación.<br>
+Entonces se debe llevar a cabo la migración de datos a una base de datos relacional, como MySQL o PostgreSQL, asegurando así la conformidad con el constraint.</td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td>Correo con dominio empresarial</td>
-    <td>Se tendra que usar el correo empresarial de contacto al cliente ya creado y brindado al equipo de desarrollo</td>
-    <td>Escenario 1: Integración del Correo Empresarial<br><br>Dado que se ha proporcionado el correo empresarial de contacto al cliente para su uso en el proyecto.<br>Cuando el equipo de desarrollo haya integrado correctamente el correo empresarial en el sistema y todas las funcionalidades relacionadas con el correo utilicen este correo empresarial como origen o destino.<br>Entonces el sistema debe estar configurado para enviar y recibir correos utilizando el correo empresarial proporcionado sin problemas.<br><br>Escenario 2: Verificación de Funcionalidad de Correo<br><br>Dado que se ha configurado el correo empresarial de contacto al cliente en el sistema.<br>Cuando se realicen pruebas exhaustivas para verificar la funcionalidad del correo empresarial, incluyendo el envío y recepción de correos electrónicos.<br>Entonces las pruebas deben completarse con éxito, demostrando que el sistema puede utilizar el correo empresarial proporcionado para comunicarse eficazmente con el cliente y otros usuarios.</td>
-    <td></td>
+	  <tr>
+    <td>TUS015</td>
+    <td>Uso de GitHub como Repositorio</td>
+    <td>Se debe hacer uso de GitHub Organization para guardar codigo como reporte del curso</td>
+    <td>Escenario 1: Creación de un Nuevo Proyecto en GitHub Organization<br><br>
+Dado el constraint "Uso de GitHub como Repositorio" que exige el uso de GitHub Organization para almacenar el código como reporte del curso.<br>
+Cuando se inicie un nuevo proyecto como parte del curso.<br>
+Entonces se debe crear un nuevo repositorio en la GitHub Organization designada para el curso y almacenar todo el código relacionado con el proyecto en dicho repositorio, cumpliendo así con el constraint.<br><br>
+
+Escenario 2: Colaboración y Control de Versiones<br><br>
+Dado el constraint "Uso de GitHub como Repositorio" que requiere el uso de GitHub Organization para almacenar el código como reporte del curso.<br>
+Cuando varios estudiantes colaboren en un proyecto y realicen cambios en el código.<br>
+Entonces se debe utilizar GitHub como plataforma principal para colaborar, controlar versiones y gestionar los cambios en el código, asegurando que todos los participantes cumplan con la política de almacenamiento en la GitHub Organization según el constraint establecido.</td>
+    <td>5</td>
   </tr>
 </tbody>
 </table>
