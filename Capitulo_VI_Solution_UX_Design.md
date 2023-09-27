@@ -1,4 +1,4 @@
-## 6.1. Style Guidelines.
+![image](https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/assets/89101119/36e4e979-27cc-4635-af1a-e4fb5c1b2d5d)## 6.1. Style Guidelines.
 ### 6.1.1. General Style Guidelines.
 
 El branding desempeña un papel crucial en AdventureHub al transmitir su personalidad distintiva, que combina una energía aventurera con profesionalismo y confianza. Para construir esta identidad de marca de manera efectiva, hemos empleado Figma, una herramienta de diseño y colaboración. A través de una plantilla, hemos creado y mantenido de forma coherente elementos clave de diseño, como, la paleta de colores, la tipografía y otros aspectos visuales. Esta elección nos ha permitido trabajar de manera colaborativa y en tiempo real, asegurando que nuestra marca sea uniforme en todas las interacciones con los usuarios.
@@ -227,7 +227,8 @@ El "Landing Page Mock-up" es una una herramienta que utilizamos para visualizar 
 </div>
 <div align="center">
         <h3>Profile - View Privacy Policies</h3>
-				<img src="resources/tp/wireframes/w-profile-policies-privacy.png.png" alt="wireframe">
+				<img src="resources/tp/wireframes/w-profile-policies-privacy.png" alt="wireframe">
+	
 </div>
 <div align="center">
         <h3>Profile - Notification Manager</h3>
