@@ -1208,6 +1208,20 @@ En esta sección se presentan aquellas clases que acceden a servicios externos c
 </table>
 
 ### 5.6.6. Bounded Context Software Architecture Component Level Diagrams.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.6.6.png" alt="UPC">
+</div>
+
 ### 5.6.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.6.7.1. Bounded Context Domain Layer Class Diagrams.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.6.7.1.png" alt="UPC">
+</div>
+
 #### 5.6.7.2. Bounded Context Database Design Diagram.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.6.7.2.png" alt="UPC">
+</div>
