@@ -498,9 +498,49 @@ Es el encargado de modificar y obtener información de los pagos.
 ## 5.3. Bounded Context: Profiles & Social Interaction
 ### 5.3.1. Domain Layer.
 
+
+
 ### 5.3.2. Interface Layer.
+
+* ReviewController 
+
+Es el encargado de modificar y obtener información de las reseñas.
+
+| Methods  | Description|
+|----------|----------|
+|   PostReview   |  Método POST para registrar una nueva reseña |
+| GetReview | Método GET para obtener la información de una reseña existente por su Id |
+| DeleteReview   | étodo DELETE para eliminar una reseña existente  |
+| PutReview  | Método PUT para modificar la información de una reseña existente |
+| GetAllReviews  | Método GET para obtener la información de todas las reseñas existentes |
+|GetReviewsByTouristID | Método GET para obtener la información de todas las reseñas existentes de un turista por su Id|
+| GetReviewsByPlanID  | Método GET para obtener la información de todas las reseñas existentes de un plan por su Id  |
+
+
 ### 5.3.3. Application Layer.
+
+CommandHandlers: 
+
+* ReviewCommandHandler: Command Handler que maneja los comandos de las reseñas.
+
+| Methods  | Description|
+|----------|----------|
+| HandleAddNewReview  | Maneja el comando agregar reseña |
+| HandleDeleteReview  | Maneja el comando eliminar reseña |
+| HandleUpdateReview  | Maneja el comando actualizar reseña |
+
 ### 5.3.4. Infrastructure Layer.
+
+Repositories: 
+
+* ReviewRepository: 
+
+| Methods  | Description|
+|----------|----------|
+|   FindByTouristID    |  Obtiene una lista de reseñas por el Id del Turista |
+|     FindByPlanID      | Obtiene una lista de reseñas por el Id del Plan |
+
+
 ### 5.3.6. Bounded Context Software Architecture Component Level Diagrams.
 ### 5.3.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.3.7.1. Bounded Context Domain Layer Class Diagrams.
