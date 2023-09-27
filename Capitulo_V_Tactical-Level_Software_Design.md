@@ -149,20 +149,20 @@ En esta sección se presentan aquellas clases que acc	eden a servicios externos 
 
 ### 5.1.6. Bounded Context Software Architecture Component Level Diagrams.
 <div align="center">
-  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/5.1.6.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.1.6.png" alt="UPC">
 </div>
 
 ### 5.1.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.1.7.1. Bounded Context Domain Layer Class Diagrams.
 
 <div align="center">
-  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/5.1.7.1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.1.7.1.png" alt="UPC">
 </div>
 
 #### 5.1.7.2. Bounded Context Database Design Diagram.
 
 <div align="center">
-  <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/5.1.7.2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/Capitulo_V_Tactical-Level_Software_Design/resources/5.1.7.2.png" alt="UPC">
 </div>
 
 ## 5.2. Bounded Context: Subscription and Payments
