@@ -61,6 +61,17 @@ En esta sección, describiremos los diferentes tonos que utilizamos, desde la em
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
+
+En esta sección, vamos a presentar el sistema de etiquetado que proporcionará una descripción concisa y clara de la información presentada en cada una de nuestras aplicaciones. Comenzaremos detallando los encabezados que estarán disponibles en nuestra landing page.
+
+  - **Inicio/Home:** Esta sección preseleccionada por defecto ofrecerá una breve descripción que representará la aplicación y proporcionará una idea del objetivo principal de esta.
+
+- **Conócenos/About Us:** En esta sección, los clientes podrán obtener información sobre nuestro equipo, ver nuestra misión, visión, conocer quiénes somos y qué hacemos.
+
+- **Servicios/Services:** La sección de caracteristicas se encuentra dividida en segmentos objetivos, donde mostraremos los beneficios que nuestro sistema ofrece para cada uno de ellos.
+
+- **Planes**: Aquí se presentarán los montos promedio a pagar por cada segmento objetivo.
+
 ### 6.2.3. Searching Systems.
 En la sección de sistemas de navegación se implementarán sistemas de búsqueda que faciliten al usuario la navegación por la aplicación.
 - Lista de anuncios de los paquetes de viaje.
