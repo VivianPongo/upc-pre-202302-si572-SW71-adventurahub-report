@@ -107,32 +107,24 @@ Los sistemas de navegación dentro de la aplicación serán los siguientes.
 ### 6.3.2. Landing Page Mock-up.
 
 <div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-1.png" alt="Mockup Landing Page 1">
-			</div>
-
-<div align="center">
-
-<div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-2.png" alt="Mockup Landing Page 2">
+				<img src="resources/tp/MockUp-Landing-Page-1.png" alt="Mockup Landing Page">
 </div>
 
 <div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-3.png" alt="Mockup Landing Page 3">
+				<img src="resources/tp/MockUp-Landing-Page-2.png" alt="Mockup Landing Page">
 </div>
 
 <div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-4.png" alt="Mockup Landing Page">
+				<img src="resources/tp/MockUp-Landing-Page-3.png" alt="Mockup Landing Page">
 </div>
 
 <div align="center">
-				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VI_Solution_UX_Design/
-resources/tp/MockUp-Landing-Page-5.png" alt="Mockup Landing Page 4">
+				<img src="resources/tp/MockUp-Landing-Page-4.png" alt="Mockup Landing Page">
 </div>
 
+<div align="center">
+				<img src="resources/tp/MockUp-Landing-Page-5.png" alt="Mockup Landing Page">
+</div>
 
 ## 6.4. Applications UX/UI Design.
 ### 6.4.1. Applications Wireframes.
