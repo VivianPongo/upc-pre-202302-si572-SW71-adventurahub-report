@@ -154,9 +154,94 @@ En esta sección se presentan aquellas clases que acc	eden a servicios externos 
 
 ## 5.2. Bounded Context: Subscription and Payments
 ### 5.2.1. Domain Layer.
+
 ### 5.2.2. Interface Layer.
+
+En esta sección se identifican las clases más importantes usadas en este Bounded Context.
+
+#### SubscriptionsController: 
+
+Es el encargado de modificar y obtener información de las subscripciones. 
+
+
+| Methods | Description   |
+|----------|----------|
+|  PostSubscription    | Método POST para registrar una nueva subscripción   |
+|   GetSubscription    |    Método GET para obtener la información de una subscripción existente por su Id    |
+|     DeleteSubscription      |  Método DELETE para eliminar una subscripción existente         |  
+|   PutSubscription        |   Método PUT para modificar la información de una subscripción existente       |          
+|     GetAllSubscription      |     Método GET para obtener la información de todas las subscripciones existentes      |          
+|     GetSubscriptionsByTouristID      |    Método GET para obtener la información de todas las subscripciones existentes de un turista por su Id       |          
+|      GetSubscriptionsByTypeID     |  Método GET para obtener la información de todas las subscripciones existentes de un tipo de subscripción por su Id |    
+
+
+#### PaymentsController: 
+
+Es el encargado de modificar y obtener información de los pagos. 
+
+| Methods | Description   |
+|----------|----------|
+|  PostPayment     | Método POST para registrar un nuevo pago    |
+|   GetPayment     |    Método GET para obtener la información de un pago existente por su Id |    |
+|     DeletePayment       |  MMétodo DELETE para eliminar un pago existente          |  
+|   PutPayment         |   Método PUT para modificar la información de un pago existente  |          
+|     GetAllPayments       |   Método GET para obtener la información de todos los pagos existentes|          
+|     GetPaymentsByTouristID       |    Método GET para obtener la información de todos los pagos existentes de un turista por su Id       |          
+|      GetPaymentsByPlanID      |  Método GET para obtener la información de todos los pagos existentes de un plan por su Id  |   
+
+
 ### 5.2.3. Application Layer.
+
+#### CommandHandlers: 
+ 
+* SubscriptionCommandHandler: Command Handler que maneja los comandos de las subscripciones. 
+
+| Methods  | Description|
+|----------|----------|
+|   HandleAddNewSubscription |   Maneja el comando agregar subscripcion        |
+|      HandleDeleteSubscription    |  Maneja el comando eliminar subscripcion          |
+|  HandleUpdateSubscription   | Maneja el comando actualizar subscripcion  |
+
+<br>
+
+* PaymentCommandHandler: Command Handler que maneja los comandos de los pagos.   
+
+
+| Methods  | Description|
+|----------|----------|
+|    HandleAddNewPayment      |   Maneja el comando agregar pago         |
+|     HandleDeletePayment     |  Maneja el comando eliminar pago         |
+|     HandleUpdatePayment     |    Maneja el comando actualizar pago        |
+
+
+<br>
+
 ### 5.2.4. Infrastructure Layer.
+
+#### Repositories: 
+
+* SubscriptionRepository: 
+
+| Methods  | Description|
+|----------|----------|
+|    FindByTouristID      |    Obtiene una lista de subscripciones por el Id del Turista       |
+|    FindByTypetID      |    Obtiene una lista de subscripciones por el Id del Tipo de Subscripcion      |
+
+
+
+* PaymentRepository: 
+
+| Methods  | Description|
+|----------|----------|
+|    FindByTouristID      |    Obtiene una lista de pagos por el Id del Turista    |
+|    FindByPlanID      |  Obtiene una lista de pagos por el Id del Plan  |
+
+ 
+<br>
+
+
+
+
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams.
 ### 5.2.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.2.7.1. Bounded Context Domain Layer Class Diagrams.
