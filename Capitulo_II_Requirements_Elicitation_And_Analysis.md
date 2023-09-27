@@ -625,7 +625,7 @@ Después de realizar el análisis de las entrevistas del segmento objetivo, nos 
 <strong>Usuario Agencia de Viajes</strong><br>
 
 <div align="center">
-	<img src="./resources/tb1/user-persona-2.png" alt="User Persona">
+	<img src="./resources/tb1/user-persona-2.2.png" alt="User Persona">
 </div>
 
 ### 2.3.2 User Task Matrix
