@@ -89,6 +89,9 @@ El "Landing Page Wireframe" es una guía visual de utilizamos para esbozar y pla
 
 ### 6.3.2. Landing Page Mock-up.
 
+El "Landing Page Mock-up" es una una herramienta que utilizamos para visualizar y diseñar la apariencia final de nuestra Landing page. Creamos representaciones gráficas más detalladas y realistas, incluyendo elementos visuales y de diseño específicos. Esto nos permitió diseñar con precisión el aspecto del encabezado, el contenido principal, los botones call-to-action y otros elementos visuales clave, como colores y tipografía.
+
+
 <div align="center">
 				<img src="resources/tp/MockUp-Landing-Page-1.png" alt="Mockup Landing Page">
 </div>
