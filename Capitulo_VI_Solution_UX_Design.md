@@ -28,6 +28,14 @@ Las cuales son etiquetas que mejoran la visibilidad y clasificación de los siti
 ```
 
 ### 6.2.5. Navigation Systems.
+Los sistemas de navegación dentro de la aplicación serán los siguientes.
+- Menú de navegación desplegable para móvil.<br>
+  Este menú será mostrado en todo momento para que así cualquier usuario pueda navegar entre secciones.
+- Menú de navegación estático para escritorio.<br>
+ El cual es una alternativa a la forma desplegable para navegar fácilmente en pantallas más grandes.
+- Tarjeta y listas.<br>
+ Será la manera para la organización de datos resaltantes o repetitivos, así como la organización de información relacionada en caso de tarjetas y listas en caso de    múltiples enunciados relacionados como en paquetes de viaje.
+
 ## 6.3. Landing Page UI Design.
 ### 6.3.1. Landing Page Wireframe.
 ### 6.3.2. Landing Page Mock-up.
