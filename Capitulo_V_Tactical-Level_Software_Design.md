@@ -490,7 +490,7 @@ Es el encargado de modificar y obtener información de los pagos.
 ### 5.2.6. Bounded Context Software Architecture Component Level Diagrams.
 
 <div align="center">
-				<img src="resources/tp/C4-Component-Suscription-BoundedContext.jpeg" alt="Bounded Context Software Architecture Component">
+				<img src="resources/tp/C4-Component-Suscription-BoundedContext.png" alt="Bounded Context Software Architecture Component">
 </div>
 
 ### 5.2.7. Bounded Context Software Architecture Code Level Diagrams.
