@@ -84,10 +84,10 @@ https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-S
 
     + Discord:
          <div style="display: flex; align-items: center;">
-        <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
+        <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/main/resources/collaboration-insights/discord.png" style="margin-right: 20px; border: 2px solid lightblue;">
         </div>
 
     + WhatsApp:
         <div style="display: flex; align-items: center;">
-        <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
+        <img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/main/resources/collaboration-insights/whatsapp.png" style="margin-right: 20px; border: 2px solid lightblue;">
         </div>
