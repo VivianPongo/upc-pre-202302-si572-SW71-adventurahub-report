@@ -51,15 +51,17 @@ En esta sección se identifican las clases core del Travel Experience Design and
 - **Destination**: Representa al destino de la experiencia de viaje.
 
 
-- <table>
+<table>
   <thead>
     <tr>
+      <th>Class</th>
       <th>Atributo</th>
       <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="6">Itinerary</td>
       <td>id</td>
       <td>Identificador único del itinerario</td>
     </tr>
@@ -89,12 +91,14 @@ En esta sección se identifican las clases core del Travel Experience Design and
 <table>
   <thead>
     <tr>
+      <th>Class</th>
       <th>Atributo</th>
       <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="12">Trip</td>
       <td>Id</td>
       <td>Identificador único del viaje</td>
     </tr>
@@ -148,12 +152,14 @@ En esta sección se identifican las clases core del Travel Experience Design and
 <table>
   <thead>
     <tr>
+      <th>Class</th>
       <th>Atributo</th>
       <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="4">Destination</td>
       <td>Id</td>
       <td>Identificador único del destino</td>
     </tr>
@@ -172,41 +178,18 @@ En esta sección se identifican las clases core del Travel Experience Design and
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Value Object</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Atributos</td>
-    </tr>
-    <tr>
-      <td>itineraryId</td>
-    </tr>
-    <tr>
-      <td>id</td>
-    </tr>
-  </tbody>
-</table>
-
 Value Objects:
 
 <table>
   <thead>
     <tr>
       <th>Value Object</th>
+      <th>Atributos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Atributos</td>
-    </tr>
-    <tr>
-      <td>itineraryId</td>
-    </tr>
-    <tr>
+      <td>ItineraryId</td>
       <td>id</td>
     </tr>
   </tbody>
@@ -216,67 +199,59 @@ Value Objects:
   <thead>
     <tr>
       <th>Value Object</th>
+      <th>Atributos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Atributos</td>
-    </tr>
-    <tr>
-      <td>tripId</td>
-    </tr>
-    <tr>
+      <td>TripId</td>
       <td>id</td>
     </tr>
     <tr>
       <td>tripName</td>
-    </tr>
-    <tr>
       <td>name</td>
     </tr>
   </tbody>
 </table>
 
+
 <table>
   <thead>
     <tr>
       <th>Value Object</th>
+      <th>Atributos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Atributos</td>
-    </tr>
-    <tr>
-      <td>destinationId</td>
-    </tr>
-    <tr>
+      <td>DestinationId</td>
       <td>id</td>
     </tr>
     <tr>
       <td>destinationName</td>
-    </tr>
-    <tr>
       <td>name</td>
     </tr>
   </tbody>
 </table>
+
+
+
 
 ### 5.5.2. Interface Layer.
 
 En esta sección se identifican las clases que forman parte de Interface/Presentation Layer del Travel Experience Design and Maintenance Context, en este caso nuestra clase controller. 
 
-ItineraryController
-
 <table>
   <thead>
     <tr>
+      <th>Controller</th>
       <th>Methods</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="3">ItineraryController</td>
       <td>findById(itineraryId)</td>
       <td>Operaciones de repositorio de Itinerarios</td>
     </tr>
@@ -291,17 +266,17 @@ ItineraryController
   </tbody>
 </table>
 
-TripController
-
 <table>
   <thead>
     <tr>
+      <th>Controller</th>
       <th>Methods</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="3">TripController</td>
       <td>findById(tripId)</td>
       <td>Operaciones de repositorio de notificaciones</td>
     </tr>
@@ -316,17 +291,17 @@ TripController
   </tbody>
 </table>
 
-DestinationController
-
 <table>
   <thead>
     <tr>
+      <th>Controller</th>
       <th>Interfaz</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td rowspan="2">DestinationController</td>
       <td>findById(destinationId)</td>
       <td>Operaciones de repositorio de notificaciones</td>
     </tr>
@@ -336,6 +311,7 @@ DestinationController
     </tr>
   </tbody>
 </table>
+
 
 ### 5.5.3. Application Layer.
 
