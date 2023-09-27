@@ -36,6 +36,7 @@ En la sección de etiquetas generamos familiaridad con nuestros usuarios. Por el
   </tr>
 </tbody>
 </table>
+
 ### 6.2.3. Searching Systems.
 En la sección de sistemas de navegación se implementarán sistemas de búsqueda que faciliten al usuario la navegación por la aplicación.
 - Lista de anuncios de los paquetes de viaje.
