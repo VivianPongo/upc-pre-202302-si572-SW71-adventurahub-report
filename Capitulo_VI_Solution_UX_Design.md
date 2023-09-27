@@ -114,7 +114,159 @@ El "Landing Page Mock-up" es una una herramienta que utilizamos para visualizar 
 
 ## 6.4. Applications UX/UI Design.
 ### 6.4.1. Applications Wireframes.
+
+<div align="center">
+        <h3>Login</h1>
+				<img src="resources/tp/wireframes/w-login.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Sign Up</h1>
+				<img src="resources/tp/wireframes/w-signup.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Home</h1>
+				<img src="resources/tp/wireframes/w-home.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Package Details</h1>
+				<img src="resources/tp/wireframes/w-package-details.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Chat List</h3>
+				<img src="resources/tp/wireframes/w-chat-list.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Chat Conversation</h3>
+				<img src="resources/tp/wireframes/w-chat-conversation.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Payment Process</h3>
+				<img src="resources/tp/wireframes/w-payment-process.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Payment Success</h3>
+				<img src="resources/tp/wireframes/w-payment-success.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Payment Failed</h3>
+				<img src="resources/tp/wireframes/w-payment-failed.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Booking View</h3>
+				<img src="resources/tp/wireframes/w-booking-view.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Profile View</h3>
+				<img src="resources/tp/wireframes/w-profile-view.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Profile - View Privacy Policies</h3>
+				<img src="resources/tp/wireframes/w-profile-policies-privacy.png.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Profile - Notification Manager</h3>
+				<img src="resources/tp/wireframes/w-profile-notification-handler.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>Profile - Help & Support</h3>
+				<img src="resources/tp/wireframes/w-profile-help-support.png" alt="wireframe">
+</div>
+
 ### 6.4.2. Applications Wireflow Diagrams.
+
+<div align="center">
+        <h3>User Goal 1: Como viajero necesito ingresar a mi cuenta</h3>
+				<img src="resources/tp/wireframes-userflow/userflow-login.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>User Goal 2: Como viajero necesito crear una cuenta</h3>
+				<img src="resources/tp/wireframes-userflow/userflow-signup.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>User Goal 3: Como viajero necesito crear reservar un paquete de viaje</h3>
+				<img src="resources/tp/wireframes-userflow/userflow-make-booking.png" alt="wireframe">
+</div>
+<div align="center">
+        <h3>User Goal 4: Como viajero necesito mantener contacto con la agencia con la que reserve mi viaje</h3>
+				<img src="resources/tp/wireframes-userflow/userflow-chat-traveler-agency.png" alt="wireframe">
+</div>
+
 ### 6.4.2. Applications Mock-ups.
+
+<div align="center">
+        <h3>Login</h1>
+				<img src="resources/tp/mockups/m-login.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Sign Up</h1>
+				<img src="resources/tp/mockups/m-signup.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Home</h1>
+				<img src="resources/tp/mockups/m-home.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Package Details</h1>
+				<img src="resources/tp/mockups/m-package-details.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Chat List</h3>
+				<img src="resources/tp/mockups/m-chat-list.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Chat Conversation</h3>
+				<img src="resources/tp/mockups/m-chat-conversation.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Payment Process</h3>
+				<img src="resources/tp/mockups/m-payment-process.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Payment Success</h3>
+				<img src="resources/tp/mockups/m-payment-success.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Payment Failed</h3>
+				<img src="resources/tp/mockups/m-payment-failed.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Booking View</h3>
+				<img src="resources/tp/mockups/m-booking-view.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Profile View</h3>
+				<img src="resources/tp/mockups/m-profile-view.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Profile - View Privacy Policies</h3>
+				<img src="resources/tp/mockups/m-profile-policies-privacy.png.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Profile - Notification Manager</h3>
+				<img src="resources/tp/mockups/m-profile-notification-handler.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>Profile - Help & Support</h3>
+				<img src="resources/tp/mockups/m-profile-help-support.png" alt="mockups">
+</div>
+
 ### 6.4.3. Applications User Flow Diagrams.
+
+<div align="center">
+        <h3>User Goal 1: Como viajero necesito ingresar a mi cuenta</h3>
+				<img src="resources/tp/mockups-userflow/userflow-login.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Goal 2: Como viajero necesito crear una cuenta</h3>
+				<img src="resources/tp/mockups-userflow/userflow-signup.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Goal 3: Como viajero necesito crear reservar un paquete de viaje</h3>
+				<img src="resources/tp/mockups-userflow/userflow-make-booking.png" alt="mockups">
+</div>
+<div align="center">
+        <h3>User Goal 4: Como viajero necesito mantener contacto con la agencia con la que reserve mi viaje</h3>
+				<img src="resources/tp/mockups-userflow/userflow-chat-traveler-agency.png" alt="mockups">
+</div>
+
 ## 6.5. Applications Prototyping.
