@@ -1,5 +1,63 @@
 ## 6.1. Style Guidelines.
 ### 6.1.1. General Style Guidelines.
+
+#### Typography
+Aquí, definimos las tipografías que reflejan nuestra identidad y proporcionaremos pautas sobre tamaños y estilos de fuente para garantizar una presentación coherente en todas nuestras comunicaciones escritas.
+
+La tipografía utilizada será Poppins, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varió entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px)." Asimismo, para los iconos utilizaremos los iconos de Angular Material.
+
+**Poppins - Google fonts**
+
+[![Poppins - Google fonts](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/poppins-google-fonts.png)](https://fonts.google.com/specimen/Poppins)
+
+Referencia:  https://fonts.google.com/specimen/Poppins
+
+**Mat - icons**
+
+[![Mat icons](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/mat-icons.png)](https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/)
+
+Referencia: https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/ 
+#### Colors
+En esta sección, especificamos los colores de nuestra paleta y cómo se deben aplicar en diferentes contextos, asegurando que nuestra marca sea reconocible y atractiva.
+
+Hesterbeg, menciona que es vital definir una paleta de colores que contribuya a crear una apariencia y sensación consistente para la marca (2022).
+El equipo ha seleccionado una paleta de colores que consta de los siguientes elementos:
+
+- **Primary**: Este color se utilizará para las barras superiores e inferiores de la aplicación. Coincidirá con el tono predominante en el logotipo de la empresa. El código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
+
+![Primary color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/10141E.png)
+- **Primary Variant**: Para teñir la barra de notificaciones, emplearemos una variación del color principal. Es el color HEX #161D2F, que en RGB se expresa como 22, 29, 47.
+
+![Primary variant color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/161D2F.png)
+- **Secondary**: Los botones flotantes de la aplicación se resaltarán con este color. Para este propósito, hemos seleccionado el código HEX seleccionado es #FC4747, y su equivalente en RGB es 252, 71, 71.
+
+![Secondary color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FC4747.png)
+
+- **Background**: Este color será el fondo general de la aplicación. En este caso, utilizaremos un tono oscuro con el código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
+
+![Background color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/10141E.png)
+- **Surface**: Los contenedores de publicaciones de empresas o al revisar perfiles de choferes se complementarán con este color. Igualmente, hemos optado por el código HEX #5A698F, que en RGB se traduce como 90, 105, 143.
+
+![Surface color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/5A698F.png)
+- **Error**: Cuando el usuario realice una operación incorrecta o ingrese datos erróneos, se mostrará este color. El color seleccionado para estas situaciones es el amarillo con el código HEX #FFD700, y su equivalente en RGB es 255, 215, 0.
+
+![Error color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FFD700.png)
+- **Colores "On"**: Estos colores se utilizan para letras, números, símbolos, etc., según el contexto. Para los apartados Primary, Secondary, Background y Surface, emplearemos el color negro con el código HEX #000000, que en RGB se representa como 0, 0, 0. En cuanto al apartado Error, utilizaremos el color blanco con el código HEX #FFFFFF, que en RGB es 255, 255, 255.
+
+![Colores on](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FFFFFF.png)
+
+#### Spacing
+- **Botones**: Establecemos un margen interior (padding) de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal.
+- **Márgenes entre texto**: Mantenemos un margen de 1 rem (16 px) entre elementos de texto.
+- **Márgenes entre elementos**: Garantizamos un margen de 1.5 rem (24 px) entre distintos elementos.
+- **Márgenes entre secciones**: Fijamos un margen de 6 rem (72 px) para separar claramente las diferentes secciones de contenido.
+#### Dimensions
+En esta sección, describiremos los diferentes tonos que utilizamos, desde la emoción por explorar hasta el compromiso con la responsabilidad social, y proporcionaremos ejemplos de cómo aplicarlos en nuestra comunicación escrita. A continuación, se presentarán el lenguaje y tonos que usamos para nuestros segmentos objetivo.
+
+- **Agencia de viajes**: Nuestra comunicación hacia empresas de experiencias turísticas se caracteriza por su concisión y formalidad. Priorizamos la presentación de hechos y datos que respalden la eficacia de nuestra solución. Nuestra intención es motivar a estas empresas a considerar y adoptar nuestra propuesta.
+
+- **Usuario turista**: En contraste, cuando nos dirigimos a los usuarios viajeros, empleamos un lenguaje sencillo y cautivador. Buscamos evocar emociones y crear una experiencia a través de las palabras. Nos esforzamos por brindar información clara y evitar cualquier ambigüedad en las opciones que ofrecemos a los viajeros.
+
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
