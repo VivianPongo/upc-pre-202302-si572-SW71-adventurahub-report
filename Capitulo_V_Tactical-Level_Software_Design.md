@@ -635,6 +635,11 @@ Repositories:
 
 
 ### 5.3.6. Bounded Context Software Architecture Component Level Diagrams.
+
+<div align="center">
+				<img src="resources/tp/C4-Component-Profile-BoundedContext.png" alt="Software Architecture Component">
+</div>
+
 ### 5.3.7. Bounded Context Software Architecture Code Level Diagrams.
 #### 5.3.7.1. Bounded Context Domain Layer Class Diagrams.
 
