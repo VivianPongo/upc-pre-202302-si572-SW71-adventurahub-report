@@ -41,6 +41,16 @@
 
 ##5.5. Bounded Context: Travel Experience Design and Maintenance
 ###5.5.1. Domain Layer.
+
+En esta sección se identifican las clases core del Travel Experience Design and Maintenance Context:
+
+- **Itinerary**: Representa un día de la experiencia de viaje.
+
+- **Trip**: Representa una experiencia de viaje.
+
+- **Destination**: Representa al destino de la experiencia de viaje.
+
+
 ###5.5.2. Interface Layer.
 ###5.5.3. Application Layer.
 ###5.5.4. Infrastructure Layer.
