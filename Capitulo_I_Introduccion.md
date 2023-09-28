@@ -94,18 +94,19 @@ Procedemos a implementar la herramienta 5W Y 2H, la cuál nos ayudará para pode
 #### 5W's y 2H's
 
 * <strong>What?</strong><br>
-La aplicación de paquetes de viaje puede brindar información detallada sobre los destinos turísticos, alojamiento, transporte y actividades turísticas, así como herramientas útiles para la planificación de viajes, como la posibilidad de reservar paquetes completos, personalizar los paquetes, una lista de verificación para empacar, un itinerario personalizable y reservar actividades turísticas de antemano. La aplicación proporciona información completa y útil para planificar y reservar viajes de manera fácil y conveniente.
+En la industria del turismo, los turistas se enfrentan a una amplia variedad de opciones de paquetes de viaje ofrecidos por diversas agencias en línea. Esta abundancia de opciones hace que les resulte difícil seleccionar una opción adecuada que les brinde seguridad (protección ante robos y estafas) y confianza en sus reservas. Por otro lado, las agencias de viaje, especialmente las más pequeñas, enfrentan desafíos significativos al intentar promocionar sus paquetes en línea debido a la alta competencia en el mercado. 
 * <strong>When?</strong><br>
-Las personas pueden necesitar conocer más sobre paquetes de viaje cuando están planeando un viaje, tienen un presupuesto limitado, buscan ahorrar tiempo o quieren descubrir nuevos destinos.
+Esta problemática se ha agravado en la era digital, donde la información y las reservas en línea predominan en la industria de viajes tanto para las agencias como para los usuarios. La abundancia de información en línea ha generado indecisión y preocupación por la seguridad entre los usuarios, lo que ha llevado a la necesidad de abordar de manera efectiva la elección de destinos y la confiabilidad en la reserva de paquetes de viaje.
 * <strong>Where?</strong><br>
-Las personas pueden realizar consultas sobre paquetes de viaje en línea, a través de agencias de viajes físicas y en línea, consultando con amigos y familiares, y asistiendo a ferias de turismo.
+Los turistas de todo el mundo experimentan estos desafíos, ya que buscan viajar a una variedad de destinos globales y locales. Asimismo, esta problemática afecta a nivel global a la mayoría de agencias de menor tamaño al momento de promocionar sus paquetes de viajes. 
 * <strong>Who?</strong><br>
-Una aplicación de paquetes de viaje puede ser útil para cualquier persona que quiera planificar un viaje de manera más fácil y rápida, especialmente aquellos que buscan descubrir nuevos destinos, ahorrar tiempo y dinero en la búsqueda de opciones de viaje, y tener todo el viaje organizado en un solo lugar. También puede ser útil para viajeros frecuentes, como los de negocios o aventureros.
+Los turistas, que buscan vivir experiencias de viaje memorables y seguras, así como las agencias de viaje de tamaño mediano y pequeño, son los principales afectados por esta problemática.
 * <strong>Why?</strong><br>
 El problema surge debido a la falta de una plataforma eficiente que permita la comunicación efectiva entre agencias de viajes formales y turistas, así como la falta de tecnología para personalizar experiencias y mejorar la seguridad.
 * <strong>How?</strong><br>
-El proceso de buscar un paquete de viaje en promedio suele comenzar con la identificación de las fechas y el destino deseado. Luego, la persona buscará opciones de paquetes de viaje en línea, ya sea en el sitio web de una agencia de viajes o en una plataforma de reserva de viajes. Después, se compararán los paquetes disponibles en términos de costo, servicios incluidos y restricciones. La persona puede hacer preguntas o solicitar más información sobre el paquete antes de reservar. Una vez seleccionado el paquete, se realizará la reserva y se pagarán los costos correspondientes. En resumen, el proceso de buscar un paquete de viaje en promedio incluye identificar fechas y destino, buscar opciones en línea, comparar paquetes, hacer preguntas, reservar y pagar.
+Los turistas necesitan herramientas efectivas que les ayuden a simplificar la búsqueda, elección y reserva de paquetes de viaje que se adapten a sus deseos y preocupaciones de seguridad, lo que resalta la necesidad de soluciones innovadoras en la industria del turismo.
 * <strong>How much?</strong><br>
+ Los turistas, a menudo, se preguntan cuánto deben gastar y cuánto tiempo deben invertir para asegurarse de obtener la mejor experiencia de viaje posible.
 El tiempo que demora la búsqueda de un paquete de viaje puede variar según las necesidades y preferencias de la persona, así como la complejidad del viaje. En promedio, la búsqueda puede llevar desde unos pocos minutos hasta varias horas. La persona debe tomar el tiempo necesario para comparar las opciones y asegurarse de que el paquete seleccionado cumpla con sus necesidades y expectativas. En resumen, el tiempo que demora la búsqueda de un paquete de viaje puede variar, y puede llevar desde unos pocos minutos hasta varias horas dependiendo de las necesidades y preferencias de la persona.
 
 
@@ -131,311 +132,224 @@ Por lo tanto, la pregunta clave para este proyecto es:
 
 
 #### 1.2.2.2 Lean UX Assumptions
-####  <strong>BUSINESS OUTCOME:</strong>
+
+Los Lean UX Assumptions son esenciales para el proyecto AdventureHub porque proporcionan una base sólida y orientada al usuario para el desarrollo de la plataforma. Son vitales para reducir riesgos, optimizar recursos y garantizar que el producto final sea realmente valioso y satisfaga las necesidades reales de todos los usuarios, lo que, a su vez, contribuye al éxito del proyecto.
+
+####  <strong>BUSINESS ASSUMPTIONS:</strong>
 
 En esta sección, registraremos las acciones que, al resultar de forma positiva o negativa, nos favorecerá a conocer si nuestra propuesta está cumpliendo o no con el objetivo.
   
-<br>
-    
 
-*	1.	Facilitar a los usuarios la búsqueda de información sobre diferentes tipos de aventuras y destinos
-	El objetivo principal de este proyecto es facilitar información centralizada a los usuarios, funcionando como un centro de referencias de diferentes tipos de aventuras y destinos disponibles.
+* Suponemos que existe una demanda significativa por parte de los usuarios de viajes para acceder a información detallada sobre aventuras y destinos en línea.
 
-*	2.	Facilitar la interacción entre proveedores de servicios y usuarios
-	Sabemos que no existe una fluida interacción entre proveedores de servicios de aventura y usuarios, ya que la mayoría de ellos no tienen una plataforma específica para promocionar sus servicios y características.
+* Suponemos que, al proporcionar una plataforma centralizada con información detallada, los usuarios podrán tomar decisiones de viaje más informadas y satisfacer sus necesidades de planificación de viaje.
 
-*	3.	Facilitar la reserva de aventuras y servicios de manera segura y eficiente.
-	Sabemos que a menudo los usuarios tienen dificultades para reservar aventuras y servicios de manera segura y eficiente, en AdventureHub los usuarios podrán reservar de manera segura y fácil en un solo lugar.
+* Suponemos que nuestro público objetivo está compuesto por entusiastas de los viajes que valoran experiencias únicas y buscan eficiencia en la planificación de aventuras.
 
-*	4.	Facilitar la organización de viajes personalizados y completos
-	Sabemos que muchos usuarios buscan organizar viajes personalizados y completos, pero a menudo tienen dificultades para encontrar información y coordinar con diferentes proveedores de servicios. En AdventureHub los usuarios podrán encontrar información completa y coordinar todo en un solo lugar.
+* Suponemos que los usuarios desean una interacción efectiva con proveedores (agencias) y valoran la seguridad en el proceso de reserva de aventuras.
 
-####  <strong>USER:</strong>
+* Suponemos que los usuarios desean opciones de viaje personalizadas y completas que satisfagan sus preferencias y necesidades individuales.
+
+* Suponemos que una colaboración efectiva entre proveedores y usuarios conducirá al crecimiento de nuestra base de clientes, generando confianza y participación en nuestra plataforma.
+
+* Suponemos que nuestra fuente principal de ingresos será a través de tarifas de servicio (planes) por las reservas realizadas en nuestra plataforma.
+
+* Suponemos que la competencia principal son algunas aplicaciones similares en el mercado que buscan facilitar la conexión efectiva entre usuarios y proveedores de servicios de aventura.
+
+* Suponemos que superaremos a la competencia al ofrecer una plataforma confiable, segura y eficiente que responda a las necesidades tanto de usuarios como de proveedores.
+
+* Suponemos que el mayor riesgo que enfrentamos es la pérdida de confianza de los usuarios debido a preocupaciones relacionadas con la seguridad y la privacidad en línea.
+
+* Suponemos que mitigaremos el riesgo al implementar medidas efectivas de seguridad de datos y transacciones en línea, garantizando la confidencialidad y la integridad de la información.
+
+* Reconocemos que el éxito del proyecto depende de la disposición de los proveedores de servicios de aventura para colaborar y de la confianza de los usuarios en nuestra plataforma para sus reservas de viaje. Si estas suposiciones resultan falsas, el proyecto podría enfrentar desafíos sustanciales.
+
+
+
+####  <strong>USER :</strong>
 
 Los segmentos de usuarios a los que está dirigida nuestra aplicación serán personas que buscan tener experiencias de aventura, desde jóvenes mochileros hasta familias que buscan vacaciones diferentes. Y también, agencia de viajes que buscan publicar sus tours de viaje.
 
-<br>
     
-*	1.	Usuarios de aventura individuales
+*	Usuarios viajeros que buscan una grata experiencia de de viaje. En este grupo podemos encontrar a los siguientes subgrupos de viajeros: 
+
+    * Usuarios de aventura individuales
 Nos enfocamos en personas que buscan tener experiencias de aventura de manera individual, ya sean mochileros, viajeros solitarios o parejas aventureras.
 
-* 2.	Familias que buscan experiencias de aventura
+    * Familias/grupos que buscan experiencias de aventura
 También nos enfocamos en familias que buscan tener experiencias de aventura juntos, desde excursiones de un día hasta vacaciones más largas.
 
-* 3.	Agencia de viajes que buscan publicar sus tours de viaje y promociones.
+* Agencia de viajes que buscan publicar sus tours de viaje y promociones.
 También nos enfocamos en proporcionar a las agencias de viajes una plataforma en la que puedan publicar sus tours y promociones de viajes fácilmente y que puedan comunicarse de manera automatizada con los viajeros.
 
-####  <strong>USER OUTCOME:</strong>
+####  <strong>USER ASSUMPTIONS :</strong>
 
-En esta sección nombraremos los beneficios que recibirán nuestros usuarios dentro de l a aplicación.
+Las "User Assumptions" (Suposiciones sobre el usuario) son fundamentales para el proyecto AdventureHub, ya que establecen una base para comprender las necesidades y expectativas de los usuarios. Estas suposiciones guían la definición de objetivos y el diseño. Asimismo, aseguran la validación continua a lo largo del desarrollo, minimizan riesgos, alinean al equipo y optimizan los recursos.
+
+##### Usuario Turista
+
+* Suponemos que el usuario es un apasionado de los viajes, ávido de aventuras y experiencias únicas, con un conjunto diverso de preferencias y necesidades de viaje.
+
+* Suponemos que nuestro producto se convierte en una parte integral de la vida del usuario, desempeñando un papel fundamental como la plataforma central para planificar, explorar y reservar sus emocionantes viajes y aventuras.
+
+* Suponemos que nuestro producto resuelve los desafíos y preocupaciones del usuario relacionados con la búsqueda y planificación de viajes al proporcionar información detallada y confiable sobre destinos y aventuras, al tiempo que garantiza la seguridad y la confiabilidad en el proceso de reserva en línea.
+
+* Suponemos que el usuario aprovecha nuestro producto en diferentes etapas de su viaje, desde la exploración inicial de opciones hasta la coordinación de servicios y la confirmación de reservas. Esto se logra principalmente a través de dispositivos móviles y computadoras, brindando comodidad y accesibilidad.
+
+* Suponemos que las características cruciales para el usuario incluyen una interfaz de usuario atractiva e intuitiva que simplifica la navegación, información detallada y actualizada sobre destinos y aventuras para facilitar la toma de decisiones, opciones de personalización de viajes que se adapten a sus preferencias individuales, y un proceso de reserva robusto y seguro para brindar tranquilidad.
+
+* Suponemos que nuestro producto debe destacarse por su diseño atractivo y su funcionalidad intuitiva, garantizando una experiencia de usuario fluida y segura en todo momento. La interfaz debería ser visualmente atractiva, y la navegación debe ser sencilla, lo que permitirá a los usuarios explorar y reservar aventuras de manera eficiente.
+
+
+##### Usuario Agencia de Viajes
+
+* Suponemos que el usuario es una agencia de viajes que busca soluciones tecnológicas para mejorar la promoción de sus paquetes de viajes y simplificar la gestión de reservas en línea.
+
+* Suponemos que nuestro producto se integra en la operación diaria de la agencia de viajes, proporcionando una plataforma que simplifica la promoción de paquetes de viaje y facilita la reserva de viajes por parte de sus clientes.
+
+* Suponemos que nuestro producto aborda los desafíos que enfrenta la agencia de viajes en la promoción efectiva de sus paquetes y en la gestión eficiente de reservas en línea, mejorando la visibilidad en línea y optimizando la experiencia del cliente.
+
+* Suponemos que nuestro producto se utiliza en todo momento por parte de la agencia de viajes, tanto para la carga de información de paquetes como para la interacción con los clientes que desean reservar en línea.
+
+* Suponemos que características como una interfaz de usuario intuitiva para la carga de paquetes, una plataforma de reserva segura y confiable, y herramientas de promoción efectiva son esenciales para la agencia de viajes.
+
+* Suponemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes.
 
 <br>
 
-* 1.	Los usuarios podrán comunicarse directamente con los proveedores de servicios a través del sistema de mensajería integrado para hacer preguntas, obtener información adicional y personalizar sus aventuras.
-* 2.	El sistema de mensajería permitirá a los usuarios solicitar cotizaciones personalizadas de aventuras y servicios, lo que les brindará la posibilidad de adaptar su viaje de acuerdo a sus necesidades y preferencias.
-* 3.	Los proveedores de servicios podrán enviar ofertas especiales y promociones a través del sistema de mensajería, lo que permitirá a los usuarios recibir información actualizada y oportunidades exclusivas.
-* 4.	Los usuarios podrán recibir notificaciones y alertas a través del sistema de mensajería sobre cambios en la disponibilidad de aventuras, actualizaciones de los proveedores de servicios y otras noticias relevantes.
-* 5.	El sistema de mensajería integrado permitirá a los usuarios gestionar todas sus comunicaciones y reservas en un solo lugar, lo que simplificará el proceso de reserva y garantizará una comunicación clara y eficiente.
-* 6.	Los usuarios podrán calificar y dejar comentarios sobre las aventuras y servicios a través del sistema de mensajería, lo que brindará retroalimentación valiosa a los proveedores de servicios y ayudará a otros usuarios en sus decisiones de reserva.
-* 7.	Los usuarios podrán tener conversaciones en tiempo real con los proveedores de servicios para obtener información adicional sobre las aventuras, resolver dudas o aclarar detalles, lo que mejorará la experiencia del usuario y la confianza en el servicio.
-* 8.	Los proveedores de servicios podrán responder rápidamente a las consultas de los usuarios a través del sistema de mensajería, lo que permitirá una comunicación fluida y una atención al cliente eficiente.
-* 9.	Los usuarios podrán mantener un registro de todas sus comunicaciones y conversaciones con los proveedores de servicios en el sistema de mensajería, lo que les permitirá acceder fácilmente a la información en el futuro y tener un historial de sus reservas y consultas.
+####  <strong>BUSINESS OUTCOME :</strong>
 
-####  <strong>USER OUTCOME:</strong>
+* Aumento significativo en la cantidad de usuarios registrados en la plataforma.
 
-* <strong>¿Qué características son importantes?</strong>
+* Incremento en la participación activa de proveedores de servicios de aventura en la plataforma.
+
+* Mayor número de reservas de viajes y aventuras realizadas a través de AdventureHub.
+
+* Mejora en la tasa de retención de usuarios, lo que indica una mayor satisfacción y fidelidad.
+
+* Mayor interacción y colaboración entre usuarios y proveedores de servicios de aventura.
+
+* Incremento en la visibilidad en línea de las agencias de viaje asociadas, lo que se traduce en más clientes potenciales.
+
+* Reducción en las quejas relacionadas con la seguridad y la confiabilidad en el proceso de reserva en línea.
+
+* Mayor eficiencia en la carga y actualización de información de paquetes de viaje por parte de las agencias de viaje.
+
+* Aumento en las ventas de planes de servicio y ganancias por uso de funciones exclusivas en la plataforma de AdventureHub.
+
+* Mayor satisfacción del usuario al utilizar la plataforma, reflejada en evaluaciones y comentarios positivos.
+
+
+<br> 
+
+####  <strong>USER OUTCOME :</strong>
+
+* Mayor satisfacción del usuario al encontrar información detallada y confiable sobre destinos y aventuras, facilitando la toma de decisiones informadas.
+
+* Mayor comodidad al acceder a la plataforma desde dispositivos móviles y computadoras, lo que permite una planificación y reserva de viajes en línea más accesible.
+
+* Experiencia de usuario fluida y segura al utilizar la plataforma, reflejada en una navegación intuitiva y un proceso de reserva confiable.
+
+* Personalización de viajes que se adapten a las preferencias individuales del usuario, lo que permite experiencias de viaje únicas y personalizadas.
+
+* Eficiencia en la coordinación de servicios y confirmación de reservas, lo que ahorra tiempo y reduce el estrés en la planificación del viaje.
+
+* Mayor confianza en la seguridad y la confiabilidad de las transacciones en línea, lo que reduce las preocupaciones del usuario.
+
+* Facilitación de la exploración inicial de opciones de viaje, lo que ayuda al usuario a descubrir nuevas aventuras y destinos de manera más efectiva.
+
+* Acceso a una amplia gama de opciones de viaje, lo que permite a los usuarios encontrar aventuras que se adapten a sus preferencias y necesidades únicas.
+
+
+<br>
+
+####  <strong>FEATURE :</strong>
+
+<strong>¿Qué características son importantes?</strong>
 <br>
 En el caso de AdventureHub, algunas características importantes podrían incluir:
 
-	+	Interfaz de usuario intuitiva y fácil de usar: El sistema de mensajería estará integrado en la interfaz de usuario de la aplicación, lo que permitirá a los usuarios comunicarse de manera fácil y rápida con los proveedores de aventuras y hacer consultas sobre los paquetes personalizados.
 
-	+	Sistema de reservas en línea: Los usuarios podrán utilizar el sistema de mensajería para hacer preguntas sobre los paquetes de viaje, obtener información adicional y realizar reservas en línea, todo dentro de la misma aplicación.
+* Motor de Búsqueda Avanzado: Un motor de búsqueda que permita a los usuarios encontrar fácilmente paquetes de viajes y destinos según sus preferencias, fechas y presupuesto.
 
-	+	Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
+* Perfiles de Usuario Personalizados: Perfiles de usuario donde los viajeros pueden ingresar sus preferencias, historial de viajes y deseos para recibir recomendaciones personalizadas.
 
-	+	Personalización de aventuras: Los usuarios podrán utilizar el sistema de mensajería para comunicarse con los proveedores de aventuras y solicitar personalizaciones en los paquetes de viaje, como agregar actividades adicionales, modificar itinerarios o hacer consultas especiales.
+* Información Detallada de Destinos y Aventuras: Páginas/vistas detalladas que brinden información completa sobre destinos, actividades y aventuras, incluyendo reseñas, fotos y consejos de otros viajeros.
 
-	+	Comunicación con proveedores de aventuras: El sistema de mensajería permitirá a los usuarios comunicarse directamente con los proveedores de aventuras, lo que facilitará la comunicación y la respuesta a preguntas o inquietudes sobre los paquetes de viaje personalizados.
+* Herramientas de Personalización de Viajes: Una función que permita a los usuarios personalizar completamente su itinerario de viaje, incluyendo opciones de transporte, alojamiento y actividades.
 
-	+	Integración con notificaciones push: El sistema de mensajería estará integrado con notificaciones push, lo que permitirá a los usuarios recibir alertas en tiempo real sobre nuevos mensajes o respuestas de los proveedores de aventuras, mejorando la comunicación y la eficiencia del proceso de reserva.
+* Sistema de Reservas Integrado: Un sistema de reserva seguro y eficiente que permita a los usuarios reservar aventuras y servicios de manera directa.
 
-	+	Seguridad de datos: Se implementarán medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
+* Calendario de Viajes: Un calendario integrado que ayude a los usuarios a organizar y llevar un seguimiento de sus itinerarios de viaje.
 
-	+	Registro y seguimiento de conversaciones: El sistema de mensajería registrará y seguirá las conversaciones entre los usuarios y los proveedores de aventuras, lo que permitirá un seguimiento completo de las comunicaciones y un historial de mensajes para futuras referencias.
+* Plataforma de Comunicación con Proveedores: Un sistema de mensajería interna que permita a los usuarios comunicarse de manera efectiva con los proveedores de servicios.
 
-	+	Integración con perfiles de redes sociales: Los usuarios podrán utilizar el sistema de mensajería para compartir información sobre las aventuras reservadas en sus perfiles de redes sociales, lo que permitirá una mayor interacción social y conexión con otros usuarios con intereses similares.
+* Valoraciones y Reseñas: La capacidad para que los usuarios califiquen y reseñen destinos y aventuras, brindando información valiosa a otros viajeros.
 
-	+	Soporte al cliente: El equipo de soporte al cliente de AdventureHub estará disponible a través del sistema de mensajería para responder rápidamente a las preguntas y problemas de los usuarios, brindando un servicio de atención al cliente eficiente y orientado a la satisfacción del usuario.
+* Notificaciones de disponibilidad: Los usuarios recibirán notificaciones en tiempo real a través del sistema de mensajería sobre la disponibilidad de los paquetes de viaje personalizados que estén interesados en reservar, lo que les permitirá estar al tanto de las fechas disponibles y tomar decisiones informadas.
 
-  + ¿Qué características son deseables?
+*	Interfaz de usuario intuitiva y fácil de usar: El sistema de mensajería estará integrado en la interfaz de usuario de la aplicación, lo que permitirá a los usuarios comunicarse de manera fácil y rápida con los proveedores de aventuras y hacer consultas sobre los paquetes personalizados.
+
+* Notificaciones Personalizadas: Un sistema de notificaciones que informe a los usuarios sobre ofertas especiales, cambios en itinerarios y otras actualizaciones relevantes.
+
+* Herramientas de Promoción para Agencias de Viajes: Funcionalidades específicas para agencias de viajes que les permitan cargar y promocionar paquetes de viaje de manera efectiva.
+
+* Seguridad y Privacidad Reforzadas: Medidas sólidas de seguridad de datos y transacciones en línea para garantizar la confidencialidad y la integridad de la información del usuario.
+
++	Seguridad de datos: Se deberá mplementar medidas de seguridad en el sistema de mensajería para proteger la información personal y financiera de los usuarios, garantizando la confidencialidad y la privacidad de las comunicaciones.
+
++	Registro y seguimiento de conversaciones: El sistema de mensajería registrará y seguirá las conversaciones entre los usuarios y los proveedores de aventuras, lo que permitirá un seguimiento completo de las comunicaciones y un historial de mensajes para futuras referencias.
+
++	Soporte al cliente: Un sistema de soporte al cliente en línea que brinde asistencia en tiempo real a los usuarios.
 
 
-
-* ¿Cómo debe verse nuestro producto y comportarse?
+<strong>¿Cómo debe verse nuestro producto y comportarse?</strong>
 <br>
+
 Para definir cómo debe verse y comportarse un producto, es importante tener en cuenta las siguientes consideraciones:
 
-	+	Diseño atractivo: La apariencia del producto debe ser atractiva y llamar la atención del usuario. Un diseño atractivo puede ayudar a diferenciar el producto de la competencia y atraer a los clientes potenciales.
++	Diseño atractivo: La apariencia del producto debe ser atractiva y llamar la atención del usuario. Un diseño atractivo puede ayudar a diferenciar el producto de la competencia y atraer a los clientes potenciales.
 
-	+	Facilidad de uso: El producto debe ser fácil de usar y entender para el usuario. Una interfaz de usuario intuitiva y clara puede hacer que la experiencia del usuario sea más agradable y reducir la curva de aprendizaje.
++	Facilidad de uso: El producto debe ser fácil de usar y entender para el usuario. Una interfaz de usuario intuitiva y clara puede hacer que la experiencia del usuario sea más agradable y reducir la curva de aprendizaje.
 
-	+	Funcionalidad adecuada: El producto debe tener las características y funcionalidades adecuadas para satisfacer las necesidades de los usuarios. Es importante conocer a los usuarios y sus necesidades para asegurarse de que el producto tenga las funcionalidades adecuadas.
++	Funcionalidad adecuada: El producto debe tener las características y funcionalidades adecuadas para satisfacer las necesidades de los usuarios. Es importante conocer a los usuarios y sus necesidades para asegurarse de que el producto tenga las funcionalidades adecuadas.
 
-	+	Velocidad y rendimiento: El producto debe ser rápido y eficiente en su funcionamiento. Los usuarios esperan una respuesta rápida y un rendimiento fluido del producto.
++	Velocidad y rendimiento: El producto debe ser rápido y eficiente en su funcionamiento. Los usuarios esperan una respuesta rápida y un rendimiento fluido del producto.
 
-	+	Adaptabilidad: El producto debe ser adaptable a diferentes dispositivos y plataformas. Los usuarios esperan poder acceder al producto desde cualquier dispositivo, ya sea un teléfono móvil, una tablet o un ordenador.
++	Adaptabilidad: El producto debe ser adaptable a diferentes dispositivos y plataformas. Los usuarios esperan poder acceder al producto desde cualquier dispositivo, ya sea un teléfono móvil, una tablet o un ordenador.
 
-	+	Seguridad: El producto debe ser seguro y proteger la información del usuario. La seguridad es una preocupación importante para los usuarios y puede ser un factor decisivo en su elección de producto.
++	Seguridad: El producto debe ser seguro y proteger la información del usuario. La seguridad es una preocupación importante para los usuarios y puede ser un factor decisivo en su elección de producto.
 
   
 #### 1.2.2.3 Lean UX Hyphotesis Statements
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>1</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que los usuarios estarán interesados en tener una experiencia de búsqueda y reservación de actividades al aire libre en una plataforma en línea</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios registrados en el sitio web después del lanzamiento</td>
-  </tr>
-</tbody>
-</table>
+Los Hypothesis Statements desempeñan un papel fundamental en el enfoque centrado en el usuario y son esenciales para el éxito de AdventureHub. Estas declaraciones son una brújula que guía el desarrollo del producto hacia las necesidades reales de los usuarios. Además, actúan como una herramienta de medición al proporcionar métricas claras para evaluar su validez, lo que permite tomar decisiones de diseño y desarrollo más informadas. A continuación, se presentan las hipótesis creadas al identificar los supuestos más importantes. 
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la integración con otras plataformas populares de reserva, como Airbnb y Booking, aumentará la exposición de AdventureHub a una audiencia más amplia</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de visitantes al sitio web que llegan a través de enlaces de afiliados de plataformas de reserva</td>
-  </tr>
-</tbody>
-</table>
+1. Creemos que, al proporcionar una plataforma web y móvil con información detallada sobre aventuras y destinos en línea, para usuarios de viajes, lograremos que los usuarios tomen decisiones de viaje más informadas y satisfagan sus necesidades de planificación de viaje. Sabremos que esto es cierto cuando observemos un aumento significativo en la interacción de los usuarios con la plataforma y una mejora en la toma de decisiones de viaje a través de la retroalimentación cualitativa de los usuarios y el aumento en el tiempo promedio que pasan en la plataforma.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la implementación de un sistema de recomendaciones personalizadas basado en las preferencias de los usuarios mejorará la satisfacción del cliente y aumentará la retención de los mismos</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de reservas repetidas y la duración promedio de las sesiones del usuario en el sitio web</td>
-  </tr>
-</tbody>
-</table>
+2. Creemos que los usuarios desean una interacción efectiva con proveedores (agencias) y valoran la seguridad en el proceso de reserva de aventuras. Sabremos que esto es cierto cuando veamos un aumento en la cantidad de interacciones entre usuarios y proveedores en nuestra plataforma, así como una disminución en las quejas relacionadas con la seguridad.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>4</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de imágenes y reseñas detalladas de actividades y proveedores aumentará la confianza de los usuarios en la calidad del servicio</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en el porcentaje de usuarios que completan una reserva después de ver imágenes y reseñas detalladas de la actividad o proveedor</td>
-  </tr>
-</tbody>
-</table>
+3. Creemos que, al proporcionar una plataforma web y móvil con información detallada sobre aventuras y destinos en línea, para viajeros ávidos, lograremos una demanda significativa por parte de los usuarios para acceder a información detallada sobre aventuras y destinos en línea. Sabremos que esto es cierto cuando observemos un aumento sostenido en el tráfico de usuarios que buscan información sobre destinos y aventuras en nuestra plataforma.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>5</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que el uso de tecnología de reconocimiento de voz en el proceso de reserva mejorará la experiencia del usuario y aumentará la eficiencia del proceso de reserva</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la tasa de conversión de usuarios que utilizan la tecnología de reconocimiento de voz en el proceso de reserva en comparación con los usuarios que no la utilizan</td>
-  </tr>
-</tbody>
-</table>
+4. Creemos que nuestro público objetivo está compuesto en su mayoría por entusiastas de los viajes que valoran experiencias únicas y buscan eficiencia en la planificación de aventuras. Sabremos que esto es cierto cuando observemos que la mayoría de nuestros usuarios se identifican como viajeros.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>6</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la implementación de un sistema de chat en vivo mejorará la comunicación con los usuarios y aumentará la satisfacción del cliente</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de consultas y preguntas de los usuarios resueltas a través del sistema de chat en vivo</td>
-  </tr>
-</tbody>
-</table>
+5. Creemos que los usuarios desean opciones de viaje personalizadas y completas que satisfagan sus preferencias y necesidades individuales. Sabremos que esto es cierto cuando los usuarios utilicen activamente las herramientas de personalización de paquetes de viajes en nuestra plataforma. 
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>7/th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de un sistema de seguimiento de actividades y entrenamientos personalizados aumentará la fidelidad de los usuarios</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios que se registran para un seguimiento personalizado de actividades y entrenamientos</td>
-  </tr>
-</tbody>
-</table>
+6. Creemos que la competencia principal son algunas aplicaciones similares en el mercado que buscan facilitar la conexión efectiva entre usuarios y proveedores de servicios de aventura. Sabremos que esto es cierto cuando obtengamos una ventaja competitiva demostrable en términos de adquisición de nuevos usuarios y proveedores, retención de usuarios existentes y retroalimentación positiva en comparación con otras aplicaciones similares en el mercado.
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>8</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la integración de tecnología de realidad virtual en las imágenes y videos de las actividades aumentará el interés y la participación de los usuarios.</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de usuarios que interactúan con las actividades y proveedores que utilizan tecnología de realidad virtual.</td>
-  </tr>
-</tbody>
-</table>
+7. Creemos que una colaboración efectiva entre proveedores y usuarios conducirá al crecimiento de nuestra base de clientes. Sabremos que esto es cierto cuando observemos un aumento constante en el número de proveedores y usuarios que se unen a nuestra plataforma. 
 
-<table style="undefined;table-layout: fixed; width: 537px">
-<colgroup>
-<col style="width: 107px">
-<col style="width: 430px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Numero de Hypothesis<br></th>
-    <th>9</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Descripcion</td>
-    <td>Creemos que la inclusión de una función de compartir en redes sociales aumentará la exposición de AdventureHub y atraerá a nuevos usuarios.</td>
-  </tr>
-  <tr>
-    <td>Metrica</td>
-    <td>Observar un aumento en la cantidad de visitantes al sitio</td>
-  </tr>
-</tbody>
-</table>
+8. Creemos que nuestra fuente principal de ingresos será a través de tarifas de servicio (planes) por el uso de funciones exclusivas en nuestra plataforma. Sabremos que esto es cierto cuando los ingresos previstos se cumplan o superen nuestras proyecciones.
+
+9. Creemos que el usuario aprovechará nuestro producto en diversas etapas de su viaje, desde la exploración inicial de opciones hasta la coordinación de servicios y la confirmación de reservas, principalmente a través de dispositivos móviles y computadoras. Sabremos que esto es cierto cuando observemos un patrón consistente de uso a lo largo de estas etapas y cuando la cantidad de reservas realizadas en nuestra plataforma sea significativa.
+
+10. Creemos que el usuario agencia de viajes busca soluciones tecnológicas para mejorar la promoción de sus paquetes de viajes y simplificar la gestión de reservas en línea. Sabremos que esto es cierto cuando observemos una adopción activa de agencias de viajes en nuestra plataforma y una creciente carga de información de paquetes de viaje.
+
+11. Creemos que nuestro producto ayudará a las agencias de viajes, proporcionando una plataforma que simplifica la promoción de paquetes de viaje y facilita la reserva de viajes por parte de sus clientes. Sabremos que esto es cierto cuando las agencias de viajes utilicen regularmente nuestra plataforma para promocionar sus paquetes y gestionar reservas, y cuando obtengamos retroalimentación positiva que indique una mejora en la eficiencia y la visibilidad en línea de estas agencias.
+
+12. Creemos que nuestro producto se utiliza en todo momento por parte de la agencia de viajes, tanto para la carga de información de paquetes como para la interacción con los clientes que desean reservar en línea. Sabremos que esto es cierto cuando veamos una alta tasa de actividad constante por parte de las agencias en nuestra plataforma.
+
+13. Creemos que nuestro producto debe tener una apariencia atractiva y profesional, con una navegación sencilla y herramientas que permitan a la agencia de viajes gestionar eficazmente su negocio en línea y brindar una experiencia positiva a sus clientes. Sabremos que esto es cierto cuando las agencias de viajes elijan nuestra plataforma debido a su apariencia profesional y cuando no se produzcan incidentes significativos que afecten negativamente la experiencia del usuario o la gestión de negocios en línea.
 
 #### 1.2.2.4 Lean UX Canvas
 
