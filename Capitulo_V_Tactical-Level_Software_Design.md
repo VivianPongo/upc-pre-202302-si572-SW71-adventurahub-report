@@ -1346,12 +1346,16 @@ DestinationImplementation
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">ItineraryImpl</td>
+      <td>ItineraryImpl</td>
       <td>Accede a base de datos para operaciones relacionadas a los Itinerarios</td>
     </tr>
     <tr>
       <td>TripImpl</td>
       <td>Accede a la base de datos para operaciones relacionadas a los Viajes</td>
+    </tr>
+    <tr>
+      <td>DestinationImpl</td>
+      <td>Accede a la base de datos para operaciones relacionadas a los Desitnos</td>
     </tr>
   </tbody>
 </table>
