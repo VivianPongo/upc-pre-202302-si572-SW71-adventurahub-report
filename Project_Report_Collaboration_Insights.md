@@ -21,20 +21,14 @@ https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-S
     * Análiticos de colaboración <br><br>
         + Pulse Image of Github Insights
         <div style="display: flex; align-items: center;">
-        	<img src="" style="margin-right: 20px; border: 2px solid lightblue;"> TO DO AFTER MERGE MAIN
+        	<img src="https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/main/resources/collaboration-insights/commits.png" style="margin-right: 20px; border: 2px solid lightblue;"> TO DO AFTER MERGE MAIN
         </div><br>
 
         + Code Frequency Image of Github Insights
         <div style="display: flex; align-items: center;">
-        	<img src="" style="margin-right: 20px; border: 2px solid lightblue;">
+        	<img src="https://cdn.discordapp.com/attachments/1152085707385471007/1156756189154119751/image.png?ex=651620a6&is=6514cf26&hm=fd7083ad627045cd97866483179310f00bf19b815d9e6afe1973bd48edd4388a&" style="margin-right: 20px; border: 2px solid lightblue;">
         </div>
         <br>
-
-        + Contributors Image of Github Insights
-        <div style="display: flex; align-items: center;">
-        	<img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-        </div>
-
 
 + Evidencias de colaboración - otras herramientas: 
 
