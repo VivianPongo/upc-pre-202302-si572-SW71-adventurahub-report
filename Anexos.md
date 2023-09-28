@@ -14,7 +14,7 @@ Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 ## Exposure video TP
 
-[![Exposure video TP1]()]()
+[![Exposure video TP1]()](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EXq6j9ejM7BHmsIDgMKXg5sBTdADe6x9vuJlyc4owcahzg?e=6tcmro&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Enlace: [Exposure video TP1]()
+Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EXq6j9ejM7BHmsIDgMKXg5sBTdADe6x9vuJlyc4owcahzg?e=6tcmro&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
