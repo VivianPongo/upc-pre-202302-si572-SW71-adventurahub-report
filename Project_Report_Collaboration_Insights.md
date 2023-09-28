@@ -35,50 +35,6 @@ https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-S
         	<img src="" style="margin-right: 20px; border: 2px solid lightblue;">
         </div>
 
-    * Commits
-
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
-
-        + Vivian Pongo
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-        + Ivan Moran
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-        + Alessandro Chumpitaz
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-        + Patrick Cuentas
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-        + Mauricio Nuñez
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-				+ Josmar Vela
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-			  + Renato Clotario
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-			  + Renato Clotario
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-			  + Migue Bustillos
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
-			  + Oscar Palomino
-            <div style="display: flex; align-items: center;">
-            <img src="" style="margin-right: 20px; border: 2px solid lightblue;">
-            </div>
 
 + Evidencias de colaboración - otras herramientas: 
 
