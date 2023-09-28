@@ -128,11 +128,11 @@ Son etiquetas en código HTML usados para proporcionar información de la págin
 <strong>SEO Tags</strong><br>
 Las cuales son etiquetas que mejoran la visibilidad y clasificación de los sitio web en los motores de búsqueda. Dicho lo mencionado, ayuda a atraer nuevos usuarios y aumenta la relevancia de nuestro contenido en la redes.
 ```html
-<h1>¡Bienvenido de Adventure Hub! </h1>
-<h2>Explora</h2>
-<h2>Quiero viajar</h2>
-<h2>Planes</h2>
-<h2>Acerda de nosotros</h2>
+<h1>AdventureHub</h1>
+<h2>Purpose</h2>
+<h2>Services</h2>
+<h2>Plans</h2>
+<h2>About Us</h2>
 ```
 
 ### 6.2.5. Navigation Systems.
