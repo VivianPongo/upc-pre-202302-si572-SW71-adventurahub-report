@@ -111,81 +111,110 @@ La siguiente tabla enumera las Historias de Usuario Principales que definen las 
  Estos escenarios ayudan a definir y comprender las expectativas y requisitos clave en términos de calidad del sistema que estamos desarrollando. A continuación, se describirán los más importantes.
 
 
-<table>
-  <colgroup>
-    <col style="width: 10%" />
-    <col style="width: 25%" />
-    <col style="width: 45%" />
-    <col style="width: 20%" />
-  </colgroup>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Quality Attribute</th>
-      <th>Scenario</th>
-      <th>Associated User Story</th>
-    </tr>
-  </thead>
+<table class="tg">
+<thead>
   <tr>
-    <td>QA-1</td>
-    <td>Portabilidad</td>
-    <td>El usuario puede acceder a la plataforma web desde su navegador favorito.</td>
-    <td>US01 - US10, US12 – US31, US33</td>
+    <th class="tg-0pky">Atributo</th>
+    <th class="tg-0pky">Fuente</th>
+    <th class="tg-0pky">Estímulo</th>
+    <th class="tg-0pky">Artefacto</th>
+    <th class="tg-0pky">Entorno</th>
+    <th class="tg-0pky">Respuesta</th>
+    <th class="tg-0pky">Medida</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Portabilidad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Entrar a la plataforma web <br>con diferente navegador</td>
+    <td class="tg-0pky">Frontend</td>
+    <td class="tg-0pky">Plataforma web en la que el <br>usuario accede desde su <br>navegador favorito</td>
+    <td class="tg-0pky">Logra cargarse el portal <br>web en el dispositivo del <br>usuario en su navegador<br>favorito</td>
+    <td class="tg-0pky">Número de visitas por <br>navegador web</td>
   </tr>
   <tr>
-    <td>QA-2</td>
-    <td>Fiabilidad</td>
-    <td>El usuario puede acceder a las funcionalidades de la plataforma las 24 horas del día, los 7 días de la semana.</td>
-    <td>US01 - US10, US12 – US31, US33</td>
+    <td class="tg-0pky">Fiabilidad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Entrar a la plataforma web <br>en cualquier hora del día</td>
+    <td class="tg-0pky">Frontend</td>
+    <td class="tg-0pky">Plataforma web accedida <br>por el usuario a cualquier <br>hora del día</td>
+    <td class="tg-0pky">Logra cargarse el portal<br>web en el dispositivo del<br>usuario a cualquier hora <br>del día</td>
+    <td class="tg-0pky">Número de visitas <br>registradas a cualquier <br>hora del día</td>
   </tr>
   <tr>
-    <td>QA-3</td>
-    <td>Fiabilidad</td>
-    <td>El backend de la plataforma debe poseer una alta disponibilidad para evitar interrupciones en el proceso de reserva y garantizar una experiencia de usuario sin problemas.</td>
-    <td>US01 - US10, US12 – US31, US33</td>
+    <td class="tg-0pky">Fiabilidad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Backend con alta afluencia<br>de usuarios</td>
+    <td class="tg-0pky">Backend</td>
+    <td class="tg-0pky">3 nodos para alta disponibilidad <br>en los  servidores Backend</td>
+    <td class="tg-0pky">Redirección de la carga<br>de solicitudes a través <br>de un Load Balancer</td>
+    <td class="tg-0pky">Número de solicitudes<br>por servidor, esta debe<br>presentarse de forma<br>uniforme</td>
   </tr>
   <tr>
-    <td>QA-4</td>
-    <td>Fiabilidad</td>
-    <td>La plataforma web debe poseer un servicio de almacenamiento en la nube con copias de seguridad y redundancia en caso de fallas técnicas para garantizar la disponibilidad de los datos y evitar interrupciones en el servicio.</td>
-    <td>All</td>
+    <td class="tg-0pky">Fiabilidad</td>
+    <td class="tg-0pky">Servidores</td>
+    <td class="tg-0pky">Fallas técnicas en los servidores</td>
+    <td class="tg-0pky">Frontend y Backend</td>
+    <td class="tg-0pky">3 nodos para alta disponibilidad <br>en los  servidores Frontend y Backend</td>
+    <td class="tg-0pky">Logran funcionar <br>los servidores</td>
+    <td class="tg-0pky">Heartbeat, para saber <br>si nuestros servidores<br>están funcionando</td>
   </tr>
   <tr>
-    <td>QA-5</td>
-    <td>Rendimiento</td>
-    <td>La plataforma debe ser capaz de procesar al menos 500 transacciones de pagos de paquetes de viaje por hora sin tiempos de espera para los usuarios.</td>
-    <td>US08-US12, US31</td>
+    <td class="tg-0pky">Rendimiento</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Solicitud de procesar transacciones<br>de pagos de paquetes de viaje<br></td>
+    <td class="tg-0pky">Frontend y Backend<br></td>
+    <td class="tg-0pky">Carga de 500 transacciones de pagos<br>de paquetes de viaje, sin tiempos<br>de espera para los usuarios o <br>menor a 1 segundo<br></td>
+    <td class="tg-0pky">Logra procesarse con <br>satisfacción las <br>transacciones de pagos<br>de paquetes de viaje</td>
+    <td class="tg-0pky">Número de solicitudes<br>de pagos de viaje no <br>mayores a 500 <br>transacciones por hora<br></td>
   </tr>
   <tr>
-    <td>QA-6</td>
-    <td>Rendimiento</td>
-    <td>En los períodos de alto tráfico en la plataforma, el tiempo de respuesta de la búsqueda de paquetes de viaje debería ser menor de 3 segundos para el 85% de los usuarios.</td>
-    <td>US04-US07, US24, US30</td>
+    <td class="tg-0pky">Rendimiento</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Frontend con alta afluencia de <br>usuarios<br></td>
+    <td class="tg-0pky">Frontend</td>
+    <td class="tg-0pky">3 nodos para alta disponibilidad <br>en los  servidores Frontend</td>
+    <td class="tg-0pky">Redirección de la carga<br>de solicitudes a través <br>de un Load Balancer</td>
+    <td class="tg-0pky">Número de solicitudes<br>por servidor, esta debe<br>presentarse de forma<br>uniforme</td>
   </tr>
   <tr>
-    <td>QA-7</td>
-    <td>Seguridad</td>
-    <td>Para el 95% de las solicitudes realizadas por usuarios o microservicios, el tiempo de respuesta para autenticación y autorización debe ser inferior a 2 segundos. Además, la tasa de éxito de autenticación y autorización debe ser superior al 99,9%.</td>
-    <td>All</td>
+    <td class="tg-0pky">Seguridad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Solicitud de autenticación y autorización<br>menor a 2 segundos<br></td>
+    <td class="tg-0pky">Backend</td>
+    <td class="tg-0pky">Servidores Backend procesando<br>la autenticación y autorización<br></td>
+    <td class="tg-0pky">Logran autenticarse y<br>autorizarse los usuarios<br></td>
+    <td class="tg-0pky">Tiempo de respuesta<br>de la solicitud en <br>los servidores<br></td>
   </tr>
   <tr>
-    <td>QA-8</td>
-    <td>Usabilidad</td>
-    <td>Los usuarios nuevos al acceder a la plataforma deberían aprender a reservar un paquete de viaje en la aplicación en menos de 10 minutos mediante las interfaces intuitivas y sin orientación adicional.</td>
-    <td>US04-US33</td>
+    <td class="tg-0pky">Usabilidad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Reserva de paquete de viaje en <br>menos de 10 minutos<br></td>
+    <td class="tg-0pky">Frontend y Backend</td>
+    <td class="tg-0pky">Servidores Frontend y Backend <br>procesando el proceso de reserva <br>de paquete de viaje<br></td>
+    <td class="tg-0pky">Logran realizar la reserva</td>
+    <td class="tg-0pky">Tiempo en realizar la <br>reserva desde que el<br>usuario entra a la página<br><br></td>
   </tr>
   <tr>
-    <td>QA-9</td>
-    <td>Escalabilidad</td>
-    <td>La plataforma de viajes puede manejar tráfico ligero durante períodos de alta demanda sin experimentar interrupciones en el servicio al agregar más instancias de microservicios durante dichos períodos.</td>
-    <td>All</td>
+    <td class="tg-0pky">Escalabilidad</td>
+    <td class="tg-0pky">Usuario</td>
+    <td class="tg-0pky">Backend con muy altos niveles<br>de afluencia prolongados<br></td>
+    <td class="tg-0pky">Backend</td>
+    <td class="tg-0pky">Servidores Backend con políticas <br>de escalabilidad</td>
+    <td class="tg-0pky">Aumento de nodos en <br>los servidores Backend<br></td>
+    <td class="tg-0pky">Número de instancias <br>agregadas desde la <br>plataforma de nube<br></td>
   </tr>
   <tr>
-    <td>QA-10</td>
-    <td>Mantenibilidad</td>
-    <td>Usando herramientas para monitorear registros y métricas, los ingenieros de mantenimiento deben poder identificar la causa de los errores de producción en menos de 15 minutos.</td>
-    <td>US04-US33</td>
+    <td class="tg-0pky">Mantenibilidad</td>
+    <td class="tg-0pky">Servidores</td>
+    <td class="tg-0pky">Errores de producción resueltos en<br>menos de 15 minutos<br></td>
+    <td class="tg-0pky">Backend</td>
+    <td class="tg-0pky">Servidores Backend desplegadas en<br>una plataforma cloud que brinde <br>herramientas de monitoreo<br></td>
+    <td class="tg-0pky">Métricas en la plataforma<br>de despliegue que <br>tenga servicios de alertas<br></td>
+    <td class="tg-0pky">Tiempo de<br>duración de la alerta</td>
   </tr>
+</tbody>
 </table>
 
 
@@ -194,32 +223,98 @@ La siguiente tabla enumera las Historias de Usuario Principales que definen las 
 En el proceso de desarrollo de nuestro proyecto de software, es esencial comprender y definir con claridad las restricciones que influirán en el diseño, implementación y funcionamiento del sistema. A continuación se detallarán cada una de ellas.
 
 <table>
-  <colgroup>
-    <col style="width: 10%" />
-    <col style="width: 90%" />
-  </colgroup>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Constraint</th>
-    </tr>
-  </thead>
+<thead>
   <tr>
-    <td>CON-1</td>
-    <td>Las cuentas de los usuarios y los permisos de estos mismos deben ser manejados por un servidor directo de usuarios.</td>
+    <th>Technical Story ID<br></th>
+    <th>Titulo</th>
+    <th>Descripcion</th>
+    <th>Criterios de Aceptacion<br></th>
+    <th>Epic ID<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>TUS006</td>
+    <td>FrontEnd Technologies<br></td>
+    <td>Se restringe a los frameworks de Angular y Vue.Js<br></td>
+    <td>Escenario 1: Verificación de Tecnologías FrontEndl<br><br>
+		Dado que se ha establecido una restricción para utilizar solo Vue.js o Angular en el FrontEnd de la aplicación.<br>
+		Cuando se realice una revisión del código fuente del FrontEnd.<br>
+		Entonces se debe confirmar que todas las partes del FrontEnd están implementadas utilizando Vue.js o Angular sin excepciones.<br><br>
+		Escenario 2: Cumplimiento de la Restricción en Desarrollo Continuo<br>
+		Dado que se ha establecido una restricción para utilizar exclusivamente Vue.js o Angular en el FrontEnd.<br><br>
+		Cuando se realicen actualizaciones o adiciones al FrontEnd de la aplicación.<br>
+		Entonces se debe verificar que las nuevas implementaciones siguen cumpliendo con la restricción, y cualquier violación de esta restricción se debe abordar antes de la implementación final.<br>
+	</td>
+  <td>5</td>
+  </tr>
+	  <tr>
+    <td>TUS008</td>
+    <td>FrontEnd UI Component<br></td>
+    <td>Se restringe a las librerias de UI Angular Material y PrimeVue<br></td>
+    <td>Escenario 1: Diseño y Desarrollo de una Pantalla de Inicio de Sesión<br><br>
+Dado el constraint "FrontEnd UI Component" que limita el uso de bibliotecas de UI a Angular Material y PrimeNG en el FrontEnd.<br>
+Cuando el equipo de desarrollo tenga que diseñar y desarrollar una nueva pantalla de inicio de sesión para la aplicación.<br>
+Entonces el equipo debe utilizar exclusivamente componentes de Angular Material o PrimeNG para construir la interfaz de usuario de la pantalla de inicio de sesión, garantizando así el cumplimiento del constraint.<br><br>
+Escenario 2: Actualización de la Pantalla de Perfil de Usuario<br><br>
+Dado el constraint "FrontEnd UI Component" que restringe el uso de bibliotecas de UI a Angular Material y PrimeNG en el FrontEnd.<br>
+Cuando se realice una actualización en la pantalla de perfil de usuario de la aplicación.<br>
+Entonces el equipo de desarrollo debe asegurarse de que cualquier cambio realizado en la interfaz de usuario de la pantalla de perfil de usuario se realice utilizando componentes de Angular Material o PrimeNG, cumpliendo así con la restricción del constraint.</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>CON-2</td>
-    <td>Se debe realizar la conexión de la base de datos con los servicios de Amazon Web Services (AWS).</td>
+    <td>TUS009</td>
+    <td>BackEnd Technologies</td>
+    <td>Se restringe el uso a SpringBoot Java y ASP.NET Core C#</td>
+    <td>Escenario 1: Implementación de un Nuevo Servicio de Usuario<br><br>
+Dado el constraint "BackEnd Technologies" que limita el uso de tecnologías de backend a Spring Boot Java y ASP.NET Core C#.<br>
+Cuando el equipo de desarrollo deba implementar un nuevo servicio de usuario en el backend de la aplicación.<br>
+Entonces el equipo debe utilizar exclusivamente Spring Boot Java o ASP.NET Core C# para desarrollar y desplegar este nuevo servicio, garantizando así el cumplimiento del constraint.<br><br>
+
+Escenario 2: Mantenimiento y Mejora de un Servicio Existente<br><br>
+Dado el constraint "BackEnd Technologies" que restringe el uso de tecnologías de backend a Spring Boot Java y ASP.NET Core C#.<br>
+Cuando sea necesario realizar mantenimiento o mejoras en un servicio existente en el backend de la aplicación.<br>
+Entonces el equipo de desarrollo debe asegurarse de que todas las modificaciones se realicen utilizando Spring Boot Java o ASP.NET Core C#, de acuerdo con la restricción del constraint.</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>CON-3</td>
-    <td>La conexión de redes en las estaciones de trabajo de los usuarios puede tener baja latencia, pero generalmente es confiable.</td>
+    <td>TUS0011</td>
+    <td>Tiempo de Desarrollo</td>
+    <td>Se cuenta con limite de 5 meses para el total desarrollo y entrega de la plataforma desplegada</td>
+    <td>Escenario 1: Planificación y Seguimiento del Proyecto<br><br>Dado que se ha establecido un límite de tiempo de 5 meses para el desarrollo y entrega de la plataforma.<br>Cuando el equipo de desarrollo haya creado un plan de proyecto detallado que incluya hitos clave, fechas de entrega parciales y recursos asignados.<br>Entonces el equipo de desarrollo debe seguir de cerca el progreso del proyecto, asegurándose de que cada hito se cumpla según lo programado y tomando medidas inmediatas para abordar cualquier desviación del plan.<br><br>Escenario 2: Entrega de la Plataforma Completa<br><br>Dado que se ha establecido un límite de 5 meses para el desarrollo y entrega de la plataforma.<br>Cuando se cumpla el plazo de 5 meses desde el inicio del proyecto.<br>Entonces el equipo de desarrollo debe haber entregado la plataforma completa y desplegada en un entorno de producción, lista para su uso por parte de los usuarios finales.<br>Estos criterios de aceptación aseguran una gestión efectiva del proyecto dentro del límite de tiempo establecido y garantizan que la plataforma se entregue de manera oportuna para su uso.</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>CON-4</td>
-    <td>El sistema debe auto guardar los últimos 30 eventos, que se realizaron.</td>
+    <td>TUS013</td>
+    <td>Base de Datos Relacional</td>
+    <td>Se restringe la administracion de base de datos de tipo relacional, tal como MySql, PostgreSQL</td>
+    <td>Escenario 1: Implementación de una Nueva Base de Datos Relacional<br><br>
+Dado el constraint "Base de Datos Relacional" que limita la administración de bases de datos a tipos relacionales como MySQL y PostgreSQL.<br>
+Cuando sea necesario crear una nueva base de datos para un componente de la aplicación.<br>
+Entonces se debe utilizar una base de datos relacional, como MySQL o PostgreSQL, para la implementación de la nueva base de datos, cumpliendo así con el constraint.<br><br>
+
+Escenario 2: Migración de Datos a una Base de Datos Relacional<br><br>
+Dado el constraint "Base de Datos Relacional" que restringe la administración de bases de datos a tipos relacionales como MySQL y PostgreSQL.<br>
+Cuando se requiera migrar datos desde una base de datos no relacional a una base de datos relacional en el proceso de desarrollo o mantenimiento de la aplicación.<br>
+Entonces se debe llevar a cabo la migración de datos a una base de datos relacional, como MySQL o PostgreSQL, asegurando así la conformidad con el constraint.</td>
+    <td></td>
   </tr>
+	  <tr>
+    <td>TUS015</td>
+    <td>Uso de GitHub como Repositorio</td>
+    <td>Se debe hacer uso de GitHub Organization para guardar codigo como reporte del curso</td>
+    <td>Escenario 1: Creación de un Nuevo Proyecto en GitHub Organization<br><br>
+Dado el constraint "Uso de GitHub como Repositorio" que exige el uso de GitHub Organization para almacenar el código como reporte del curso.<br>
+Cuando se inicie un nuevo proyecto como parte del curso.<br>
+Entonces se debe crear un nuevo repositorio en la GitHub Organization designada para el curso y almacenar todo el código relacionado con el proyecto en dicho repositorio, cumpliendo así con el constraint.<br><br>
+
+Escenario 2: Colaboración y Control de Versiones<br><br>
+Dado el constraint "Uso de GitHub como Repositorio" que requiere el uso de GitHub Organization para almacenar el código como reporte del curso.<br>
+Cuando varios estudiantes colaboren en un proyecto y realicen cambios en el código.<br>
+Entonces se debe utilizar GitHub como plataforma principal para colaborar, controlar versiones y gestionar los cambios en el código, asegurando que todos los participantes cumplan con la política de almacenamiento en la GitHub Organization según el constraint establecido.</td>
+    <td>5</td>
+  </tr>
+</tbody>
 </table>
 
 ### 4.1.3. Architectural Drivers Backlog
