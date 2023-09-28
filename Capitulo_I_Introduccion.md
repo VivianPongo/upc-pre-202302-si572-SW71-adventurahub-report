@@ -3,91 +3,60 @@
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-DreamTeam, surge con la finalidad de cubrir las necesidades de las personas mediante el uso de la tecnología y comunicación móvil, está conformado por seis integrantes, todos estudiantes de la carrera de Ingeniería de Software.
+DreamTeam es una startup fundada y liderada por un equipo compuesto por seis estudiantes apasionados por la Ingeniería de Software. Nuestra visión es transformar la vida de las personas a través de soluciones tecnológicas y comunicación móvil, y hemos decidido nombrar nuestra iniciativa "DreamTeam".
 
-El nombre del startup es DreamTeam.
+Como estudiantes de Ingeniería de Software, estamos decididos a utilizar nuestra experiencia y conocimiento para abordar las necesidades de las personas en el mundo digital en constante evolución. Creemos que la tecnología puede ser una poderosa herramienta para mejorar la calidad de vida y simplificar las tareas cotidianas.
+
+En DreamTeam, estamos comprometidos con la excelencia y la innovación. Nos esforzamos por crear soluciones tecnológicas que no solo sean efectivas, sino también accesibles y fáciles de usar para una amplia gama de usuarios. Nuestro objetivo es ser un motor de cambio positivo en la sociedad, brindando aplicaciones móviles y servicios de comunicación que marquen la diferencia.
+
+A medida que avanzamos en nuestra misión, estamos emocionados por las oportunidades de colaboración, crecimiento y aprendizaje que se presentan en nuestro camino. Esperamos con ansias contribuir de manera significativa al mundo digital y, al mismo tiempo, aprender y crecer como equipo y como individuos en este apasionante viaje.
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
-<div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C4E03AQHhnb-eyGG7qw/profile-displayphoto-shrink_800_800/0/1644894611343?e=1699488000&v=beta&t=Rnn1hN48coIn2ZFMBe2uSZyBe2NcbTfxuLSKE3gwZ7s" alt="Imagen" width="100" height="100" style="margin-right: 20px;">
-    <div>
-        <u><strong>Ivan Moran Moreno - U201919381</strong></u><br>
-        Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Siempre, desde más joven, he estado interesado en la tecnología, y es por eso por lo que decidí estudiar esta carrera. Me gusta aprender nuevos frameworks, tecnologías e inteligencia artificial, y participar en Hackatons y StartUps para ampliar mi conocimiento.
-    </div>
-</div>
-<br>
-<div>
-	<img src="https://media.licdn.com/dms/image/D4E03AQFDLPART1I-3w/profile-displayphoto-shrink_800_800/0/1691110465244?e=1699488000&v=beta&t=TljtuSRSDL8LfDC64B-cRYFl4XpCbEFrley1tqOfca8" width="80" height="80">
-	<div>
-		<u>
-			<strong> Renato Clotario Castillo Rengifo - U201511892</strong>
-		</u>
-		<p>
-			Soy Renato Castillo, elegí la Ingeniería de Software por el interés en aplicar la tecnología para el bienestar humano y entretenimiento. Me gusta crear proyectos personales y compartir conocimiento en diferentes entornos multidisciplinarios.
-		</p>
-	</div>
-</div>
-<div>
-	<img src="https://media.licdn.com/dms/image/C5603AQGpjf4xvNfuBA/profile-displayphoto-shrink_400_400/0/1615794067269?e=1699488000&v=beta&t=g7Z3lnv2RdYrZXcwbNMmRHa6Q-preTyvZS-fBZx6cj0" width="80" height="80">
-	<div>
-		<u>
-			<strong> Alessandro Paris Chumpitaz Paredes - U201523840</strong>
-		</u>
-		<p>
-			Apasionado por la tecnología y el software, siempre tratando de aprender algo nuevo cada dia, para aplicarlo en proyectos reales o personales, en especial si es relacionado al análisis de datos y desarrollo mobile. Siempre tratando de compartir lo que aprendo a través de mi formación.
-		</p>
-	</div>
-</div>
-<div>
-	<img src="https://media.licdn.com/dms/image/C4D03AQFfNxN3yaeDWQ/profile-displayphoto-shrink_400_400/0/1639710633750?e=1699488000&v=beta&t=qL0AepRV4AL3A8ezaVsSkUtIsMM1c7rRFhjCTB7URTc" width="80" height="80">
-	<div>
-		<u>
-			<strong> Miguel Bustillos - U20181F794</strong>
-		</u>
-		<p>
-			Tengo 22 años y curso la carrera de Ingeniería de Software. Desde pequeño, me he envuelto en el mundo de la tecnología y la pasión por crear cosas nuevas desde una computadora. Actualmente, trabajo como Desarrollador Web para un sistema de venta de tickets para buses interprovinciales.
-		</p>
-	</div>
-</div>
-<div>
-	<img src="./resources/profile-images/josmar.png" width="80" height="80">
-	<div>
-		<u>
-			<strong> Josmar Vela Sarazú - U201611746</strong>
-		</u>
-		<p>
-			Elegí la carrera de Ingeniría de Software por mi afición por la tecnología, sobre todo a la creación de aplicación web y móviles. Además, me gusta prácticar creando pequeñas aplicaciones donde aplico lo aprendido en la universidad o en clases en línea. 
-		</p>
-	</div>
-</div>
-<div>
-	<img src="./resources/profile-images/patrick.png" width="80" height="80">
-	<div>
-		<u>
-			<strong> Patrick Johan Cuentas Mariano - U201819125</strong>
-		</u>
-		<p>
-			EElegí la carrera de Ingeniería de Software porque me llama mucho la atención la evolución de la tecnología en el mundo y sobre todo la lógica detrás de todos los softwares que son indispensables en la actualidad. Con esta carrera busco contribuir en la elaboración de software de calidad en todo ámbito laboral con los conocimientos adquiridos en la UPC y con la experiencia estando en esta.
-		</p>
-	</div>
-</div>
 
 
-<br>
-<div>
-	<img src="./resources/profile-images/os.png" width="80" height="80">
-	<div>
-		<u>
-			<strong> Oscar Enrique Palomino Medina - U201822717</strong>
-		</u>
-		<p>
-			Estudiante de la carrera de Ingeniería de Software de la UPC. Me gusta elaborar lluvia de ideas en trabajos grupales para lograr un mejor desenvolvimiento de cada uno y así poder conocerlos más, soy carismático y empeñoso al elaborar cada trabajo o proyectos tanto en mi vida personal como universitaria. Poseo conocimientos en C++, HTML, CSS, javascript y C# De esta manera me comprometo a lograr un buen trabajo en equipo poniendo a disposición todas mis cualidades y experiencias para lograr el mejor Proyecto.
-		</p>
-	</div>
-</div>
-<br>
+| Imagen | Ivan Moran Moreno - U201919381  |
+|----------|----------|
+| <img src="https://media.licdn.com/dms/image/C4E03AQHhnb-eyGG7qw/profile-displayphoto-shrink_800_800/0/1644894611343?e=1699488000&v=beta&t=Rnn1hN48coIn2ZFMBe2uSZyBe2NcbTfxuLSKE3gwZ7s" alt="Imagen" width="100" height="100" style="margin-right: 20px;">   | Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Siempre, desde más joven, he estado interesado en la tecnología, y es por eso por lo que decidí estudiar esta carrera. Me gusta aprender nuevos frameworks, tecnologías e inteligencia artificial, y participar en Hackatons y StartUps para ampliar mi conocimiento.   |
 
+| Imagen | Renato Clotario Castillo Rengifo - U201511892  |
+|----------|----------|
+| <img src="https://media.licdn.com/dms/image/D4E03AQFDLPART1I-3w/profile-displayphoto-shrink_800_800/0/1691110465244?e=1699488000&v=beta&t=TljtuSRSDL8LfDC64B-cRYFl4XpCbEFrley1tqOfca8" width="100" height="100">   | Soy Renato Castillo, elegí la Ingeniería de Software por el interés en aplicar la tecnología para el bienestar humano y entretenimiento. Me gusta crear proyectos personales y compartir conocimiento en diferentes entornos multidisciplinarios.   |
+
+
+| Imagen | Alessandro Paris Chumpitaz Paredes - U201523840  |
+|----------|----------|
+| <img src="https://media.licdn.com/dms/image/C5603AQGpjf4xvNfuBA/profile-displayphoto-shrink_400_400/0/1615794067269?e=1699488000&v=beta&t=g7Z3lnv2RdYrZXcwbNMmRHa6Q-preTyvZS-fBZx6cj0" width="100" height="100">   | Apasionado por la tecnología y el software, siempre tratando de aprender algo nuevo cada dia, para aplicarlo en proyectos reales o personales, en especial si es relacionado al análisis de datos y desarrollo mobile. Siempre tratando de compartir lo que aprendo a través de mi formación.   |
+
+| Imagen | Miguel Bustillos - U20181F794  |
+|----------|----------|
+| <img src="https://media.licdn.com/dms/image/C4D03AQFfNxN3yaeDWQ/profile-displayphoto-shrink_400_400/0/1639710633750?e=1699488000&v=beta&t=qL0AepRV4AL3A8ezaVsSkUtIsMM1c7rRFhjCTB7URTc" width="100" height="100">   | Tengo 22 años y curso la carrera de Ingeniería de Software. Desde pequeño, me he envuelto en el mundo de la tecnología y la pasión por crear cosas nuevas desde una computadora. Actualmente, trabajo como Desarrollador Web para un sistema de venta de tickets para buses interprovinciales.   |
+
+
+| Imagen | Josmar Vela Sarazú - U201611746  |
+|----------|----------|
+| <img src="./resources/profile-images/josmar.png" width="100" height="100">   | Elegí la carrera de Ingeniría de Software por mi afición por la tecnología, sobre todo a la creación de aplicación web y móviles. Además, me gusta prácticar creando pequeñas aplicaciones donde aplico lo aprendido en la universidad o en clases en línea.   |
+
+
+| Imagen | Patrick Johan Cuentas Mariano - U201819125  |
+|----------|----------|
+| <img src="./resources/profile-images/patrick.png" width="100" height="100">   | Elegí la carrera de Ingeniería de Software porque me llama mucho la atención la evolución de la tecnología en el mundo y sobre todo la lógica detrás de todos los softwares que son indispensables en la actualidad. Con esta carrera busco contribuir en la elaboración de software de calidad en todo ámbito laboral con los conocimientos adquiridos en la UPC y con la experiencia estando en esta.  |
+
+
+| Imagen | Oscar Enrique Palomino Medina - U201822717  |
+|----------|----------|
+| <img src="./resources/profile-images/os.png" width="100" height="100">   | Estudiante de la carrera de Ingeniería de Software de la UPC. Me gusta elaborar lluvia de ideas en trabajos grupales para lograr un mejor desenvolvimiento de cada uno y así poder conocerlos más, soy carismático y empeñoso al elaborar cada trabajo o proyectos tanto en mi vida personal como universitaria. Poseo conocimientos en C++, HTML, CSS, javascript y C# De esta manera me comprometo a lograr un buen trabajo en equipo poniendo a disposición todas mis cualidades y experiencias para lograr el mejor Proyecto.  |
+
+
+| Imagen | Mauricio Oscar Nuñez Melgarejo - u201913455  |
+|----------|----------|
+| <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/tb1/resources/profile-images/mauricio.jpg" width="100" height="100">   | Como profesional en formación de la carrera de ingeniería de software, tengo habilidades en programación, análisis de requisitos, diseño y testing de software, además de ser una persona comprometida, responsable y con una actitud proactiva hacia el trabajo en equipo. Tengo conocimientos en lenguajes de programación como Java, Python, C++, y tecnologías web como HTML, CSS y JavaScript, así como experiencia en el uso de herramientas de desarrollo y control de versiones.  |
+
+
+
+| Imagen | Vivian Maite Pongo Quisocala - u201920614  |
+|----------|----------|
+| <img src="resources/profile-images/vivian.png" width="100" height="100">   | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC) y beneficiaria de la beca PRONABEC, actualmente avanzando en el octavo ciclo de la carrera de Ingeniería de Software. Mi pasión por la tecnología me ha llevado a adquirir una amplia gama de habilidades, desde programación web (Frontend) y desarrollo móvil con Kotlin y Flutter hasta la programación en C++, Dart, JavaScript y Java. Además, poseo experiencia en pruebas unitarias con JUnit y Mockito, y domino herramientas como Excel, Power BI y SQL en diversos niveles.  |
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 Procedemos a implementar la herramienta 5W Y 2H, la cuál nos ayudará para poder entender y plantear de forma correcta la problemática identificada y su solución respectiva.
