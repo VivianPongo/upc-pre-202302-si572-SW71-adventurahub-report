@@ -854,10 +854,7 @@ Value Objects:
       <td>Send()</td>
       <td>Envía emails</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
+
   </tbody>
 </table>
 
@@ -875,10 +872,7 @@ Value Objects:
       <td>Send()</td>
       <td>Envía notificaciones</td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
+
   </tbody>
 </table>
 
@@ -1173,11 +1167,11 @@ En esta sección se identifican las clases que forman parte de Interface/Present
     <tr>
       <td rowspan="3">ItineraryController</td>
       <td>findById(itineraryId)</td>
-      <td>Operaciones de repositorio de Itinerarios</td>
+      <td rowspan="3">Operaciones de repositorio de Itinerarios</td>
     </tr>
     <tr>
       <td>save()</td>
-      <td>UpdateById(itineraryId)</td>
+      <td></td>
     </tr>
     <tr>
       <td>DeleteById(itineraryId)</td>
@@ -1198,15 +1192,18 @@ En esta sección se identifican las clases que forman parte de Interface/Present
     <tr>
       <td rowspan="3">TripController</td>
       <td>findById(tripId)</td>
-      <td>Operaciones de repositorio de notificaciones</td>
+      <td rowspan="3">Operaciones de repositorio de notificaciones</td>
     </tr>
     <tr>
       <td>save()</td>
-      <td>GetAllTrips()</td>
     </tr>
     <tr>
       <td>FilterTripsByParams(destination, season, minPrice, maxPrice)</td>
       <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>GetAllTrips()</td>
     </tr>
   </tbody>
 </table>
@@ -1288,17 +1285,14 @@ TripImplementation
       <td>Obtiene un Viaje por su Id</td>
     </tr>
     <tr>
-      <td></td>
       <td>save()</td>
       <td>Crea un Viaje nuevo</td>
     </tr>
     <tr>
-      <td></td>
       <td>GetAllTrips()</td>
       <td>Obtiene todos los viajes</td>
     </tr>
     <tr>
-      <td></td>
       <td>FilterTripsByParams(destination, season, minPrice, maxPrice)</td>
       <td>Obtiene los viajes que cumplan las condiciones opcionales del filtro</td>
     </tr>
@@ -1322,12 +1316,10 @@ DestinationImplementation
       <td>Obtiene un Destino por su Id</td>
     </tr>
     <tr>
-      <td></td>
       <td>save()</td>
       <td>Crea un Destino nuevo</td>
     </tr>
     <tr>
-      <td></td>
       <td>GetAll()</td>
       <td>Obtiene todos los Destinos</td>
     </tr>
