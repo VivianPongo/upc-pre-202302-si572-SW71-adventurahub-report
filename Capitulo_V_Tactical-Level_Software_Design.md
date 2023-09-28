@@ -809,7 +809,7 @@ Value Objects:
     <tr>
       <td rowspan="2">UserRepository</td>
       <td>findById()</td>
-      <td>Operaciones de repositorio de usuarios</td>
+      <td rowspan="2">Operaciones de repositorio de usuarios</td>
     </tr>
     <tr>
       <td>Save()</td>
@@ -831,7 +831,7 @@ Value Objects:
     <tr>
       <td rowspan="2">NotificationRepository</td>
       <td>findById()</td>
-      <td>Operaciones de repositorio de notificaciones</td>
+      <td rowspan="2">Operaciones de repositorio de notificaciones</td>
     </tr>
     <tr>
       <td>Save()</td>
@@ -850,7 +850,7 @@ Value Objects:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">EmailService</td>
+      <td rowspan="1">EmailService</td>
       <td>Send()</td>
       <td>Envía emails</td>
     </tr>
@@ -871,7 +871,7 @@ Value Objects:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">NotificationService</td>
+      <td rowspan="1">NotificationService</td>
       <td>Send()</td>
       <td>Envía notificaciones</td>
     </tr>
