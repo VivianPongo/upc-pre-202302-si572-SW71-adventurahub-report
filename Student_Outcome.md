@@ -49,6 +49,12 @@ La implementación adecuada de las técnicas Tactical DDD y Needfinding en inici
 <br>TB1<br></strong>
 Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de la aplicación.
 
+## TB2
+
+**Vivian Maite Pongo Quisocala** 
+En esta fase del proyecto, hemos realizado el desarrollo del frontend de AdventureHub. Durante este proceso, hemos mantenido una comunicación constante y abierta con todos los miembros del equipo. Esta interacción regular ha creado un entorno propicio para la coordinación efectiva y el intercambio fluido de ideas relacionadas con el diseño de la plataforma.
+
+
 </td>
     <td>En conclusión, la habilidad de comunicar oralmente ideas y resultados con objetividad a una audiencia diversa en el ámbito de la ingeniería no solo es esencial, sino que también refleja la versatilidad y adaptabilidad del ingeniero. Esta competencia facilita la colaboración interdisciplinaria, promueve la toma de decisiones informadas y asegura que la información se transmita de manera precisa, lo que, en última instancia, contribuye al éxito de los proyectos de ingeniería y al logro de sus objetivos.</td>
   </tr>
