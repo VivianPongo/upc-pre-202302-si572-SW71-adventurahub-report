@@ -21,6 +21,5 @@ Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 ## About The Product
 
-[![About The Product]([https://raw.githubusercontent.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/main/resources/collaboration-insights/exposure-tb1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EWDjuIwM2qpAucaY6o5gm2YBtg7btPTWU4jhs9TBJv4nXw?e=dmM6an&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://iot20231.blob.core.windows.net/imgs/report/mob/bout.png))
-
-Enlace: [About The Product]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EWDjuIwM2qpAucaY6o5gm2YBtg7btPTWU4jhs9TBJv4nXw?e=dmM6an&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)
+[![About The Product](https://iot20231.blob.core.windows.net/imgs/report/mob/bout.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)
+Enlace: [About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)
