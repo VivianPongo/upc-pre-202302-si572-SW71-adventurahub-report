@@ -18,3 +18,8 @@ Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 
 Enlace: [Exposure video TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919381_upc_edu_pe/EXq6j9ejM7BHmsIDgMKXg5sBTdADe6x9vuJlyc4owcahzg?e=6tcmro&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
+
+## About The Product
+
+[![About The Product](https://iot20231.blob.core.windows.net/imgs/report/mob/bout.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)
+Enlace: [About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EQjjstdNOzZNkMe1uMUDe9IBxCuoRE-urmlNKyyVGgyPBw?e=6otZ9d)
