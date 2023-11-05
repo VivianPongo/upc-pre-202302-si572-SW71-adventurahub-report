@@ -136,9 +136,9 @@ Durante el proceso de desarrollo del frontend, he mantenido una comunicación co
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Renato Clotario Castillo Rengifo** <br>
 **TB2**
-
+Durante el proceso de verificación de backend,se logró mantener la comicación con el equipo. Lo que favorecio en los avances del proyecto.
 
 <br>
 
