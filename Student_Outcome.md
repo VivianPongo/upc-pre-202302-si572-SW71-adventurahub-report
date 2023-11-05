@@ -69,17 +69,17 @@ Durante el proyecto se logró verificar el backend para las necesidades del proy
 
 **Mauricio Oscar Nuñez Melgarejo** <br>
 **TB2**
-
+Fomente la participación y el diálogo, animando a todos a hacer preguntas y expresar sus inquietudes durante las reuniones en Discord.
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Alessandro** <br>
 **TB2**
 
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Oscar** <br>
 **TB2**
 
 
@@ -146,17 +146,18 @@ Durante el proceso de verificación de backend,se logró mantener la comicación
 
 **Mauricio Oscar Nuñez Melgarejo** <br>
 **TB2**
+Ayude a estructurar el documento de manera lógica y coherente, utilizando secciones y subsecciones para facilitar la navegación.
 
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Alessandro** <br>
 **TB2**
 
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Oscar** <br>
 **TB2**
 
 
