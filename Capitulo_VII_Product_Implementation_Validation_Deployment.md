@@ -102,7 +102,9 @@ A continuación, se presenta la gestión de código fuente o como es conocido po
 
 * <strong>URL de la Organización:</strong> https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes
   
-* <strong>URL del Repositorio del Landing Page:</strong> 
+* <strong>URL del Repositorio del Landing Page:</strong> https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/landing-page/tree/develop
+
+https://web-zeta-two-80.vercel.app/
   
 * <strong>URL del Repositorio de Web Services:</strong> https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/backend
   
