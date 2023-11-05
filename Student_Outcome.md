@@ -61,9 +61,9 @@ En esta fase del proyecto, hemos realizado el desarrollo del frontend de Adventu
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Renato Clotario Castillo Rengifo** <br>
 **TB2**
-
+Durante el proyecto se logró verificar el backend para las necesidades del proyecto. Así como, la constancia comunicación con el equipo para resolver el proyecto.
 
 <br>
 
