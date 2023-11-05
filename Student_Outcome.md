@@ -51,8 +51,43 @@ Se logró comunicar oralmentes las ideas y resultados acorde a la dirección de 
 
 ## TB2
 
-**Vivian Maite Pongo Quisocala** 
+**Vivian Maite Pongo Quisocala** <br>
+**TB2**
 En esta fase del proyecto, hemos realizado el desarrollo del frontend de AdventureHub. Durante este proceso, hemos mantenido una comunicación constante y abierta con todos los miembros del equipo. Esta interacción regular ha creado un entorno propicio para la coordinación efectiva y el intercambio fluido de ideas relacionadas con el diseño de la plataforma.
+
+**Josmar Vela Sarazú** <br>
+**TB2**
+ 
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
 
 
 </td>
@@ -89,8 +124,45 @@ Se elaboró el container level diagram para comunicar eficientemenete las ideas 
 
 ## TB2
 
-**Vivian Maite Pongo Quisocala** 
+**Vivian Maite Pongo Quisocala** <br>
+**TB2**
 Durante el proceso de desarrollo del frontend, he mantenido una comunicación constante con los miembros del equipo, lo que ha favorecido la coordinación y el intercambio de ideas sobre el diseño de la plataforma. Esta habilidad para comunicarme efectivamente con personas de diversas especialidades y niveles jerárquicos ha sido fundamental para el progreso exitoso del proyecto en ingeniería.
+
+<br>
+
+**Josmar Vela Sarazú** <br>
+**TB2**
+ 
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TB2**
+
 
 
 </td>
