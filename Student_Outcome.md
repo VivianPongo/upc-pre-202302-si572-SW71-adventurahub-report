@@ -57,7 +57,7 @@ En esta fase del proyecto, hemos realizado el desarrollo del frontend de Adventu
 
 **Josmar Vela Sarazú** <br>
 **TB2**
- 
+ Se ha realizado el desarrollo del Backend de AdventureHub. Durante el periodo de desarrollo se realizaron reuniones virtuales con regularidad, lo cual nos permitio tener una comunicación efectiva.
 
 <br>
 
@@ -134,7 +134,7 @@ Durante el proceso de desarrollo del frontend, he mantenido una comunicación co
 
 **Josmar Vela Sarazú** <br>
 **TB2**
- 
+ Durante el desarrollo del Backend de AdventureHub, se realizaron reuniones virtuales con regularidad lo cual nos permitio tener una comunicación efectiva. Además, investigue sobre la implementación del modelo DDD para el backend al utilizar micriservicios.
 
 <br>
 
