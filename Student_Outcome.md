@@ -85,8 +85,10 @@ Durante el proyecto se logró verificar el backend para las necesidades del proy
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Miguel Angel Bustillos Alayo** <br>
 **TB2**
+Se desarrolló junto a un Squad por afinidad para la elaboracion del proyecto Frontend, se comunicó los Pull Requests, estándares de código y comunicación abierta para repartir vistas establecidas
+del proyecto. Además, se planeó el deploy de la aplicacion y buenas practicas en ello.
 
 
 
@@ -160,8 +162,9 @@ Durante el proceso de verificación de backend,se logró mantener la comicación
 
 <br>
 
-**Mauricio Oscar Nuñez Melgarejo** <br>
+**Miguel Angel Bustillos Alayo** <br>
 **TB2**
+Se comunica las ideas escritas por medio de encuestas para asignación de tareas, documentos para el despliegue y entornos locales y se estableció por diversos medios de comunicación los deadlines del proyecto de Frontend
 
 
 
