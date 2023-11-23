@@ -1415,14 +1415,12 @@ Mensaje de Confirmacion de Reserva
   <strong>Evidence Web Application</strong>
 
   A continuación se presenta una imagen donde se evidencia la url brindada por Firebase y que se muestra el Home de nuestro Web Application, donde mostramos los paquetes turísticos, también hemos implementado el toolbar y navigation bar, search packages por región y un filtrado de paquetes por la región seleccionada.
-<div align="center">
+<di align="center">
   <img src="https://iot20231.blob.core.windows.net/imgs/report/mob/deploy2.png">
-  </div>
+  </di
 
 
-
-
-#### 6.2.1.8. Team Collaboration Insights during Sprint
+#### 7.2.1.8. Team Collaboration Insights during Sprint
 
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
@@ -1444,6 +1442,312 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
           <img src="https://iot20231.blob.core.windows.net/imgs/report/mob/con2.png" alt="Branches.">
         </div>
         En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Web Application. Se evidencia que todo el equipo ha participado.
+
+
+
+
+### 7.2.2 Sprint 2
+En esta sección, documentaremos y explicaremos el progreso del Sprint 2 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+#### 7.2.2.1 Sprint Planning 2
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 2. Comenzaremos con una introducción que establecerá el contexto y la importancia de esta reunión. Luego, exploraremos los elementos clave de la reunión, incluyendo la agenda, los objetivos, y cómo se prepara el equipo para el sprint.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2023-10-10</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión en Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Moran Moreno, Ivan</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Pongo Quisocala, Vivian Maite / Moran Moreno, Ivan / Chumpitaz Paredes, Alessandro Paris / Cuentas Mariano, Patrick Johan / Nuñez Melgarejo, Mauricio Oscar / Vela Sarazú, Josmar / Castillo Rengifo, Renato Clotario / Bustillos Alayo, Miguel Angel / Palomino Medina, Oscar Enrique</td>
+  </tr>
+  <tr>
+    <td>Sprint n -1 Review Summary</td>
+    <td>Bueno, el sprint anterior fue desarrollado de manera conjunta y organizada entre todos los miembros del equipo. Se logro el sprint goal del sprint 1, esto lo deducimos del seguimiento continuo que hemos realizado a las funcionalidades implementadas tanto para nuestra Landing Page como para nuestra Web Application.
+
+    Comentarios Miembros del Equipo:
+
+      Ivan Moran: En mi opinión, el sprint 1 fue mejorable, con la Landing Page y la aplicación web cumpliendo teniendo varios feedbacks para su mejora en implementacion y funcionalidad.
+      
+    Feedback Product Owner - Angel Velasquez: En el sprint 1, el product owner acepto gran parte de las funcionalidades desarrolladas. Cabe destacar que dejo comentarios para una mejora continua. Su mensaje fue el siguiente: Completar artefactos que faltan. Por ejemplo User Flow debe ser uno por cada user goal, implementacion de DDD en la estructura del backend. 
+      
+  </td>
+  </tr>
+  <tr>
+    <td>Sprint n -1 Retrospective Summary</td>
+    <td>En el sprint anterior, el equipo realizó una primera versión del Landing Page, del Web Application y mobile. Se comenzó a desarrollar la parte core de nuestro negocio. A continuación algunos comentarios de que aciertos u oportunidades de mejoras identificaron los integrantes.
+    
+    Comentarios Miembros del Equipo:
+
+      Ivan Moran: El Sprint 1 nos sirvio para marcar las bases del desarrollo de nuestro proyecto y en la delegacion de tareas por equipos.
+
+   </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint 2 Goal</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Goal</td>
+    <td>Desarrollar una nueva versión de la landing page y la web application. Del mismo modo, una versión inicial del Web Services, Mobile Application. Con el desarrollo de estos productos software, nos permitira ejemplificar nuestra idea de negocio como solución software y compartirla con nuestros segmentos objetivos. <br>
+      Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos las siguientes métricas:<br>
+      1. Número de usuarios registrados en nuestro web application: Mediremos cuántos usuarios se han registrado para probar nuestra interfaz durante el período del sprint. El objetivo será atraer al menos 10 usuarios nuevos.<br>
+      2. Funcionalidades implementadas en la web application: Realizaremos un seguimiento de las funcionalidades clave implementadas en la web application y estableceremos un objetivo de cuántas de estas funcionalidades deben estar listas al final del sprint. Por ejemplo, podríamos tener como objetivo tener implementadas al menos 5 funcionalidades esenciales.<br>
+      3. Endpoints generados en nuestro Web Services: Realizaremos una documentación y medición en % de cuantos endpoints nos falta por desarrollar
+      <br>
+      4. Retroalimentación de los usuarios: Recopilaremos retroalimentación de los usuarios para evaluar su satisfacción con la funcionalidad inicial de la web application y su percepción de la landing page, asi como la mobile application.</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>33</td>
+  </tr>
+</table>
+
+
+#### 7.2.2.3. Development Evidence for Sprint Review.
+A continuación, se brinda una visión general de las contribuciones realizadas en dos repositorios del proyecto, incluyendo detalles como la rama empleada, el identificador del commit, el mensaje del commit y su cuerpo, además de la fecha en que se llevaron dichos commits. 
+
+<table>
+<thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/landing-page</td>
+    <td>develop</td>
+    <td>a4cbaf2ebfd56e2f7b89d6e61b8364c104251974</td>
+    <td>feat: About the team video integrated</td>
+    <td></td>
+    <td>13/10/2023</td>
+  </tr>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/landing-page</td>
+    <td>develop</td>
+    <td>7bd7296cb1a028d6b15946baca3033754d73ade2</td>
+    <td>feat: english language by default</td>
+    <td></td>
+    <td>14/10/2023</td>
+  </tr>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/mobile</td>
+    <td>develop</td>
+    <td>f08a816faad9593a45c65fb59be98f31c66ba3f0</td>
+    <td>feat: adventurebot added</td>
+    <td></td>
+    <td>18/10/2023</td>
+  </tr>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/mobile</td>
+    <td>main</td>
+    <td>81c00426904a32c583d1b18d247a6f1547428d00</td>
+    <td>feat: flask endpoint added </td>
+    <td></td>
+    <td>18/10/2023</td>
+  </tr>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/web</td>
+    <td>feature/display</td>
+    <td>6c4ae7a7264daa83b9dc2608c5507a868e6e3320</td>
+    <td>chore: sign in added</td>
+    <td></td>
+    <td>18/10/2023</td>
+  </tr>
+  <tr>
+    <td>https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/web</td>
+    <td>feature/display</td>
+    <td>81ba8561a4b312ab0d3b7e694a7cddb235cec724</td>
+    <td>feat: cards implemented</td>
+    <td></td>
+    <td>18/10/2023</td>
+  </tr>
+</tbody>
+</table>
+
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Para este Sprint-2 se inicio la realización de tests para validar el correcto funcionamiento de los commands, services y queries de los distintos servicios y controllers. 
+
+Para este entregable se inicio con la realización de tests para el servicio de IOT Devices, el cual es el servicio principal de la aplicación.
+
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/test1.png" alt="evidence">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/test2.png" alt="evidence">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/test3.png" alt="evidence">
+
+#### 6.2.2.5. Execution Evidence for Sprint Review.
+
+Las siguientes imagenes reflejan los paquetes turísticos con estado visible para los turistas.
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob1.png" alt="home">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob2.png" alt="filter-in-home">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob3.png" alt="filter-2-in-home">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob4.png" alt="agency-packages">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob5.png" alt="add-tour">
+
+<img src="https://iot202302.blob.core.windows.net/imgs/emergentes/mob6.png" alt="add-tour2">
+
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review.
+  A continuación, se presentan los endpoints realizados para el entregable TB2 acorde con el Sprint 2.  Pero antes, cabe mencionar que se logró desarrollar los endpoint principales relacionados a la funcionalidad core de nuestra web application y mobile application.
+
+<table>
+<thead>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Descripción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="    <td><a href="">https://adventure-hub.azurewebsites.net/api/v1/trips</a></td>
+">https://adventure-hub.azurewebsites.net/api/v1/trips</a></td>
+    <td>POST</td>
+    <td>
+        El presente endpoint sirve para obtener los viajes posibles.
+        <br></br>
+        La acción que permite es un get:
+        <br></br>
+        [
+					{
+						"id": 0,
+						"status": "ACTIVE",
+						"name": "string",
+						"start_date": "2023-11-23T20:29:40.005Z",
+						"end_date": "2023-11-23T20:29:40.006Z",
+						"price": 0,
+						"group_size": "string",
+						"stock": 0,
+						"destination_name": "string",
+						"thumbnail": "string",
+						"average_rating": "string"
+					}
+				]
+        <br></br>
+        <div align="center">
+        <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-6/Resources/sprint2/service_1.png">
+        </div>
+  </td>
+  </tr>
+  <tr>
+    <td><a href="">https://adventure-hub.azurewebsites.net/api/v1/auth/register</a></td>
+    <td>POST</td>
+    <td>
+     El presente endpoint sirve para registrar a una agencia.
+        <br></br>
+        La acción que permite es un post y el request body es el siguiente:
+        <br></br>
+        {
+					"email": "string",
+					"password": "stringst",
+					"role": "TRAVELER",
+					"username": "string"
+				}
+        <br></br>
+        <div align="center">
+        <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/auth.png">
+        </div>
+        <br></br>
+        Response, cuando se hace la acción correctamente:
+        {
+					"email": "string",
+					"password": "stringst",
+					"role": "TRAVELER",
+					"username": "string"
+				}
+        <br></br>
+        Emplea el AuthResouce:
+        <br></br>
+        <div align="center">
+        <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/auth.png">
+        </div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review.
+  #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
+  En este Sprint, se llevaron a cabo una serie de actividades relacionadas con el despliegue de Landing Page y Web Application. Estas actividades abarcaron la creación de la página a la cuál pueden acceder los visitantes para que pueden conocer Life Travel y luego si desean convertirse en usuarios. Por otro lado, se desarrolló la primera versión del Web Application, que por el momento obtiene data de un json web server o fake api. Ahora, continuamos con la evidencia de despliegue. 
+
+  <strong>Evidence Deployment Landing Page</strong>
+  
+  En este sprint, se puede evidenciar el cuadro de acciones en nuestro repositorio de Landing Page en GitHub. Esto está relacionado a GitHub Pages, donde estamos hosteando nuestro Landing Page.
+  <div align="center">
+  <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/deploy1.png" alt="contributor-evidence.">
+  </div>
+  
+  <strong>Evidence Web Application</strong>
+
+  A continuación se presenta una imagen donde se evidencia la url brindada por Firebase y que se muestra el Home de nuestro Web Application, donde mostramos los paquetes turísticos, también hemos implementado el toolbar y navigation bar, search packages por región y un filtrado de paquetes por la región seleccionada.
+<di align="center">
+  <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/deploy2.png">
+  </di
+
+
+
+
+#### 7.2.1.8. Team Collaboration Insights during Sprint
+
+A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
+
+<strong>Analíticos de GitHUb</strong>
+
+  + Web Services
+      + Contributors
+          <div align="center">
+        <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/con1.png" alt="contributor-evidence.">
+        </div>
+        En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+      
+
+
+  + Web Application
+
+      + Contributors
+          <div align="center">
+          <img src="https://iot202302.blob.core.windows.net/imgs/emergentes/swagger/con2.png" alt="Branches.">
+        </div>
+        En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Web Application. Se evidencia que todo el equipo ha participado.
+
+
+
+
+
+
       
 ### 7.3. Validation Interviews
 
