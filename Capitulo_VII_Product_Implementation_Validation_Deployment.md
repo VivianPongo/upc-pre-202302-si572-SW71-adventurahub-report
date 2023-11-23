@@ -1546,18 +1546,20 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 
 | Entrevista #3 |  |  
 |----------|----------|
-| Nombre    | Luis   | 
-| Apellidos    | Martinez Flores   | 
-| Edad    | 23   |
-| Distrito   | Cell 2   | 
-| Aplicaciones Usadas    | Cell 5   | 
-| Motivacion    | Cell 8   |
-| Frustración    | 23   |
-| Tecnologias   | Cell 2   | 
-| Evidencia    | Cell 5   | 
-| Link  | Cell 8   |
-| Duración    | Cell 5   | 
-| Resumen  | Cell 8   |
+| Nombre    | Mirajha Lilem   | 
+| Apellidos    | Rivera Mendoza   | 
+| Edad    | 27   |
+| Distrito   | Santiago de Surco  | 
+| Aplicaciones Usadas    | Zoom   | 
+| Motivacion    | Conseguir incremento de clientes  |
+| Frustración    | Disminución de Cantidad de clientes   |
+| Tecnologias   | Windows y android  | 
+| Evidencia    | <div align="center">
+  <img src="resources/tb2/entrevista_Lilem.png" alt="entrevista lilem">
+</div>| 
+| Link  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822717_upc_edu_pe/EdJljAx2nK9GgbMlDw4bXvkB2koTATRkM_GzhAaTyg0rzQ?e=YvwBdC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
+| Duración    | 7:06   | 
+| Resumen  | Mirajha Lilem Rivera, de 27 años, trabaja como asistente en una agencia de viajes y reservación de vuelos en Perú, actualmente vive y labura en el distrito de Santiago de Surco. Lilem Cree que la aplicación web es fácil de usar y cree que los clientes podrían usarlo de forma intuitiva. Sin embargo, cree que deberíamos añadir entre las recomendaciones que brindaremos, el clima y mejores comidas de la zona a la que viajarán, para que de este modo también se le facilite a los clientes la estadía y prevean lo necesario para dicho viaje. |
 
 <br></br>
 
