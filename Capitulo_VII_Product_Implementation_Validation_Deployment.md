@@ -1445,6 +1445,11 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
         </div>
         En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Web Application. Se evidencia que todo el equipo ha participado.
       
+### 7.3. Validation Interviews
+
+### 7.3.1. Diseño de Entrevistas
+
+### 7.3.2. Registro de Entrevistas
 
 ### 7.3.3. Evaluaciones según heurísticas
 
