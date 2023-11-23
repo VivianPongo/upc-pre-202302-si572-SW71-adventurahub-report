@@ -28,3 +28,10 @@ Enlace: [About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2
 
 [![About The Team](https://iot20231.blob.core.windows.net/imgs/report/mob/team.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EWLcggmqaS9ArGE8CnUBzyIBOvbSXhs7lPm6GlBCLDI5ZA?e=c5z4qF)
 Enlace: [About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913455_upc_edu_pe/EWLcggmqaS9ArGE8CnUBzyIBOvbSXhs7lPm6GlBCLDI5ZA?e=c5z4qF)
+
+
+## Exposure video TF
+
+[![Exposure video TF](https://iot202302.blob.core.windows.net/imgs/report/expo.png)](https://upcedupe-my.sharepoint.com/personal/u201919381_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201919381%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202302%2D%20si572%2Dsw71%2Dadventurehub%2Dexpo%2Dtf%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+Enlace: [Exposure video TF](https://upcedupe-my.sharepoint.com/personal/u201919381_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201919381%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202302%2D%20si572%2Dsw71%2Dadventurehub%2Dexpo%2Dtf%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
