@@ -1753,6 +1753,21 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 
 ### 7.3.1. Diseño de Entrevistas
 
+Diseño de Entrevistas Cliente.
+El siguiente diseño de entrevista aplica para los segmentos objetivos de nuestro proyecto, es decir para las agencias de viajes.
+a.	Datos Demográficos
+•	Recolectar la siguiente información acerca del entrevistado:
+	Nombre.
+	Ocupación.
+	Centro de trabajo.
+	Tiempo de experiencia en la ocupación.
+Antes de pasar a las preguntas principales, se le debe mostrar al entrevistado el frontend y el prototipo de la aplicación, mencionándole las principales funcionalidades y explicando el propósito de nuestra aplicación.
+b.	Preguntas principales
+•	¿Después de ver el aplicativo que podría acotar o recomendar para la mejora de esta?
+•	¿Puede mencionar alguna funcionalidad adicional, de las que se les mostró en la exposición, que le puedan ayudar para la eficiencia de su trabajo?
+•	¿En base a lo mostrado, usted estaría dispuesto a adquirir un plan pagado para obtener mejores funciones en la aplicación?
+ estas eran las preguntas antiguas
+
 ### 7.3.2. Registro de Entrevistas
 
 <strong>Segmento Cliente</strong><br>
