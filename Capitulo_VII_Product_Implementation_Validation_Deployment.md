@@ -1451,6 +1451,79 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 
 ### 7.3.2. Registro de Entrevistas
 
+<strong>Segmento Cliente</strong><br>
+
+<table style="undefined;table-layout: fixed; width: 910px">
+<colgroup>
+<col style="width: 220px">
+<col style="width: 700px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>José</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Moreno</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Rimac</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Viajes familiares</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Gastar mucho tiempo en planificar viajes y buscar precios accesibles</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows y Smarthphone Android</td>
+  </tr>
+  <tr>
+    <td colspan="2">Evidencia
+			<div align="center">
+				<img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/Capitulo_VII_Product_Implementation_Validation_Deployment/resources/tb1/Entrevista-Sistema-Cliente-1.png" alt="Entrevista Evidencia">
+			</div>
+		</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611746_upc_edu_pe/EeywbWf3g_ZCp_lszGHtZRABJrmPoce7rmDaaa0XphA3wg?e=iJlZ1F" title="Title">Microsoft Stream</p>
+		</td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>
+		00:00 min - 6: 41 min
+		</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+	    El entrevistado José Carlos Moreno, un estudiante de ingeniería de software de la UPC, después de observa las funcionalidades del sistema, se le pide que brinde recomendaciones para mejorarlo. Él propone la inclusión de notificaciones sobre nuevas promociones y disponibilidad de cupos, así como cambiar la paleta de colores para que se ajuste más al estilo de la aplicación de viajes. En cuanto a características adicionales, José Carlos sugiere la implementación de un mensaje de "agotado" para los paquetes sin cupos, evitando que el usuario realice acciones innecesarias. También se plantea la posibilidad de adquirir un plan de pago para acceder a funciones extras, mostrando su disposición a pagar por mejoras en futuras actualizaciones de la aplicación.
+    </td>
+  </tr>
+</tbody>
+</table>
+
 ### 7.3.3. Evaluaciones según heurísticas
 
 #### 7.3.3.1. Escala de severidad
