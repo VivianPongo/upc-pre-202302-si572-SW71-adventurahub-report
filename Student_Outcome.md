@@ -208,6 +208,48 @@ Ayude a estructurar el documento de manera lógica y coherente, utilizando secci
 Se comunica las ideas escritas por medio de encuestas para asignación de tareas, documentos para el despliegue y entornos locales y se estableció por diversos medios de comunicación los deadlines del proyecto de Frontend
 
 
+<br><br>
+
+
+## TF
+
+**Vivian Maite Pongo Quisocala** <br>
+**TF**
+En esta fase del proyecto, hemos realizado el desarrollo del frontend de AdventureHub. Para ello se ha mantenido una comunicación constante con los miembros del equipo.
+
+**Josmar Vela Sarazú** <br>
+**TF**
+ 
+
+<br>
+
+**Renato Clotario Castillo Rengifo** <br>
+**TF**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TF**
+Fomente la participación y el diálogo, animando a todos a hacer preguntas y expresar sus inquietudes durante las reuniones en Discord.
+
+<br>
+
+**Alessandro** <br>
+**TB2**
+
+
+<br>
+
+**Oscar** <br>
+**TF**
+
+
+<br>
+
+**Miguel Angel Bustillos Alayo** <br>
+**TF**
+
 
 </td>
     <td>En conclusion, la capacidad de comunicar oralmente ideas y resultados con objetividad a públicos de diferentes especialidades y niveles jerárquicos en el contexto del desarrollo de proyectos de ingeniería representa un logro fundamental en la formación de un ingeniero. Esta habilidad no solo fortalece la colaboración interdisciplinaria y la toma de decisiones basadas en datos, sino que también demuestra la versatilidad y adaptabilidad del profesional. Es un elemento esencial para el éxito en el campo de la ingeniería, donde la comunicación efectiva juega un papel crítico en la consecución de objetivos y la resolución de problemas complejos.</td>
