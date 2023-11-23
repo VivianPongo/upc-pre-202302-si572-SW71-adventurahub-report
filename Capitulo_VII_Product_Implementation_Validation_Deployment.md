@@ -1531,15 +1531,15 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 | Nombre    | Luis   | 
 | Apellidos    | Martinez Flores   | 
 | Edad    | 23   |
-| Distrito   | Cell 2   | 
-| Aplicaciones Usadas    | Cell 5   | 
-| Motivacion    | Cell 8   |
-| Frustración    | 23   |
-| Tecnologias   | Cell 2   | 
-| Evidencia    | Cell 5   | 
-| Link  | Cell 8   |
-| Duración    | Cell 5   | 
-| Resumen  | Cell 8   |
+| Distrito   | Rimac   | 
+| Aplicaciones Usadas    | Zoom   | 
+| Motivacion    | Conseguir un aumento o bono en su trabajo  |
+| Frustración    | La baja venta de paquetes de viajes   |
+| Tecnologias   | Laptop Windows y Smarthphone Android   | 
+| Evidencia    | ![](resources/tb2/entrevista-vivian.PNG)  | 
+| Link  | https://youtu.be/7BM5XkPENPY   |
+| Duración    | 5:13   | 
+| Resumen  | Luis Martínez, de 23 años, trabaja como agente en la agencia de viajes Viaja Perú. Actualmente, reside en la ciudad de Lima y está soltero. Luis muestra preferencia por el sistema operativo Android y es usuario recurrente de redes sociales como Instagram, Facebook y WhatsApp. En cuanto a su labor como agente de viajes, menciona que suele recibir alrededor de 10 consultas diarias, pero la conversión de contactos en compradores finales es relativamente baja en comparación con el número inicial de personas contactadas. Respecto a la plataforma mostrada en la entrevista, Luis no tiene grandes quejas sobre sus funcionalidades. No obstante, sugiere la incorporación de colores más claros o la opción de un tema con fondo blanco. Además, recomienda aumentar el tamaño de la letra para facilitar la lectura sin forzar la vista.|
 
 
 <br></br>
