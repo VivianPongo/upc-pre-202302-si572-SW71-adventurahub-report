@@ -1524,6 +1524,99 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 </tbody>
 </table>
 
+**Segmento agencias de viaje**
+
+| Entrevista #2 |  |  
+|----------|----------|
+| Nombre    | Luis   | 
+| Apellidos    | Martinez Flores   | 
+| Edad    | 23   |
+| Distrito   | Cell 2   | 
+| Aplicaciones Usadas    | Cell 5   | 
+| Motivacion    | Cell 8   |
+| Frustración    | 23   |
+| Tecnologias   | Cell 2   | 
+| Evidencia    | Cell 5   | 
+| Link  | Cell 8   |
+| Duración    | Cell 5   | 
+| Resumen  | Cell 8   |
+
+
+<br></br>
+
+| Entrevista #3 |  |  
+|----------|----------|
+| Nombre    | Luis   | 
+| Apellidos    | Martinez Flores   | 
+| Edad    | 23   |
+| Distrito   | Cell 2   | 
+| Aplicaciones Usadas    | Cell 5   | 
+| Motivacion    | Cell 8   |
+| Frustración    | 23   |
+| Tecnologias   | Cell 2   | 
+| Evidencia    | Cell 5   | 
+| Link  | Cell 8   |
+| Duración    | Cell 5   | 
+| Resumen  | Cell 8   |
+
+<br></br>
+
+
+| Entrevista #4 |  |  
+|----------|----------|
+| Nombre    | Luis   | 
+| Apellidos    | Martinez Flores   | 
+| Edad    | 23   |
+| Distrito   | Cell 2   | 
+| Aplicaciones Usadas    | Cell 5   | 
+| Motivacion    | Cell 8   |
+| Frustración    | 23   |
+| Tecnologias   | Cell 2   | 
+| Evidencia    | Cell 5   | 
+| Link  | Cell 8   |
+| Duración    | Cell 5   | 
+| Resumen  | Cell 8   |
+
+<br></br>
+
+
+| Entrevista #2 |  |  
+|----------|----------|
+| Nombre    | Luis   | 
+| Apellidos    | Martinez Flores   | 
+| Edad    | 23   |
+| Distrito   | Cell 2   | 
+| Aplicaciones Usadas    | Cell 5   | 
+| Motivacion    | Cell 8   |
+| Frustración    | 23   |
+| Tecnologias   | Cell 2   | 
+| Evidencia    | Cell 5   | 
+| Link  | Cell 8   |
+| Duración    | Cell 5   | 
+| Resumen  | Cell 8   |
+
+<br></br>
+
+
+| Entrevista #2 |  |  
+|----------|----------|
+| Nombre    | Luis   | 
+| Apellidos    | Martinez Flores   | 
+| Edad    | 23   |
+| Distrito   | Cell 2   | 
+| Aplicaciones Usadas    | Cell 5   | 
+| Motivacion    | Cell 8   |
+| Frustración    | 23   |
+| Tecnologias   | Cell 2   | 
+| Evidencia    | Cell 5   | 
+| Link  | Cell 8   |
+| Duración    | Cell 5   | 
+| Resumen  | Cell 8   |
+
+
+<br></br>
+
+
 ### 7.3.3. Evaluaciones según heurísticas
 
 #### 7.3.3.1. Escala de severidad
