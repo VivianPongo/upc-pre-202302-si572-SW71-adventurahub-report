@@ -91,6 +91,46 @@ Se desarrolló junto a un Squad por afinidad para la elaboracion del proyecto Fr
 del proyecto. Además, se planeó el deploy de la aplicacion y buenas practicas en ello.
 
 
+## TF
+
+**Vivian Maite Pongo Quisocala** <br>
+**TF**
+En esta fase del proyecto, hemos realizado el desarrollo del frontend de AdventureHub. Para ser especificos el desarrollo de la vista de los paquetes de viajes. Por otro lado se han hecho mejoras del trabajo anterior
+
+**Josmar Vela Sarazú** <br>
+**TF**
+ 
+
+<br>
+
+**Renato Clotario Castillo Rengifo** <br>
+**TF**
+
+
+<br>
+
+**Mauricio Oscar Nuñez Melgarejo** <br>
+**TF**
+Fomente la participación y el diálogo, animando a todos a hacer preguntas y expresar sus inquietudes durante las reuniones en Discord.
+
+<br>
+
+**Alessandro** <br>
+**TB2**
+
+
+<br>
+
+**Oscar** <br>
+**TF**
+
+
+<br>
+
+**Miguel Angel Bustillos Alayo** <br>
+**TF**
+
+
 
 </td>
     <td>En conclusión, la habilidad de comunicar oralmente ideas y resultados con objetividad a una audiencia diversa en el ámbito de la ingeniería no solo es esencial, sino que también refleja la versatilidad y adaptabilidad del ingeniero. Esta competencia facilita la colaboración interdisciplinaria, promueve la toma de decisiones informadas y asegura que la información se transmita de manera precisa, lo que, en última instancia, contribuye al éxito de los proyectos de ingeniería y al logro de sus objetivos.</td>
